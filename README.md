@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-196-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-197-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,10 +16,10 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 172 | 87.8% |
+| 🟨 JavaScript | 172 | 87.3% |
 | 🗄️ SQL | 13 | 6.6% |
-| ⚙️ C++ | 6 | 3.1% |
-| 🐍 Python | 5 | 2.6% |
+| ⚙️ C++ | 7 | 3.6% |
+| 🐍 Python | 5 | 2.5% |
 
 ---
 
@@ -124,6 +124,7 @@ Each problem is organized into its own folder:
 | 1667 | Find Kth Bit In Nth Binary String | 🟨 JavaScript |
 | 1683 | Maximum Number Of Coins You Can Get | ⚙️ C++ |
 | 1742 | Widest Vertical Area Between Two Points Containing No Points | 🟨 JavaScript |
+| 1784 | Check If Binary String Has At Most One Segment Of Ones | ⚙️ C++ |
 | 1786 | Count The Number Of Consistent Strings | 🟨 JavaScript |
 | 1791 | Richest Customer Wealth | 🟨 JavaScript |
 | 1797 | Goal Parser Interpretation | 🟨 JavaScript |
