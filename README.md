@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-197-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-203-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,9 +16,9 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 172 | 87.3% |
-| 🗄️ SQL | 13 | 6.6% |
-| ⚙️ C++ | 7 | 3.6% |
+| 🟨 JavaScript | 172 | 84.7% |
+| ⚙️ C++ | 13 | 6.4% |
+| 🗄️ SQL | 13 | 6.4% |
 | 🐍 Python | 5 | 2.5% |
 
 ---
@@ -74,10 +74,12 @@ Each problem is organized into its own folder:
 | 258 | Add Digits | 🟨 JavaScript |
 | 283 | Move Zeroes | 🟨 JavaScript |
 | 326 | Power Of Three | 🟨 JavaScript |
+| 338 | Counting Bits | ⚙️ C++ |
 | 342 | Power Of Four | 🟨 JavaScript |
 | 345 | Reverse Vowels Of A String | 🟨 JavaScript |
 | 387 | First Unique Character In A String | 🟨 JavaScript |
 | 485 | Max Consecutive Ones | 🟨 JavaScript |
+| 500 | Keyboard Row | ⚙️ C++ |
 | 507 | Perfect Number | 🟨 JavaScript |
 | 584 | Find Customer Referee | 🗄️ SQL |
 | 610 | Triangle Judgement | 🗄️ SQL |
@@ -164,6 +166,7 @@ Each problem is organized into its own folder:
 | 2365 | Percentage Of Letter In String | ⚙️ C++ |
 | 2383 | Add Two Integers | ⚙️ C++ |
 | 2427 | First Letter To Appear Twice | 🟨 JavaScript |
+| 2460 | Apply Operations To An Array | ⚙️ C++ |
 | 2481 | Strictly Palindromic Number | 🟨 JavaScript |
 | 2491 | Smallest Even Multiple | 🟨 JavaScript |
 | 2495 | Number Of Unique Subjects Taught By Each Teacher | 🗄️ SQL |
@@ -199,7 +202,9 @@ Each problem is organized into its own folder:
 | 2884 | Modify Columns | 🐍 Python |
 | 2888 | Reshape Data Concatenate | 🐍 Python |
 | 2917 | Count Pairs Whose Sum Is Less Than Target | 🟨 JavaScript |
+| 2966 | Divide Array Into Arrays With Max Difference | ⚙️ C++ |
 | 2998 | Count Symmetric Integers | 🟨 JavaScript |
+| 3131 | Findthe Integer Addedto Array- I | ⚙️ C++ |
 | 3154 | Maximum Value Of An Ordered Triplet I | 🟨 JavaScript |
 | 3172 | Divisible And Non Divisible Sums Difference | 🟨 JavaScript |
 | 3176 | Minimum Sum Of Mountain Triplets I | 🟨 JavaScript |
@@ -220,6 +225,7 @@ Each problem is organized into its own folder:
 | 3582 | Find Indices Of Stable Mountains | 🟨 JavaScript |
 | 3651 | Transformed Array | 🟨 JavaScript |
 | 3778 | Transform Array By Parity | 🟨 JavaScript |
+| 3798 | Largest Even Number | ⚙️ C++ |
 | 3811 | Reverse Degree Of A String | 🟨 JavaScript |
 | 3816 | Dna Pattern Recognition | 🗄️ SQL |
 | 3830 | Find Closest Person | 🟨 JavaScript |
