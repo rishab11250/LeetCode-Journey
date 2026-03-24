@@ -1,9 +1,9 @@
 name: Update README
 
 on:
+  push:
+    branches: [main]
   workflow_dispatch:
-  schedule:
-    - cron: '0 0 */5 * *'
 
 jobs:
   update-readme:
@@ -13,14 +13,30 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            .github/counter.txt
+            README.md
+          sparse-checkout-cone-mode: false
+
+      - name: Increment counter
+        run: |
+          count=$(cat .github/counter.txt)
+          new_count=$((count + 1))
+          echo $new_count > .github/counter.txt
+          echo "count=$new_count" >> $GITHUB_OUTPUT
+        id: counter
 
       - name: Generate README
+        if: steps.counter.outputs.count == '5'
         run: node .github/scripts/generate-readme.js
 
       - name: Commit and Push
+        if: steps.counter.outputs.count == '5'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
+          echo 0 > .github/counter.txt
+          git add README.md .github/counter.txt
           git diff --quiet || git commit -m "docs: auto-update README stats"
           git push
