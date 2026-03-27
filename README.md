@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-217-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-220-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,9 +16,9 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 173 | 79.7% |
-| ⚙️ C++ | 26 | 12.0% |
-| 🗄️ SQL | 13 | 6.0% |
+| 🟨 JavaScript | 173 | 78.6% |
+| ⚙️ C++ | 29 | 13.2% |
+| 🗄️ SQL | 13 | 5.9% |
 | 🐍 Python | 5 | 2.3% |
 
 ---
@@ -113,6 +113,7 @@ Each problem is organized into its own folder:
 | 1444 | Number Of Steps To Reduce A Number To Zero | 🟨 JavaScript |
 | 1462 | List The Products Ordered In A Period | 🗄️ SQL |
 | 1468 | Check If N And Its Double Exist | 🟨 JavaScript |
+| 1475 | Final Prices With A Special Discount In A Shop | ⚙️ C++ |
 | 1476 | Count Negative Numbers In A Sorted Matrix | 🟨 JavaScript |
 | 1482 | How Many Numbers Are Smaller Than The Current Number | 🟨 JavaScript |
 | 1505 | Create Target Array In The Given Order | 🟨 JavaScript |
@@ -185,6 +186,7 @@ Each problem is organized into its own folder:
 | 2561 | Number Of Distinct Averages | 🟨 JavaScript |
 | 2571 | Find The Pivot Integer | 🟨 JavaScript |
 | 2575 | Minimum Cuts To Divide A Circle | 🟨 JavaScript |
+| 2586 | Count The Number Of Vowel Strings In Range | ⚙️ C++ |
 | 2589 | Maximum Value Of A String In An Array | 🟨 JavaScript |
 | 2608 | Count The Digits That Divide A Number | 🟨 JavaScript |
 | 2614 | Maximum Count Of Positive Integer And Negative Integer | 🟨 JavaScript |
@@ -245,6 +247,7 @@ Each problem is organized into its own folder:
 | 3830 | Find Closest Person | 🟨 JavaScript |
 | 3832 | Minimum Cost To Reach Every Position | 🟨 JavaScript |
 | 3846 | Minimum Operations To Make Array Sum Divisible By K | 🟨 JavaScript |
+| 3857 | Minimum Cost To Split Into Ones | ⚙️ C++ |
 | 3872 | Find Most Frequent Vowel And Consonant | 🟨 JavaScript |
 | 3918 | Check Divisibility By Digit Sum And Product | 🟨 JavaScript |
 | 3995 | Gcd Of Odd And Even Sums | 🟨 JavaScript |
