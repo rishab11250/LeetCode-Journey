@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-220-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-221-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 173 | 78.6% |
-| ⚙️ C++ | 29 | 13.2% |
+| 🟨 JavaScript | 173 | 78.3% |
+| ⚙️ C++ | 30 | 13.6% |
 | 🗄️ SQL | 13 | 5.9% |
 | 🐍 Python | 5 | 2.3% |
 
@@ -217,6 +217,7 @@ Each problem is organized into its own folder:
 | 2917 | Count Pairs Whose Sum Is Less Than Target | 🟨 JavaScript |
 | 2966 | Divide Array Into Arrays With Max Difference | ⚙️ C++ |
 | 2998 | Count Symmetric Integers | 🟨 JavaScript |
+| 3079 | Find The Sum Of Encrypted Integers | ⚙️ C++ |
 | 3131 | Findthe Integer Addedto Array- I | ⚙️ C++ |
 | 3154 | Maximum Value Of An Ordered Triplet I | 🟨 JavaScript |
 | 3172 | Divisible And Non Divisible Sums Difference | 🟨 JavaScript |
