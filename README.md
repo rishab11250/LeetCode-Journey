@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-221-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-222-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 173 | 78.3% |
-| ⚙️ C++ | 30 | 13.6% |
+| 🟨 JavaScript | 173 | 77.9% |
+| ⚙️ C++ | 31 | 14.0% |
 | 🗄️ SQL | 13 | 5.9% |
 | 🐍 Python | 5 | 2.3% |
 
@@ -174,6 +174,7 @@ Each problem is organized into its own folder:
 | 2324 | Find Triangular Sum Of An Array | 🟨 JavaScript |
 | 2365 | Percentage Of Letter In String | ⚙️ C++ |
 | 2383 | Add Two Integers | ⚙️ C++ |
+| 2389 | Check If Strings Can Be Made Equal With Operations I | ⚙️ C++ |
 | 2427 | First Letter To Appear Twice | 🟨 JavaScript |
 | 2460 | Apply Operations To An Array | ⚙️ C++ |
 | 2481 | Strictly Palindromic Number | 🟨 JavaScript |
