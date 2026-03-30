@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-222-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-223-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,10 +16,10 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 173 | 77.9% |
-| ⚙️ C++ | 31 | 14.0% |
-| 🗄️ SQL | 13 | 5.9% |
-| 🐍 Python | 5 | 2.3% |
+| 🟨 JavaScript | 173 | 77.6% |
+| ⚙️ C++ | 32 | 14.3% |
+| 🗄️ SQL | 13 | 5.8% |
+| 🐍 Python | 5 | 2.2% |
 
 ---
 
@@ -251,6 +251,7 @@ Each problem is organized into its own folder:
 | 3846 | Minimum Operations To Make Array Sum Divisible By K | 🟨 JavaScript |
 | 3857 | Minimum Cost To Split Into Ones | ⚙️ C++ |
 | 3872 | Find Most Frequent Vowel And Consonant | 🟨 JavaScript |
+| 3884 | First Matching Character From Both Ends | ⚙️ C++ |
 | 3918 | Check Divisibility By Digit Sum And Product | 🟨 JavaScript |
 | 3995 | Gcd Of Odd And Even Sums | 🟨 JavaScript |
 | 4008 | Restore Finishing Order | 🟨 JavaScript |
