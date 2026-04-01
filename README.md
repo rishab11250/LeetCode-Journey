@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-226-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-227-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,9 +16,9 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 173 | 76.5% |
-| ⚙️ C++ | 35 | 15.5% |
-| 🗄️ SQL | 13 | 5.8% |
+| 🟨 JavaScript | 174 | 76.7% |
+| ⚙️ C++ | 35 | 15.4% |
+| 🗄️ SQL | 13 | 5.7% |
 | 🐍 Python | 5 | 2.2% |
 
 ---
@@ -200,6 +200,7 @@ Each problem is organized into its own folder:
 | 2698 | Find The Array Concatenation Value | 🟨 JavaScript |
 | 2714 | Left And Right Sum Differences | 🟨 JavaScript |
 | 2724 | Sort By | 🟨 JavaScript |
+| 2727 | Is Object Empty | 🟨 JavaScript |
 | 2732 | Counter | 🟨 JavaScript |
 | 2744 | Find Maximum Number Of String Pairs | ⚙️ C++ |
 | 2748 | Calculate Delayed Arrival Time | 🟨 JavaScript |
