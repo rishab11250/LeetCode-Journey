@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-229-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-230-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 76.0% |
-| ⚙️ C++ | 37 | 16.2% |
+| 🟨 JavaScript | 174 | 75.7% |
+| ⚙️ C++ | 38 | 16.5% |
 | 🗄️ SQL | 13 | 5.7% |
 | 🐍 Python | 5 | 2.2% |
 
@@ -238,6 +238,7 @@ Each problem is organized into its own folder:
 | 3379 | Score Of A String | 🟨 JavaScript |
 | 3396 | Valid Word | 🟨 JavaScript |
 | 3412 | Permutation Difference Between Two Strings | 🟨 JavaScript |
+| 3432 | Count Partitions With Even Sum Difference | ⚙️ C++ |
 | 3461 | Check If Digits Are Equal In String After Operations I | ⚙️ C++ |
 | 3463 | Flip Square Submatrix Vertically | ⚙️ C++ |
 | 3471 | Minimum Average Of Smallest And Largest Elements | 🟨 JavaScript |
