@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-232-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-233-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,10 +16,10 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 75.0% |
-| ⚙️ C++ | 40 | 17.2% |
+| 🟨 JavaScript | 174 | 74.7% |
+| ⚙️ C++ | 41 | 17.6% |
 | 🗄️ SQL | 13 | 5.6% |
-| 🐍 Python | 5 | 2.2% |
+| 🐍 Python | 5 | 2.1% |
 
 ---
 
@@ -181,6 +181,7 @@ Each problem is organized into its own folder:
 | 2367 | Number Of Arithmetic Triplets | ⚙️ C++ |
 | 2383 | Add Two Integers | ⚙️ C++ |
 | 2389 | Check If Strings Can Be Made Equal With Operations I | ⚙️ C++ |
+| 2410 | Maximum Matching Of Players With Trainers | ⚙️ C++ |
 | 2427 | First Letter To Appear Twice | 🟨 JavaScript |
 | 2460 | Apply Operations To An Array | ⚙️ C++ |
 | 2481 | Strictly Palindromic Number | 🟨 JavaScript |
