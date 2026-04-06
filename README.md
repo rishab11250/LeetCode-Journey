@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-231-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-232-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 75.3% |
-| ⚙️ C++ | 39 | 16.9% |
+| 🟨 JavaScript | 174 | 75.0% |
+| ⚙️ C++ | 40 | 17.2% |
 | 🗄️ SQL | 13 | 5.6% |
 | 🐍 Python | 5 | 2.2% |
 
@@ -81,6 +81,7 @@ Each problem is organized into its own folder:
 | 345 | Reverse Vowels Of A String | 🟨 JavaScript |
 | 387 | First Unique Character In A String | 🟨 JavaScript |
 | 412 | Fizz Buzz | ⚙️ C++ |
+| 455 | Assign Cookies | ⚙️ C++ |
 | 476 | Number Complement | ⚙️ C++ |
 | 485 | Max Consecutive Ones | 🟨 JavaScript |
 | 500 | Keyboard Row | ⚙️ C++ |
