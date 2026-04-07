@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-233-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-235-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,9 +16,9 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 74.7% |
-| ⚙️ C++ | 41 | 17.6% |
-| 🗄️ SQL | 13 | 5.6% |
+| 🟨 JavaScript | 174 | 74.0% |
+| ⚙️ C++ | 43 | 18.3% |
+| 🗄️ SQL | 13 | 5.5% |
 | 🐍 Python | 5 | 2.1% |
 
 ---
@@ -105,6 +105,7 @@ Each problem is organized into its own folder:
 | 942 | D I String Match | ⚙️ C++ |
 | 1009 | Complement Of Base10 Integer | ⚙️ C++ |
 | 1019 | Squares Of A Sorted Array | 🟨 JavaScript |
+| 1025 | Divisor Game | ⚙️ C++ |
 | 1027 | Sum Of Even Numbers After Queries | ⚙️ C++ |
 | 1078 | Occurrences After Bigram | ⚙️ C++ |
 | 1153 | Product Sales Analysis I | 🗄️ SQL |
@@ -181,6 +182,7 @@ Each problem is organized into its own folder:
 | 2367 | Number Of Arithmetic Triplets | ⚙️ C++ |
 | 2383 | Add Two Integers | ⚙️ C++ |
 | 2389 | Check If Strings Can Be Made Equal With Operations I | ⚙️ C++ |
+| 2404 | Most Frequent Even Element | ⚙️ C++ |
 | 2410 | Maximum Matching Of Players With Trainers | ⚙️ C++ |
 | 2427 | First Letter To Appear Twice | 🟨 JavaScript |
 | 2460 | Apply Operations To An Array | ⚙️ C++ |
