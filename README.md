@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-237-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-238-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 73.4% |
-| ⚙️ C++ | 45 | 19.0% |
+| 🟨 JavaScript | 174 | 73.1% |
+| ⚙️ C++ | 46 | 19.3% |
 | 🗄️ SQL | 13 | 5.5% |
 | 🐍 Python | 5 | 2.1% |
 
@@ -188,6 +188,7 @@ Each problem is organized into its own folder:
 | 2427 | First Letter To Appear Twice | 🟨 JavaScript |
 | 2460 | Apply Operations To An Array | ⚙️ C++ |
 | 2481 | Strictly Palindromic Number | 🟨 JavaScript |
+| 2490 | Circular Sentence | ⚙️ C++ |
 | 2491 | Smallest Even Multiple | 🟨 JavaScript |
 | 2495 | Number Of Unique Subjects Taught By Each Teacher | 🗄️ SQL |
 | 2502 | Sort The People | 🟨 JavaScript |
