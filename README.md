@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-238-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-239-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,9 +16,9 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 73.1% |
-| ⚙️ C++ | 46 | 19.3% |
-| 🗄️ SQL | 13 | 5.5% |
+| 🟨 JavaScript | 174 | 72.8% |
+| ⚙️ C++ | 47 | 19.7% |
+| 🗄️ SQL | 13 | 5.4% |
 | 🐍 Python | 5 | 2.1% |
 
 ---
@@ -78,6 +78,7 @@ Each problem is organized into its own folder:
 | 326 | Power Of Three | 🟨 JavaScript |
 | 338 | Counting Bits | ⚙️ C++ |
 | 342 | Power Of Four | 🟨 JavaScript |
+| 344 | Reverse String | ⚙️ C++ |
 | 345 | Reverse Vowels Of A String | 🟨 JavaScript |
 | 387 | First Unique Character In A String | 🟨 JavaScript |
 | 412 | Fizz Buzz | ⚙️ C++ |
