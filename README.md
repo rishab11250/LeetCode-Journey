@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-239-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-240-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 72.8% |
-| ⚙️ C++ | 47 | 19.7% |
+| 🟨 JavaScript | 174 | 72.5% |
+| ⚙️ C++ | 48 | 20.0% |
 | 🗄️ SQL | 13 | 5.4% |
 | 🐍 Python | 5 | 2.1% |
 
@@ -104,6 +104,7 @@ Each problem is organized into its own folder:
 | 792 | Binary Search | 🟨 JavaScript |
 | 861 | Flipping An Image | 🟨 JavaScript |
 | 899 | Binary Gap | 🟨 JavaScript |
+| 917 | Reverse Only Letters | ⚙️ C++ |
 | 942 | D I String Match | ⚙️ C++ |
 | 1009 | Complement Of Base10 Integer | ⚙️ C++ |
 | 1019 | Squares Of A Sorted Array | 🟨 JavaScript |
