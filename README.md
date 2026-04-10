@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-240-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-241-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 72.5% |
-| ⚙️ C++ | 48 | 20.0% |
+| 🟨 JavaScript | 174 | 72.2% |
+| ⚙️ C++ | 49 | 20.3% |
 | 🗄️ SQL | 13 | 5.4% |
 | 🐍 Python | 5 | 2.1% |
 
@@ -259,6 +259,7 @@ Each problem is organized into its own folder:
 | 3582 | Find Indices Of Stable Mountains | 🟨 JavaScript |
 | 3651 | Transformed Array | 🟨 JavaScript |
 | 3653 | X O R After Range Multiplication Queries I | ⚙️ C++ |
+| 3740 | Minimum Distance Between Three Equal Elements I | ⚙️ C++ |
 | 3778 | Transform Array By Parity | 🟨 JavaScript |
 | 3798 | Largest Even Number | ⚙️ C++ |
 | 3811 | Reverse Degree Of A String | 🟨 JavaScript |
