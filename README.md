@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-246-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-247-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 70.7% |
-| ⚙️ C++ | 54 | 22.0% |
+| 🟨 JavaScript | 174 | 70.4% |
+| ⚙️ C++ | 55 | 22.3% |
 | 🗄️ SQL | 13 | 5.3% |
 | 🐍 Python | 5 | 2.0% |
 
@@ -105,6 +105,7 @@ Each problem is organized into its own folder:
 | 782 | Jewels And Stones | 🟨 JavaScript |
 | 792 | Binary Search | 🟨 JavaScript |
 | 861 | Flipping An Image | 🟨 JavaScript |
+| 877 | Stone Game | ⚙️ C++ |
 | 899 | Binary Gap | 🟨 JavaScript |
 | 917 | Reverse Only Letters | ⚙️ C++ |
 | 942 | D I String Match | ⚙️ C++ |
