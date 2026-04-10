@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-243-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-244-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,10 +16,10 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 71.6% |
-| ⚙️ C++ | 51 | 21.0% |
+| 🟨 JavaScript | 174 | 71.3% |
+| ⚙️ C++ | 52 | 21.3% |
 | 🗄️ SQL | 13 | 5.3% |
-| 🐍 Python | 5 | 2.1% |
+| 🐍 Python | 5 | 2.0% |
 
 ---
 
@@ -50,6 +50,7 @@ Each problem is organized into its own folder:
 | 29 | Divide Two Integers | ⚙️ C++ |
 | 34 | Find First And Last Position Of Element In Sorted Array | 🟨 JavaScript |
 | 35 | Search Insert Position | 🟨 JavaScript |
+| 49 | Group Anagrams | ⚙️ C++ |
 | 50 | Powx N | 🟨 JavaScript |
 | 58 | Length Of Last Word | 🟨 JavaScript |
 | 65 | Valid Number | 🟨 JavaScript |
