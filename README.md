@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-248-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-249-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 70.2% |
-| ⚙️ C++ | 56 | 22.6% |
+| 🟨 JavaScript | 174 | 69.9% |
+| ⚙️ C++ | 57 | 22.9% |
 | 🗄️ SQL | 13 | 5.2% |
 | 🐍 Python | 5 | 2.0% |
 
@@ -128,6 +128,7 @@ Each problem is organized into its own folder:
 | 1475 | Final Prices With A Special Discount In A Shop | ⚙️ C++ |
 | 1476 | Count Negative Numbers In A Sorted Matrix | 🟨 JavaScript |
 | 1482 | How Many Numbers Are Smaller Than The Current Number | 🟨 JavaScript |
+| 1503 | Last Moment Before All Ants Fall Out Of A Plank | ⚙️ C++ |
 | 1505 | Create Target Array In The Given Order | 🟨 JavaScript |
 | 1520 | Number Of Steps To Reduce A Number In Binary Representation To One | 🟨 JavaScript |
 | 1525 | Queries On A Permutation With Key | 🟨 JavaScript |
