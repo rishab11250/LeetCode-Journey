@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-249-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-250-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,9 +16,9 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 69.9% |
-| ⚙️ C++ | 57 | 22.9% |
-| 🗄️ SQL | 13 | 5.2% |
+| 🟨 JavaScript | 174 | 69.6% |
+| ⚙️ C++ | 57 | 22.8% |
+| 🗄️ SQL | 14 | 5.6% |
 | 🐍 Python | 5 | 2.0% |
 
 ---
@@ -132,6 +132,7 @@ Each problem is organized into its own folder:
 | 1505 | Create Target Array In The Given Order | 🟨 JavaScript |
 | 1520 | Number Of Steps To Reduce A Number In Binary Representation To One | 🟨 JavaScript |
 | 1525 | Queries On A Permutation With Key | 🟨 JavaScript |
+| 1527 | Patients With A Condition | 🗄️ SQL |
 | 1528 | Kids With The Greatest Number Of Candies | 🟨 JavaScript |
 | 1551 | Minimum Operations To Make Array Equal | ⚙️ C++ |
 | 1566 | Check If A Word Occurs As A Prefix Of Any Word In A Sentence | 🟨 JavaScript |
