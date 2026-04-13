@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-253-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-254-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 68.8% |
-| ⚙️ C++ | 60 | 23.7% |
+| 🟨 JavaScript | 174 | 68.5% |
+| ⚙️ C++ | 61 | 24.0% |
 | 🗄️ SQL | 14 | 5.5% |
 | 🐍 Python | 5 | 2.0% |
 
@@ -116,6 +116,7 @@ Each problem is organized into its own folder:
 | 1078 | Occurrences After Bigram | ⚙️ C++ |
 | 1153 | Product Sales Analysis I | 🗄️ SQL |
 | 1205 | Defanging An Ip Address | 🟨 JavaScript |
+| 1207 | Unique Number Of Occurrences | ⚙️ C++ |
 | 1221 | Split A String In Balanced Strings | ⚙️ C++ |
 | 1236 | N Th Tribonacci Number | 🟨 JavaScript |
 | 1293 | Three Consecutive Odds | 🟨 JavaScript |
