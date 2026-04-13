@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-254-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-255-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 68.5% |
-| ⚙️ C++ | 61 | 24.0% |
+| 🟨 JavaScript | 174 | 68.2% |
+| ⚙️ C++ | 62 | 24.3% |
 | 🗄️ SQL | 14 | 5.5% |
 | 🐍 Python | 5 | 2.0% |
 
@@ -277,6 +277,7 @@ Each problem is organized into its own folder:
 | 3846 | Minimum Operations To Make Array Sum Divisible By K | 🟨 JavaScript |
 | 3857 | Minimum Cost To Split Into Ones | ⚙️ C++ |
 | 3867 | Sum Of G C D Of Formed Pairs | ⚙️ C++ |
+| 3870 | Count Commas In Range | ⚙️ C++ |
 | 3872 | Find Most Frequent Vowel And Consonant | 🟨 JavaScript |
 | 3880 | Minimum Absolute Difference Between Two Values | ⚙️ C++ |
 | 3884 | First Matching Character From Both Ends | ⚙️ C++ |
