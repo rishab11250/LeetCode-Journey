@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-258-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-259-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 67.4% |
-| ⚙️ C++ | 65 | 25.2% |
+| 🟨 JavaScript | 174 | 67.2% |
+| ⚙️ C++ | 66 | 25.5% |
 | 🗄️ SQL | 14 | 5.4% |
 | 🐍 Python | 5 | 1.9% |
 
@@ -204,6 +204,7 @@ Each problem is organized into its own folder:
 | 2491 | Smallest Even Multiple | 🟨 JavaScript |
 | 2495 | Number Of Unique Subjects Taught By Each Teacher | 🗄️ SQL |
 | 2502 | Sort The People | 🟨 JavaScript |
+| 2515 | Shortest Distance To Target String In A Circular Array | ⚙️ C++ |
 | 2519 | Find The Original Array Of Prefix Xor | 🟨 JavaScript |
 | 2542 | Average Value Of Even Numbers That Are Divisible By Three | ⚙️ C++ |
 | 2556 | Convert The Temperature | 🟨 JavaScript |
