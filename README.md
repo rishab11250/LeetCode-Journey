@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-259-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-260-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 67.2% |
-| ⚙️ C++ | 66 | 25.5% |
+| 🟨 JavaScript | 174 | 66.9% |
+| ⚙️ C++ | 67 | 25.8% |
 | 🗄️ SQL | 14 | 5.4% |
 | 🐍 Python | 5 | 1.9% |
 
@@ -147,6 +147,7 @@ Each problem is organized into its own folder:
 | 1635 | Number Of Good Pairs | 🟨 JavaScript |
 | 1646 | Kth Missing Positive Number | 🟨 JavaScript |
 | 1651 | Shuffle String | 🟨 JavaScript |
+| 1652 | Defuse The Bomb | ⚙️ C++ |
 | 1656 | Count Good Triplets | 🟨 JavaScript |
 | 1667 | Find Kth Bit In Nth Binary String | 🟨 JavaScript |
 | 1683 | Maximum Number Of Coins You Can Get | ⚙️ C++ |
