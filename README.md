@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-256-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-257-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,10 +16,10 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 68.0% |
-| ⚙️ C++ | 63 | 24.6% |
-| 🗄️ SQL | 14 | 5.5% |
-| 🐍 Python | 5 | 2.0% |
+| 🟨 JavaScript | 174 | 67.7% |
+| ⚙️ C++ | 64 | 24.9% |
+| 🗄️ SQL | 14 | 5.4% |
+| 🐍 Python | 5 | 1.9% |
 
 ---
 
@@ -216,6 +216,7 @@ Each problem is organized into its own folder:
 | 2624 | Difference Between Element Sum And Digit Sum Of An Array | 🟨 JavaScript |
 | 2630 | Alternating Digit Sum | 🟨 JavaScript |
 | 2631 | Sort The Students By Their Kth Score | 🟨 JavaScript |
+| 2657 | Find The Prefix Common Array Of Two Arrays | ⚙️ C++ |
 | 2698 | Find The Array Concatenation Value | 🟨 JavaScript |
 | 2714 | Left And Right Sum Differences | 🟨 JavaScript |
 | 2724 | Sort By | 🟨 JavaScript |
