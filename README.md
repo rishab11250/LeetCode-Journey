@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-261-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-262-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,9 +16,9 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 66.7% |
-| ⚙️ C++ | 68 | 26.1% |
-| 🗄️ SQL | 14 | 5.4% |
+| 🟨 JavaScript | 174 | 66.4% |
+| ⚙️ C++ | 69 | 26.3% |
+| 🗄️ SQL | 14 | 5.3% |
 | 🐍 Python | 5 | 1.9% |
 
 ---
@@ -250,6 +250,7 @@ Each problem is organized into its own folder:
 | 3079 | Find The Sum Of Encrypted Integers | ⚙️ C++ |
 | 3131 | Findthe Integer Addedto Array- I | ⚙️ C++ |
 | 3154 | Maximum Value Of An Ordered Triplet I | 🟨 JavaScript |
+| 3162 | Find The Number Of Good Pairs I | ⚙️ C++ |
 | 3172 | Divisible And Non Divisible Sums Difference | 🟨 JavaScript |
 | 3176 | Minimum Sum Of Mountain Triplets I | 🟨 JavaScript |
 | 3194 | Find Words Containing Character | 🟨 JavaScript |
