@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-264-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-265-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 65.9% |
-| ⚙️ C++ | 71 | 26.9% |
+| 🟨 JavaScript | 174 | 65.7% |
+| ⚙️ C++ | 72 | 27.2% |
 | 🗄️ SQL | 14 | 5.3% |
 | 🐍 Python | 5 | 1.9% |
 
@@ -207,6 +207,7 @@ Each problem is organized into its own folder:
 | 2502 | Sort The People | 🟨 JavaScript |
 | 2515 | Shortest Distance To Target String In A Circular Array | ⚙️ C++ |
 | 2519 | Find The Original Array Of Prefix Xor | 🟨 JavaScript |
+| 2525 | Categorize Box According To Criteria | ⚙️ C++ |
 | 2542 | Average Value Of Even Numbers That Are Divisible By Three | ⚙️ C++ |
 | 2556 | Convert The Temperature | 🟨 JavaScript |
 | 2561 | Number Of Distinct Averages | 🟨 JavaScript |
