@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-262-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-263-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 66.4% |
-| ⚙️ C++ | 69 | 26.3% |
+| 🟨 JavaScript | 174 | 66.2% |
+| ⚙️ C++ | 70 | 26.6% |
 | 🗄️ SQL | 14 | 5.3% |
 | 🐍 Python | 5 | 1.9% |
 
@@ -213,6 +213,7 @@ Each problem is organized into its own folder:
 | 2571 | Find The Pivot Integer | 🟨 JavaScript |
 | 2575 | Minimum Cuts To Divide A Circle | 🟨 JavaScript |
 | 2586 | Count The Number Of Vowel Strings In Range | ⚙️ C++ |
+| 2587 | Rearrange Array To Maximize Prefix Score | ⚙️ C++ |
 | 2589 | Maximum Value Of A String In An Array | 🟨 JavaScript |
 | 2608 | Count The Digits That Divide A Number | 🟨 JavaScript |
 | 2614 | Maximum Count Of Positive Integer And Negative Integer | 🟨 JavaScript |
