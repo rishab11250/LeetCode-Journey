@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-266-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-267-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,9 +16,9 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 65.4% |
-| ⚙️ C++ | 73 | 27.4% |
-| 🗄️ SQL | 14 | 5.3% |
+| 🟨 JavaScript | 174 | 65.2% |
+| ⚙️ C++ | 74 | 27.7% |
+| 🗄️ SQL | 14 | 5.2% |
 | 🐍 Python | 5 | 1.9% |
 
 ---
@@ -201,6 +201,7 @@ Each problem is organized into its own folder:
 | 2410 | Maximum Matching Of Players With Trainers | ⚙️ C++ |
 | 2427 | First Letter To Appear Twice | 🟨 JavaScript |
 | 2460 | Apply Operations To An Array | ⚙️ C++ |
+| 2475 | Number Of Unequal Triplets In Array | ⚙️ C++ |
 | 2481 | Strictly Palindromic Number | 🟨 JavaScript |
 | 2490 | Circular Sentence | ⚙️ C++ |
 | 2491 | Smallest Even Multiple | 🟨 JavaScript |
