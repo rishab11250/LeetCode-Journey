@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-267-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-268-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 65.2% |
-| ⚙️ C++ | 74 | 27.7% |
+| 🟨 JavaScript | 174 | 64.9% |
+| ⚙️ C++ | 75 | 28.0% |
 | 🗄️ SQL | 14 | 5.2% |
 | 🐍 Python | 5 | 1.9% |
 
@@ -179,6 +179,7 @@ Each problem is organized into its own folder:
 | 1993 | Sum Of All Subset Xor Totals | 🟨 JavaScript |
 | 2048 | Build Array From Permutation | 🟨 JavaScript |
 | 2058 | Concatenation Of Array | 🟨 JavaScript |
+| 2078 | Two Furthest Houses With Different Colors | ⚙️ C++ |
 | 2137 | Final Value Of Variable After Performing Operations | 🟨 JavaScript |
 | 2148 | Minimum Number Of Moves To Seat Everyone | 🟨 JavaScript |
 | 2149 | Rearrange Array Elements By Sign | ⚙️ C++ |
