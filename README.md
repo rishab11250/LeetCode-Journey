@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-268-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-269-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 64.9% |
-| ⚙️ C++ | 75 | 28.0% |
+| 🟨 JavaScript | 174 | 64.7% |
+| ⚙️ C++ | 76 | 28.3% |
 | 🗄️ SQL | 14 | 5.2% |
 | 🐍 Python | 5 | 1.9% |
 
@@ -124,6 +124,7 @@ Each problem is organized into its own folder:
 | 1236 | N Th Tribonacci Number | 🟨 JavaScript |
 | 1293 | Three Consecutive Odds | 🟨 JavaScript |
 | 1323 | Maximum69 Number | ⚙️ C++ |
+| 1394 | Find Lucky Integer In An Array | ⚙️ C++ |
 | 1406 | Subtract The Product And Sum Of Digits Of An Integer | 🟨 JavaScript |
 | 1407 | Group The People Given The Group Size They Belong To | 🟨 JavaScript |
 | 1444 | Number Of Steps To Reduce A Number To Zero | 🟨 JavaScript |
