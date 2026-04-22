@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-270-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-271-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,10 +16,10 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 64.4% |
-| ⚙️ C++ | 77 | 28.5% |
-| 🗄️ SQL | 14 | 5.2% |
-| 🐍 Python | 5 | 1.9% |
+| 🟨 JavaScript | 174 | 64.2% |
+| ⚙️ C++ | 77 | 28.4% |
+| 🗄️ SQL | 15 | 5.5% |
+| 🐍 Python | 5 | 1.8% |
 
 ---
 
@@ -166,6 +166,7 @@ Each problem is organized into its own folder:
 | 1839 | Decode Xored Array | 🟨 JavaScript |
 | 1848 | Minimum Distance To The Target Element | ⚙️ C++ |
 | 1884 | Minimum Changes To Make Alternating Binary String | 🟨 JavaScript |
+| 1890 | The Latest Login In2020 | 🗄️ SQL |
 | 1892 | Find Total Time Spent By Each Employee | 🗄️ SQL |
 | 1894 | Merge Strings Alternately | 🟨 JavaScript |
 | 1895 | Minimum Number Of Operations To Move All Balls To Each Box | 🟨 JavaScript |
