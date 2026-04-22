@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-269-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-270-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 64.7% |
-| ⚙️ C++ | 76 | 28.3% |
+| 🟨 JavaScript | 174 | 64.4% |
+| ⚙️ C++ | 77 | 28.5% |
 | 🗄️ SQL | 14 | 5.2% |
 | 🐍 Python | 5 | 1.9% |
 
@@ -298,6 +298,7 @@ Each problem is organized into its own folder:
 | 3890 | Integers With Multiple Sum Of Two Cubes | ⚙️ C++ |
 | 3894 | Traffic Signal Color | ⚙️ C++ |
 | 3895 | Count Digit Appearances | ⚙️ C++ |
+| 3903 | Smallest Stable Index I | ⚙️ C++ |
 | 3918 | Check Divisibility By Digit Sum And Product | 🟨 JavaScript |
 | 3995 | Gcd Of Odd And Even Sums | 🟨 JavaScript |
 | 4008 | Restore Finishing Order | 🟨 JavaScript |
