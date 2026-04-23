@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-271-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-272-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 64.2% |
-| ⚙️ C++ | 77 | 28.4% |
+| 🟨 JavaScript | 174 | 64.0% |
+| ⚙️ C++ | 78 | 28.7% |
 | 🗄️ SQL | 15 | 5.5% |
 | 🐍 Python | 5 | 1.8% |
 
@@ -72,6 +72,7 @@ Each problem is organized into its own folder:
 | 169 | Majority Element | 🟨 JavaScript |
 | 182 | Duplicate Emails | 🗄️ SQL |
 | 189 | Rotate Array | 🟨 JavaScript |
+| 202 | Happy Number | ⚙️ C++ |
 | 205 | Isomorphic Strings | ⚙️ C++ |
 | 215 | Kth Largest Element In An Array | 🟨 JavaScript |
 | 231 | Power Of Two | 🟨 JavaScript |
