@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-272-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-273-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 64.0% |
-| ⚙️ C++ | 78 | 28.7% |
+| 🟨 JavaScript | 174 | 63.7% |
+| ⚙️ C++ | 79 | 28.9% |
 | 🗄️ SQL | 15 | 5.5% |
 | 🐍 Python | 5 | 1.8% |
 
@@ -243,6 +243,7 @@ Each problem is organized into its own folder:
 | 2812 | Find The Maximum Achievable Number | 🟨 JavaScript |
 | 2813 | To Be Or Not To Be | 🟨 JavaScript |
 | 2820 | Return Length Of Arguments Passed | 🟨 JavaScript |
+| 2833 | Furthest Point From Origin | ⚙️ C++ |
 | 2836 | Neither Minimum Nor Maximum | 🟨 JavaScript |
 | 2859 | Add Two Promises | 🟨 JavaScript |
 | 2864 | Maximum Odd Binary Number | ⚙️ C++ |
