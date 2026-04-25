@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-273-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-274-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 63.7% |
-| ⚙️ C++ | 79 | 28.9% |
+| 🟨 JavaScript | 174 | 63.5% |
+| ⚙️ C++ | 80 | 29.2% |
 | 🗄️ SQL | 15 | 5.5% |
 | 🐍 Python | 5 | 1.8% |
 
@@ -44,6 +44,7 @@ Each problem is organized into its own folder:
 | 8 | String To Integer(atoi) | ⚙️ C++ |
 | 9 | Palindrome Number | 🟨 JavaScript |
 | 11 | Container With Most Water | 🟨 JavaScript |
+| 12 | Integer To Roman | ⚙️ C++ |
 | 13 | Roman To Integer | 🟨 JavaScript |
 | 14 | Longest Common Prefix | ⚙️ C++ |
 | 26 | Remove Duplicates From Sorted Array | 🟨 JavaScript |
