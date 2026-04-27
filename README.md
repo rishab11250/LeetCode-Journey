@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-276-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-277-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 63.0% |
-| ⚙️ C++ | 82 | 29.7% |
+| 🟨 JavaScript | 174 | 62.8% |
+| ⚙️ C++ | 83 | 30.0% |
 | 🗄️ SQL | 15 | 5.4% |
 | 🐍 Python | 5 | 1.8% |
 
@@ -199,6 +199,7 @@ Each problem is organized into its own folder:
 | 2315 | Count Asterisks | ⚙️ C++ |
 | 2323 | Minimum Bit Flips To Convert Number | 🟨 JavaScript |
 | 2324 | Find Triangular Sum Of An Array | 🟨 JavaScript |
+| 2357 | Make Array Zero By Subtracting Equal Amounts | ⚙️ C++ |
 | 2365 | Percentage Of Letter In String | ⚙️ C++ |
 | 2367 | Number Of Arithmetic Triplets | ⚙️ C++ |
 | 2383 | Add Two Integers | ⚙️ C++ |
