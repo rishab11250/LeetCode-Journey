@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-278-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-279-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 62.6% |
-| ⚙️ C++ | 84 | 30.2% |
+| 🟨 JavaScript | 174 | 62.4% |
+| ⚙️ C++ | 85 | 30.5% |
 | 🗄️ SQL | 15 | 5.4% |
 | 🐍 Python | 5 | 1.8% |
 
@@ -180,6 +180,7 @@ Each problem is organized into its own folder:
 | 1939 | Queries On Number Of Points Inside A Circle | 🟨 JavaScript |
 | 1944 | Truncate Sentence | 🟨 JavaScript |
 | 1950 | Sign Of The Product Of An Array | 🟨 JavaScript |
+| 1952 | Three Divisors | ⚙️ C++ |
 | 1960 | Check If The Sentence Is Pangram | 🟨 JavaScript |
 | 1988 | Minimize Maximum Pair Sum In Array | 🟨 JavaScript |
 | 1993 | Sum Of All Subset Xor Totals | 🟨 JavaScript |
