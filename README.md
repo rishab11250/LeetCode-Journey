@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-279-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-280-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 62.4% |
-| ⚙️ C++ | 85 | 30.5% |
+| 🟨 JavaScript | 174 | 62.1% |
+| ⚙️ C++ | 86 | 30.7% |
 | 🗄️ SQL | 15 | 5.4% |
 | 🐍 Python | 5 | 1.8% |
 
@@ -62,6 +62,7 @@ Each problem is organized into its own folder:
 | 69 | Sqrtx | 🟨 JavaScript |
 | 75 | Sort Colors | 🟨 JavaScript |
 | 88 | Merge Sorted Array | 🟨 JavaScript |
+| 118 | Pascals Triangle | ⚙️ C++ |
 | 121 | Best Time To Buy And Sell Stock | ⚙️ C++ |
 | 125 | Valid Palindrome | 🟨 JavaScript |
 | 136 | Single Number | 🟨 JavaScript |
