@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-280-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-281-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,9 +16,9 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 62.1% |
-| ⚙️ C++ | 86 | 30.7% |
-| 🗄️ SQL | 15 | 5.4% |
+| 🟨 JavaScript | 174 | 61.9% |
+| ⚙️ C++ | 87 | 31.0% |
+| 🗄️ SQL | 15 | 5.3% |
 | 🐍 Python | 5 | 1.8% |
 
 ---
@@ -193,6 +193,7 @@ Each problem is organized into its own folder:
 | 2149 | Rearrange Array Elements By Sign | ⚙️ C++ |
 | 2163 | Kth Distinct String In An Array | 🟨 JavaScript |
 | 2168 | Check If Numbers Are Ascending In A Sentence | 🟨 JavaScript |
+| 2180 | Count Integers With Even Digit Sum | ⚙️ C++ |
 | 2219 | Maximum Number Of Words Found In Sentences | 🟨 JavaScript |
 | 2231 | Find First Palindromic String In The Array | 🟨 JavaScript |
 | 2238 | A Number After A Double Reversal | 🟨 JavaScript |
