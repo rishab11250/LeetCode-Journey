@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-281-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-282-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 61.9% |
-| ⚙️ C++ | 87 | 31.0% |
+| 🟨 JavaScript | 174 | 61.7% |
+| ⚙️ C++ | 88 | 31.2% |
 | 🗄️ SQL | 15 | 5.3% |
 | 🐍 Python | 5 | 1.8% |
 
@@ -133,6 +133,7 @@ Each problem is organized into its own folder:
 | 1406 | Subtract The Product And Sum Of Digits Of An Integer | 🟨 JavaScript |
 | 1407 | Group The People Given The Group Size They Belong To | 🟨 JavaScript |
 | 1444 | Number Of Steps To Reduce A Number To Zero | 🟨 JavaScript |
+| 1446 | Consecutive Characters | ⚙️ C++ |
 | 1462 | List The Products Ordered In A Period | 🗄️ SQL |
 | 1468 | Check If N And Its Double Exist | 🟨 JavaScript |
 | 1475 | Final Prices With A Special Discount In A Shop | ⚙️ C++ |
