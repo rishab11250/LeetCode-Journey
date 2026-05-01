@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-282-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-283-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 61.7% |
-| ⚙️ C++ | 88 | 31.2% |
+| 🟨 JavaScript | 174 | 61.5% |
+| ⚙️ C++ | 89 | 31.4% |
 | 🗄️ SQL | 15 | 5.3% |
 | 🐍 Python | 5 | 1.8% |
 
@@ -105,6 +105,7 @@ Each problem is organized into its own folder:
 | 682 | Baseball Game | 🟨 JavaScript |
 | 693 | Binary Number With Alternating Bits | 🟨 JavaScript |
 | 728 | Self Dividing Numbers | ⚙️ C++ |
+| 739 | Daily Temperatures | ⚙️ C++ |
 | 742 | To Lower Case | 🟨 JavaScript |
 | 745 | Find Smallest Letter Greater Than Target | 🟨 JavaScript |
 | 748 | Largest Number At Least Twice Of Others | 🟨 JavaScript |
