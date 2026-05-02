@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-283-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-284-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 61.5% |
-| ⚙️ C++ | 89 | 31.4% |
+| 🟨 JavaScript | 174 | 61.3% |
+| ⚙️ C++ | 90 | 31.7% |
 | 🗄️ SQL | 15 | 5.3% |
 | 🐍 Python | 5 | 1.8% |
 
@@ -111,6 +111,7 @@ Each problem is organized into its own folder:
 | 748 | Largest Number At Least Twice Of Others | 🟨 JavaScript |
 | 767 | Prime Number Of Set Bits In Binary Representation | 🟨 JavaScript |
 | 782 | Jewels And Stones | 🟨 JavaScript |
+| 788 | Rotated Digits | ⚙️ C++ |
 | 792 | Binary Search | 🟨 JavaScript |
 | 861 | Flipping An Image | 🟨 JavaScript |
 | 877 | Stone Game | ⚙️ C++ |
