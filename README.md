@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-285-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-286-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,10 +16,10 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 61.1% |
-| ⚙️ C++ | 91 | 31.9% |
-| 🗄️ SQL | 15 | 5.3% |
-| 🐍 Python | 5 | 1.8% |
+| 🟨 JavaScript | 174 | 60.8% |
+| ⚙️ C++ | 92 | 32.2% |
+| 🗄️ SQL | 15 | 5.2% |
+| 🐍 Python | 5 | 1.7% |
 
 ---
 
@@ -174,6 +174,7 @@ Each problem is organized into its own folder:
 | 1837 | Daily Leads And Partners | 🗄️ SQL |
 | 1839 | Decode Xored Array | 🟨 JavaScript |
 | 1848 | Minimum Distance To The Target Element | ⚙️ C++ |
+| 1859 | Sorting The Sentence | ⚙️ C++ |
 | 1884 | Minimum Changes To Make Alternating Binary String | 🟨 JavaScript |
 | 1890 | The Latest Login In2020 | 🗄️ SQL |
 | 1892 | Find Total Time Spent By Each Employee | 🗄️ SQL |
