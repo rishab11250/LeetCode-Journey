@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-288-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-289-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,9 +16,9 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 60.4% |
-| ⚙️ C++ | 94 | 32.6% |
-| 🗄️ SQL | 15 | 5.2% |
+| 🟨 JavaScript | 174 | 60.2% |
+| ⚙️ C++ | 94 | 32.5% |
+| 🗄️ SQL | 16 | 5.5% |
 | 🐍 Python | 5 | 1.7% |
 
 ---
@@ -97,6 +97,7 @@ Each problem is organized into its own folder:
 | 500 | Keyboard Row | ⚙️ C++ |
 | 507 | Perfect Number | 🟨 JavaScript |
 | 584 | Find Customer Referee | 🗄️ SQL |
+| 595 | Big Countries | 🗄️ SQL |
 | 610 | Triangle Judgement | 🗄️ SQL |
 | 620 | Not Boring Movies | 🗄️ SQL |
 | 627 | Swap Sex Of Employees | 🗄️ SQL |
