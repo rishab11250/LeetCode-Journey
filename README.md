@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-289-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-290-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 60.2% |
-| ⚙️ C++ | 94 | 32.5% |
+| 🟨 JavaScript | 174 | 60.0% |
+| ⚙️ C++ | 95 | 32.8% |
 | 🗄️ SQL | 16 | 5.5% |
 | 🐍 Python | 5 | 1.7% |
 
@@ -267,6 +267,7 @@ Each problem is organized into its own folder:
 | 2884 | Modify Columns | 🐍 Python |
 | 2888 | Reshape Data Concatenate | 🐍 Python |
 | 2917 | Count Pairs Whose Sum Is Less Than Target | 🟨 JavaScript |
+| 2951 | Find The Peaks | ⚙️ C++ |
 | 2966 | Divide Array Into Arrays With Max Difference | ⚙️ C++ |
 | 2998 | Count Symmetric Integers | 🟨 JavaScript |
 | 3065 | Minimum Operations To Exceed Threshold Value I | ⚙️ C++ |
