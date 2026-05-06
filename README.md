@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-292-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-294-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,9 +16,9 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 59.6% |
-| ⚙️ C++ | 97 | 33.2% |
-| 🗄️ SQL | 16 | 5.5% |
+| 🟨 JavaScript | 174 | 59.2% |
+| ⚙️ C++ | 99 | 33.7% |
+| 🗄️ SQL | 16 | 5.4% |
 | 🐍 Python | 5 | 1.7% |
 
 ---
@@ -74,6 +74,8 @@ Each problem is organized into its own folder:
 | 169 | Majority Element | 🟨 JavaScript |
 | 182 | Duplicate Emails | 🗄️ SQL |
 | 189 | Rotate Array | 🟨 JavaScript |
+| 190 | Reverse Bits | ⚙️ C++ |
+| 191 | Number Of1 Bits | ⚙️ C++ |
 | 202 | Happy Number | ⚙️ C++ |
 | 205 | Isomorphic Strings | ⚙️ C++ |
 | 215 | Kth Largest Element In An Array | 🟨 JavaScript |
