@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-294-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-296-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 59.2% |
-| ⚙️ C++ | 99 | 33.7% |
+| 🟨 JavaScript | 174 | 58.8% |
+| ⚙️ C++ | 101 | 34.1% |
 | 🗄️ SQL | 16 | 5.4% |
 | 🐍 Python | 5 | 1.7% |
 
@@ -72,6 +72,7 @@ Each problem is organized into its own folder:
 | 162 | Find Peak Element | 🟨 JavaScript |
 | 164 | Maximum Gap | 🟨 JavaScript |
 | 169 | Majority Element | 🟨 JavaScript |
+| 171 | Excel Sheet Column Number | ⚙️ C++ |
 | 182 | Duplicate Emails | 🗄️ SQL |
 | 189 | Rotate Array | 🟨 JavaScript |
 | 190 | Reverse Bits | ⚙️ C++ |
@@ -86,6 +87,7 @@ Each problem is organized into its own folder:
 | 258 | Add Digits | 🟨 JavaScript |
 | 263 | Ugly Number | ⚙️ C++ |
 | 283 | Move Zeroes | 🟨 JavaScript |
+| 292 | Nim Game | ⚙️ C++ |
 | 326 | Power Of Three | 🟨 JavaScript |
 | 338 | Counting Bits | ⚙️ C++ |
 | 342 | Power Of Four | 🟨 JavaScript |
