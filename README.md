@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-298-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-299-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 58.4% |
-| ⚙️ C++ | 103 | 34.6% |
+| 🟨 JavaScript | 174 | 58.2% |
+| ⚙️ C++ | 104 | 34.8% |
 | 🗄️ SQL | 16 | 5.4% |
 | 🐍 Python | 5 | 1.7% |
 
@@ -107,6 +107,7 @@ Each problem is organized into its own folder:
 | 620 | Not Boring Movies | 🗄️ SQL |
 | 627 | Swap Sex Of Employees | 🗄️ SQL |
 | 628 | Maximum Product Of Three Numbers | ⚙️ C++ |
+| 645 | Set Mismatch | ⚙️ C++ |
 | 657 | Robot Return To Origin | 🟨 JavaScript |
 | 682 | Baseball Game | 🟨 JavaScript |
 | 693 | Binary Number With Alternating Bits | 🟨 JavaScript |
