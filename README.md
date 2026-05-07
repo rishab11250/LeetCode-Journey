@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-296-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-297-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 58.8% |
-| ⚙️ C++ | 101 | 34.1% |
+| 🟨 JavaScript | 174 | 58.6% |
+| ⚙️ C++ | 102 | 34.3% |
 | 🗄️ SQL | 16 | 5.4% |
 | 🐍 Python | 5 | 1.7% |
 
@@ -147,6 +147,7 @@ Each problem is organized into its own folder:
 | 1475 | Final Prices With A Special Discount In A Shop | ⚙️ C++ |
 | 1476 | Count Negative Numbers In A Sorted Matrix | 🟨 JavaScript |
 | 1482 | How Many Numbers Are Smaller Than The Current Number | 🟨 JavaScript |
+| 1492 | The Kth Factor Of N | ⚙️ C++ |
 | 1503 | Last Moment Before All Ants Fall Out Of A Plank | ⚙️ C++ |
 | 1505 | Create Target Array In The Given Order | 🟨 JavaScript |
 | 1520 | Number Of Steps To Reduce A Number In Binary Representation To One | 🟨 JavaScript |
