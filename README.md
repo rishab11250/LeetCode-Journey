@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-301-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-302-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 57.8% |
-| ⚙️ C++ | 106 | 35.2% |
+| 🟨 JavaScript | 174 | 57.6% |
+| ⚙️ C++ | 107 | 35.4% |
 | 🗄️ SQL | 16 | 5.3% |
 | 🐍 Python | 5 | 1.7% |
 
@@ -202,6 +202,7 @@ Each problem is organized into its own folder:
 | 1993 | Sum Of All Subset Xor Totals | 🟨 JavaScript |
 | 2048 | Build Array From Permutation | 🟨 JavaScript |
 | 2058 | Concatenation Of Array | 🟨 JavaScript |
+| 2073 | Time Needed To Buy Tickets | ⚙️ C++ |
 | 2078 | Two Furthest Houses With Different Colors | ⚙️ C++ |
 | 2137 | Final Value Of Variable After Performing Operations | 🟨 JavaScript |
 | 2148 | Minimum Number Of Moves To Seat Everyone | 🟨 JavaScript |
