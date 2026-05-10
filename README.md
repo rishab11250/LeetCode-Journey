@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-299-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-301-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,9 +16,9 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 58.2% |
-| ⚙️ C++ | 104 | 34.8% |
-| 🗄️ SQL | 16 | 5.4% |
+| 🟨 JavaScript | 174 | 57.8% |
+| ⚙️ C++ | 106 | 35.2% |
+| 🗄️ SQL | 16 | 5.3% |
 | 🐍 Python | 5 | 1.7% |
 
 ---
@@ -329,6 +329,8 @@ Each problem is organized into its own folder:
 | 3908 | Valid Digit Number | ⚙️ C++ |
 | 3917 | Count Indices With Opposite Parity | ⚙️ C++ |
 | 3918 | Sum Of Primes Between Number And Its Reverse | ⚙️ C++ |
+| 3921 | Score Validator | ⚙️ C++ |
+| 3925 | Concatenate Array With Reverse | ⚙️ C++ |
 | 3995 | Gcd Of Odd And Even Sums | 🟨 JavaScript |
 | 4008 | Restore Finishing Order | 🟨 JavaScript |
 | 4058 | Compute Alternating Sum | 🟨 JavaScript |
