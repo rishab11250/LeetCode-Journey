@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-302-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-303-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 57.6% |
-| ⚙️ C++ | 107 | 35.4% |
+| 🟨 JavaScript | 174 | 57.4% |
+| ⚙️ C++ | 108 | 35.6% |
 | 🗄️ SQL | 16 | 5.3% |
 | 🐍 Python | 5 | 1.7% |
 
@@ -238,6 +238,7 @@ Each problem is organized into its own folder:
 | 2519 | Find The Original Array Of Prefix Xor | 🟨 JavaScript |
 | 2525 | Categorize Box According To Criteria | ⚙️ C++ |
 | 2542 | Average Value Of Even Numbers That Are Divisible By Three | ⚙️ C++ |
+| 2553 | Separate The Digits In An Array | ⚙️ C++ |
 | 2556 | Convert The Temperature | 🟨 JavaScript |
 | 2561 | Number Of Distinct Averages | 🟨 JavaScript |
 | 2566 | Maximum Difference By Remapping A Digit | ⚙️ C++ |
