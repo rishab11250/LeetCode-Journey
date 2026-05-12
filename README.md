@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-303-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-304-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,10 +16,10 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 57.4% |
-| ⚙️ C++ | 108 | 35.6% |
+| 🟨 JavaScript | 174 | 57.2% |
+| ⚙️ C++ | 109 | 35.9% |
 | 🗄️ SQL | 16 | 5.3% |
-| 🐍 Python | 5 | 1.7% |
+| 🐍 Python | 5 | 1.6% |
 
 ---
 
@@ -124,6 +124,7 @@ Each problem is organized into its own folder:
 | 861 | Flipping An Image | 🟨 JavaScript |
 | 877 | Stone Game | ⚙️ C++ |
 | 899 | Binary Gap | 🟨 JavaScript |
+| 905 | Sort Array By Parity | ⚙️ C++ |
 | 917 | Reverse Only Letters | ⚙️ C++ |
 | 942 | D I String Match | ⚙️ C++ |
 | 1009 | Complement Of Base10 Integer | ⚙️ C++ |
