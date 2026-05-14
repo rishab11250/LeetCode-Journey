@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-304-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-305-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,9 +16,9 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 57.2% |
-| ⚙️ C++ | 109 | 35.9% |
-| 🗄️ SQL | 16 | 5.3% |
+| 🟨 JavaScript | 174 | 57.0% |
+| ⚙️ C++ | 110 | 36.1% |
+| 🗄️ SQL | 16 | 5.2% |
 | 🐍 Python | 5 | 1.6% |
 
 ---
@@ -264,6 +264,7 @@ Each problem is organized into its own folder:
 | 2752 | Sum Multiples | 🟨 JavaScript |
 | 2775 | Generate Fibonacci Sequence | 🟨 JavaScript |
 | 2778 | Sum Of Squares Of Special Elements | ⚙️ C++ |
+| 2784 | Check If Array Is Good | ⚙️ C++ |
 | 2809 | Create Hello World Function | 🟨 JavaScript |
 | 2812 | Find The Maximum Achievable Number | 🟨 JavaScript |
 | 2813 | To Be Or Not To Be | 🟨 JavaScript |
