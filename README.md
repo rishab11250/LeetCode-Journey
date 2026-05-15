@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-305-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-306-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 57.0% |
-| ⚙️ C++ | 110 | 36.1% |
+| 🟨 JavaScript | 174 | 56.9% |
+| ⚙️ C++ | 111 | 36.3% |
 | 🗄️ SQL | 16 | 5.2% |
 | 🐍 Python | 5 | 1.6% |
 
@@ -51,6 +51,7 @@ Each problem is organized into its own folder:
 | 27 | Remove Element | 🟨 JavaScript |
 | 28 | Find The Index Of The First Occurrence In A String | 🟨 JavaScript |
 | 29 | Divide Two Integers | ⚙️ C++ |
+| 33 | Search In Rotated Sorted Array | ⚙️ C++ |
 | 34 | Find First And Last Position Of Element In Sorted Array | 🟨 JavaScript |
 | 35 | Search Insert Position | 🟨 JavaScript |
 | 49 | Group Anagrams | ⚙️ C++ |
