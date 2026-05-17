@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-307-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-309-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 56.7% |
-| ⚙️ C++ | 112 | 36.5% |
+| 🟨 JavaScript | 174 | 56.3% |
+| ⚙️ C++ | 114 | 36.9% |
 | 🗄️ SQL | 16 | 5.2% |
 | 🐍 Python | 5 | 1.6% |
 
@@ -337,6 +337,8 @@ Each problem is organized into its own folder:
 | 3918 | Sum Of Primes Between Number And Its Reverse | ⚙️ C++ |
 | 3921 | Score Validator | ⚙️ C++ |
 | 3925 | Concatenate Array With Reverse | ⚙️ C++ |
+| 3931 | Check Adjacent Digit Differences | ⚙️ C++ |
+| 3932 | Count K-th Roots In A Range | ⚙️ C++ |
 | 3995 | Gcd Of Odd And Even Sums | 🟨 JavaScript |
 | 4008 | Restore Finishing Order | 🟨 JavaScript |
 | 4058 | Compute Alternating Sum | 🟨 JavaScript |
