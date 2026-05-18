@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-310-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-311-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,9 +16,9 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 56.1% |
-| ⚙️ C++ | 115 | 37.1% |
-| 🗄️ SQL | 16 | 5.2% |
+| 🟨 JavaScript | 174 | 55.9% |
+| ⚙️ C++ | 116 | 37.3% |
+| 🗄️ SQL | 16 | 5.1% |
 | 🐍 Python | 5 | 1.6% |
 
 ---
@@ -298,6 +298,7 @@ Each problem is organized into its own folder:
 | 3300 | Minimum Element After Replacement With Digit Sum | ⚙️ C++ |
 | 3312 | Number Of Changing Keys | 🟨 JavaScript |
 | 3321 | Type Of Triangle | 🟨 JavaScript |
+| 3340 | Check Balanced String | ⚙️ C++ |
 | 3371 | Harshad Number | 🟨 JavaScript |
 | 3379 | Score Of A String | 🟨 JavaScript |
 | 3396 | Valid Word | 🟨 JavaScript |
