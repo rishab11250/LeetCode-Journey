@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-309-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-310-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 56.3% |
-| ⚙️ C++ | 114 | 36.9% |
+| 🟨 JavaScript | 174 | 56.1% |
+| ⚙️ C++ | 115 | 37.1% |
 | 🗄️ SQL | 16 | 5.2% |
 | 🐍 Python | 5 | 1.6% |
 
@@ -145,6 +145,7 @@ Each problem is organized into its own folder:
 | 1394 | Find Lucky Integer In An Array | ⚙️ C++ |
 | 1406 | Subtract The Product And Sum Of Digits Of An Integer | 🟨 JavaScript |
 | 1407 | Group The People Given The Group Size They Belong To | 🟨 JavaScript |
+| 1408 | String Matching In An Array | ⚙️ C++ |
 | 1444 | Number Of Steps To Reduce A Number To Zero | 🟨 JavaScript |
 | 1446 | Consecutive Characters | ⚙️ C++ |
 | 1462 | List The Products Ordered In A Period | 🗄️ SQL |
