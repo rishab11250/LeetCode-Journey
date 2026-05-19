@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-311-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-312-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 55.9% |
-| ⚙️ C++ | 116 | 37.3% |
+| 🟨 JavaScript | 174 | 55.8% |
+| ⚙️ C++ | 117 | 37.5% |
 | 🗄️ SQL | 16 | 5.1% |
 | 🐍 Python | 5 | 1.6% |
 
@@ -241,6 +241,7 @@ Each problem is organized into its own folder:
 | 2515 | Shortest Distance To Target String In A Circular Array | ⚙️ C++ |
 | 2519 | Find The Original Array Of Prefix Xor | 🟨 JavaScript |
 | 2525 | Categorize Box According To Criteria | ⚙️ C++ |
+| 2540 | Minimum Common Value | ⚙️ C++ |
 | 2542 | Average Value Of Even Numbers That Are Divisible By Three | ⚙️ C++ |
 | 2553 | Separate The Digits In An Array | ⚙️ C++ |
 | 2556 | Convert The Temperature | 🟨 JavaScript |
