@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-314-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-315-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 55.4% |
-| ⚙️ C++ | 119 | 37.9% |
+| 🟨 JavaScript | 174 | 55.2% |
+| ⚙️ C++ | 120 | 38.1% |
 | 🗄️ SQL | 16 | 5.1% |
 | 🐍 Python | 5 | 1.6% |
 
@@ -143,6 +143,7 @@ Each problem is organized into its own folder:
 | 1236 | N Th Tribonacci Number | 🟨 JavaScript |
 | 1293 | Three Consecutive Odds | 🟨 JavaScript |
 | 1323 | Maximum69 Number | ⚙️ C++ |
+| 1331 | Rank Transform Of An Array | ⚙️ C++ |
 | 1394 | Find Lucky Integer In An Array | ⚙️ C++ |
 | 1406 | Subtract The Product And Sum Of Digits Of An Integer | 🟨 JavaScript |
 | 1407 | Group The People Given The Group Size They Belong To | 🟨 JavaScript |
