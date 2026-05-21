@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-315-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-316-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 55.2% |
-| ⚙️ C++ | 120 | 38.1% |
+| 🟨 JavaScript | 174 | 55.1% |
+| ⚙️ C++ | 121 | 38.3% |
 | 🗄️ SQL | 16 | 5.1% |
 | 🐍 Python | 5 | 1.6% |
 
@@ -290,6 +290,7 @@ Each problem is organized into its own folder:
 | 2951 | Find The Peaks | ⚙️ C++ |
 | 2966 | Divide Array Into Arrays With Max Difference | ⚙️ C++ |
 | 2998 | Count Symmetric Integers | 🟨 JavaScript |
+| 3043 | Find The Length Of The Longest Common Prefix | ⚙️ C++ |
 | 3065 | Minimum Operations To Exceed Threshold Value I | ⚙️ C++ |
 | 3079 | Find The Sum Of Encrypted Integers | ⚙️ C++ |
 | 3131 | Findthe Integer Addedto Array- I | ⚙️ C++ |
