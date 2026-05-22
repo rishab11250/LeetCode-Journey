@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-316-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-317-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,9 +16,9 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 55.1% |
-| ⚙️ C++ | 121 | 38.3% |
-| 🗄️ SQL | 16 | 5.1% |
+| 🟨 JavaScript | 174 | 54.9% |
+| ⚙️ C++ | 122 | 38.5% |
+| 🗄️ SQL | 16 | 5.0% |
 | 🐍 Python | 5 | 1.6% |
 
 ---
@@ -88,6 +88,7 @@ Each problem is organized into its own folder:
 | 242 | Valid Anagram | 🟨 JavaScript |
 | 258 | Add Digits | 🟨 JavaScript |
 | 263 | Ugly Number | ⚙️ C++ |
+| 268 | Missing Number | ⚙️ C++ |
 | 283 | Move Zeroes | 🟨 JavaScript |
 | 290 | Word Pattern | ⚙️ C++ |
 | 292 | Nim Game | ⚙️ C++ |
