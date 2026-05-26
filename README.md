@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-321-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-322-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 54.2% |
-| ⚙️ C++ | 126 | 39.3% |
+| 🟨 JavaScript | 174 | 54.0% |
+| ⚙️ C++ | 127 | 39.4% |
 | 🗄️ SQL | 16 | 5.0% |
 | 🐍 Python | 5 | 1.6% |
 
@@ -295,6 +295,7 @@ Each problem is organized into its own folder:
 | 3043 | Find The Length Of The Longest Common Prefix | ⚙️ C++ |
 | 3065 | Minimum Operations To Exceed Threshold Value I | ⚙️ C++ |
 | 3079 | Find The Sum Of Encrypted Integers | ⚙️ C++ |
+| 3120 | Countthe Numberof Special Characters I | ⚙️ C++ |
 | 3131 | Findthe Integer Addedto Array- I | ⚙️ C++ |
 | 3154 | Maximum Value Of An Ordered Triplet I | 🟨 JavaScript |
 | 3162 | Find The Number Of Good Pairs I | ⚙️ C++ |
