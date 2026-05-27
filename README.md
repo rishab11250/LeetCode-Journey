@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-322-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-324-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,10 +16,10 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 54.0% |
-| ⚙️ C++ | 127 | 39.4% |
-| 🗄️ SQL | 16 | 5.0% |
-| 🐍 Python | 5 | 1.6% |
+| 🟨 JavaScript | 174 | 53.7% |
+| ⚙️ C++ | 129 | 39.8% |
+| 🗄️ SQL | 16 | 4.9% |
+| 🐍 Python | 5 | 1.5% |
 
 ---
 
@@ -73,6 +73,7 @@ Each problem is organized into its own folder:
 | 154 | Find Minimum In Rotated Sorted Array Ii | 🟨 JavaScript |
 | 162 | Find Peak Element | 🟨 JavaScript |
 | 164 | Maximum Gap | 🟨 JavaScript |
+| 167 | Two Sum I I- Input Array Is Sorted | ⚙️ C++ |
 | 169 | Majority Element | 🟨 JavaScript |
 | 171 | Excel Sheet Column Number | ⚙️ C++ |
 | 182 | Duplicate Emails | 🗄️ SQL |
@@ -213,6 +214,7 @@ Each problem is organized into its own folder:
 | 2073 | Time Needed To Buy Tickets | ⚙️ C++ |
 | 2078 | Two Furthest Houses With Different Colors | ⚙️ C++ |
 | 2089 | Find Target Indices After Sorting Array | ⚙️ C++ |
+| 2124 | Checkif All As Appears Before All Bs | ⚙️ C++ |
 | 2137 | Final Value Of Variable After Performing Operations | 🟨 JavaScript |
 | 2148 | Minimum Number Of Moves To Seat Everyone | 🟨 JavaScript |
 | 2149 | Rearrange Array Elements By Sign | ⚙️ C++ |
