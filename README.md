@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-325-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-326-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 53.5% |
-| ⚙️ C++ | 130 | 40.0% |
+| 🟨 JavaScript | 174 | 53.4% |
+| ⚙️ C++ | 131 | 40.2% |
 | 🗄️ SQL | 16 | 4.9% |
 | 🐍 Python | 5 | 1.5% |
 
@@ -355,6 +355,7 @@ Each problem is organized into its own folder:
 | 3936 | Minimum Swapsto Move Zeros To End | ⚙️ C++ |
 | 3940 | Limit Occurrencesin Sorted Array | ⚙️ C++ |
 | 3941 | Password Strength | ⚙️ C++ |
+| 3945 | Digit Frequency Score | ⚙️ C++ |
 | 3995 | Gcd Of Odd And Even Sums | 🟨 JavaScript |
 | 4008 | Restore Finishing Order | 🟨 JavaScript |
 | 4058 | Compute Alternating Sum | 🟨 JavaScript |
