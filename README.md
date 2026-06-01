@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-326-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-327-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 53.4% |
-| ⚙️ C++ | 131 | 40.2% |
+| 🟨 JavaScript | 174 | 53.2% |
+| ⚙️ C++ | 132 | 40.4% |
 | 🗄️ SQL | 16 | 4.9% |
 | 🐍 Python | 5 | 1.5% |
 
@@ -217,6 +217,7 @@ Each problem is organized into its own folder:
 | 2124 | Checkif All As Appears Before All Bs | ⚙️ C++ |
 | 2126 | Destroying Asteroids | ⚙️ C++ |
 | 2137 | Final Value Of Variable After Performing Operations | 🟨 JavaScript |
+| 2144 | Minimum Cost Of Buying Candies With Discount | ⚙️ C++ |
 | 2148 | Minimum Number Of Moves To Seat Everyone | 🟨 JavaScript |
 | 2149 | Rearrange Array Elements By Sign | ⚙️ C++ |
 | 2163 | Kth Distinct String In An Array | 🟨 JavaScript |
