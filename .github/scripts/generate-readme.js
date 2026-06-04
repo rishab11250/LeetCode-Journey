@@ -27,10 +27,11 @@ const LANG_EMOJI = {
     Go: "🐹",
 };
 
-// Scan all problem folders
+// Scan all problem folders with new language subdirectory structure
 const entries = fs.readdirSync(ROOT, { withFileTypes: true });
 const problems = [];
 const langCount = {};
+const problemLangs = {};  // Track languages per problem
 
 for (const entry of entries) {
     if (!entry.isDirectory()) continue;
@@ -39,22 +40,55 @@ for (const entry of entries) {
 
     const id = parseInt(match[1], 10);
     const name = match[2];
-    const folderPath = path.join(ROOT, entry.name);
+    const problemPath = path.join(ROOT, entry.name);
 
-    const files = fs.readdirSync(folderPath);
-    let lang = "Unknown";
-    let ext = "";
+    // New structure: problem folder contains language subdirectories
+    let languagesForProblem = [];
+    let problemFiles;
 
-    for (const file of files) {
-        ext = path.extname(file).toLowerCase();
-        if (EXT_TO_LANG[ext]) {
-            lang = EXT_TO_LANG[ext];
-            break;
+    try {
+        problemFiles = fs.readdirSync(problemPath, { withFileTypes: true });
+    } catch {
+        continue;
+    }
+
+    // Check for language subdirectories or direct solution files (backward compat)
+    for (const item of problemFiles) {
+        if (item.isDirectory()) {
+            // New structure: language subdirectory
+            const langDir = path.join(problemPath, item.name);
+            const langFiles = fs.readdirSync(langDir);
+
+            for (const file of langFiles) {
+                const ext = path.extname(file).toLowerCase();
+                if (EXT_TO_LANG[ext]) {
+                    const lang = EXT_TO_LANG[ext];
+                    if (!languagesForProblem.includes(lang)) {
+                        languagesForProblem.push(lang);
+                        langCount[lang] = (langCount[lang] || 0) + 1;
+                    }
+                    break;  // One file per language subdirectory
+                }
+            }
+        } else if (item.isFile()) {
+            // Old structure: solution file directly in problem folder (backward compat)
+            const ext = path.extname(item.name).toLowerCase();
+            if (EXT_TO_LANG[ext]) {
+                const lang = EXT_TO_LANG[ext];
+                if (!languagesForProblem.includes(lang)) {
+                    languagesForProblem.push(lang);
+                    langCount[lang] = (langCount[lang] || 0) + 1;
+                }
+            }
         }
     }
 
-    langCount[lang] = (langCount[lang] || 0) + 1;
-    problems.push({ id, name, lang, folder: entry.name });
+    // Only add problem if it has solutions
+    if (languagesForProblem.length > 0) {
+        languagesForProblem.sort();  // Alphabetical order
+        problemLangs[id] = languagesForProblem;
+        problems.push({ id, name, langs: languagesForProblem, folder: entry.name });
+    }
 }
 
 // Sort problems by ID
@@ -72,12 +106,14 @@ const langRows = Object.entries(langCount)
     })
     .join("\n");
 
-// Build problems table
+// Build problems table with all languages
 const problemRows = problems
     .map((p) => {
-        const emoji = LANG_EMOJI[p.lang] || "📄";
+        const langEmojis = p.langs
+            .map(lang => `${LANG_EMOJI[lang] || "📄"} ${lang}`)
+            .join(", ");
         const displayName = p.name.replace(/([A-Z])/g, " $1").trim();
-        return `| ${p.id} | ${displayName} | ${emoji} ${p.lang} |`;
+        return `| ${p.id} | ${displayName} | ${langEmojis} |`;
     })
     .join("\n");
 
@@ -106,19 +142,24 @@ ${langRows}
 
 ## 📁 Repository Structure
 
-Each problem is organized into its own folder:
+Each problem can have multiple language solutions organized in subdirectories:
 
 \`\`\`
 {ProblemNumber}-{ProblemName}/
-└── {ProblemNumber}-{ProblemName}.{ext}
+├── cpp/
+│   └── solution.cpp
+├── javascript/
+│   └── solution.js
+└── python/
+    └── solution.py
 \`\`\`
 
 ---
 
 ## 📝 All Solved Problems
 
-| # | Problem | Language |
-|--:|:--------|:---------|
+| # | Problem | Languages |
+|--:|:--------|:----------|
 ${problemRows}
 
 ---

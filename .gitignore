@@ -1,1 +1,8 @@
 *.exe
+
+# Migration artifacts
+migration_data.json
+migration_mapping.json
+.git-filter-repo/
+
+node_modules/
