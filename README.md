@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-327-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-328-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-4-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| 🟨 JavaScript | 174 | 53.2% |
-| ⚙️ C++ | 132 | 40.4% |
+| 🟨 JavaScript | 174 | 53.0% |
+| ⚙️ C++ | 133 | 40.5% |
 | 🗄️ SQL | 16 | 4.9% |
 | 🐍 Python | 5 | 1.5% |
 
@@ -329,6 +329,7 @@ Each problem is organized into its own folder:
 | 3651 | Transformed Array | 🟨 JavaScript |
 | 3653 | X O R After Range Multiplication Queries I | ⚙️ C++ |
 | 3740 | Minimum Distance Between Three Equal Elements I | ⚙️ C++ |
+| 3751 | Total Waviness Of Numbers In Range I | ⚙️ C++ |
 | 3778 | Transform Array By Parity | 🟨 JavaScript |
 | 3798 | Largest Even Number | ⚙️ C++ |
 | 3811 | Reverse Degree Of A String | 🟨 JavaScript |
