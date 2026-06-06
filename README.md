@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-333-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-334-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 195 | 58.6% |
-| 🟨 JavaScript | 174 | 52.3% |
+| ⚙️ C++ | 196 | 58.7% |
+| 🟨 JavaScript | 174 | 52.1% |
 | 🗄️ SQL | 16 | 4.8% |
 | 🐍 Python | 5 | 1.5% |
 | 🔷 TypeScript | 1 | 0.3% |
@@ -150,6 +150,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 1153 | Product Sales Analysis I | 🗄️ SQL |
 | 1205 | Defanging An Ip Address | 🟨 JavaScript |
 | 1207 | Unique Number Of Occurrences | ⚙️ C++ |
+| 1209 | Remove All Adjacent Duplicates In String I I | ⚙️ C++ |
 | 1221 | Split A String In Balanced Strings | ⚙️ C++ |
 | 1236 | N Th Tribonacci Number | ⚙️ C++, 🟨 JavaScript |
 | 1293 | Three Consecutive Odds | 🟨 JavaScript |
