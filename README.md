@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-335-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-334-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 197 | 58.8% |
-| 🟨 JavaScript | 175 | 52.2% |
+| ⚙️ C++ | 197 | 59.0% |
+| 🟨 JavaScript | 174 | 52.1% |
 | 🗄️ SQL | 16 | 4.8% |
 | 🐍 Python | 5 | 1.5% |
 | 🔷 TypeScript | 1 | 0.3% |
@@ -279,7 +279,6 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 2631 | Sort The Students By Their Kth Score | 🟨 JavaScript |
 | 2657 | Find The Prefix Common Array Of Two Arrays | ⚙️ C++ |
 | 2698 | Find The Array Concatenation Value | 🟨 JavaScript |
-| 2714 | Left And Right Sum Differences | 🟨 JavaScript |
 | 2716 | Minimize String Length | ⚙️ C++ |
 | 2724 | Sort By | 🟨 JavaScript |
 | 2727 | Is Object Empty | 🟨 JavaScript |
