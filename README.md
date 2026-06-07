@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-334-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-336-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 197 | 59.0% |
-| 🟨 JavaScript | 174 | 52.1% |
+| ⚙️ C++ | 199 | 59.2% |
+| 🟨 JavaScript | 174 | 51.8% |
 | 🗄️ SQL | 16 | 4.8% |
 | 🐍 Python | 5 | 1.5% |
 | 🔷 TypeScript | 1 | 0.3% |
@@ -370,6 +370,8 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 3940 | Limit Occurrencesin Sorted Array | ⚙️ C++ |
 | 3941 | Password Strength | ⚙️ C++ |
 | 3945 | Digit Frequency Score | ⚙️ C++ |
+| 3950 | Exactly One Consecutive Set Bits Pair | ⚙️ C++ |
+| 3954 | Sumof Compatible Numbersin Range I | ⚙️ C++ |
 | 3995 | Gcd Of Odd And Even Sums | 🟨 JavaScript |
 | 4008 | Restore Finishing Order | 🟨 JavaScript |
 | 4058 | Compute Alternating Sum | 🟨 JavaScript |
