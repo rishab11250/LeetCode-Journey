@@ -339,6 +339,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 3622 | Check Divisibility By Digit Sum And Product | ⚙️ C++, 🟨 JavaScript |
 | 3651 | Transformed Array | 🟨 JavaScript |
 | 3653 | X O R After Range Multiplication Queries I | ⚙️ C++ |
+| 3658 | Gcd Of Odd And Even Sums | 🟨 JavaScript |
 | 3668 | Restore Finishing Order | 🟨 JavaScript |
 | 3701 | Compute Alternating Sum | 🟨 JavaScript |
 | 3731 | Find Missing Elements | 🟨 JavaScript |
@@ -379,7 +380,6 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 3945 | Digit Frequency Score | ⚙️ C++ |
 | 3950 | Exactly One Consecutive Set Bits Pair | ⚙️ C++ |
 | 3954 | Sumof Compatible Numbersin Range I | ⚙️ C++ |
-| 3995 | Gcd Of Odd And Even Sums | 🟨 JavaScript |
 
 ---
 
