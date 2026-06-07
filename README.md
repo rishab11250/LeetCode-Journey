@@ -339,9 +339,16 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 3622 | Check Divisibility By Digit Sum And Product | ⚙️ C++, 🟨 JavaScript |
 | 3651 | Transformed Array | 🟨 JavaScript |
 | 3653 | X O R After Range Multiplication Queries I | ⚙️ C++ |
+| 3668 | Restore Finishing Order | 🟨 JavaScript |
+| 3701 | Compute Alternating Sum | 🟨 JavaScript |
+| 3731 | Find Missing Elements | 🟨 JavaScript |
 | 3740 | Minimum Distance Between Three Equal Elements I | ⚙️ C++ |
+| 3750 | Minimum Number Of Flips To Reverse Binary String | 🟨 JavaScript |
 | 3751 | Total Waviness Of Numbers In Range I | ⚙️ C++ |
+| 3760 | Maximum Substrings With Distinct Start | 🟨 JavaScript |
 | 3778 | Transform Array By Parity | 🟨 JavaScript |
+| 3783 | Mirror Distance Of An Integer | ⚙️ C++, 🟨 JavaScript |
+| 3794 | Reverse String Prefix | 🟨 JavaScript |
 | 3798 | Largest Even Number | ⚙️ C++ |
 | 3811 | Reverse Degree Of A String | 🟨 JavaScript |
 | 3816 | Dna Pattern Recognition | 🗄️ SQL |
@@ -373,13 +380,6 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 3950 | Exactly One Consecutive Set Bits Pair | ⚙️ C++ |
 | 3954 | Sumof Compatible Numbersin Range I | ⚙️ C++ |
 | 3995 | Gcd Of Odd And Even Sums | 🟨 JavaScript |
-| 4008 | Restore Finishing Order | 🟨 JavaScript |
-| 4058 | Compute Alternating Sum | 🟨 JavaScript |
-| 4087 | Maximum Substrings With Distinct Start | 🟨 JavaScript |
-| 4107 | Find Missing Elements | 🟨 JavaScript |
-| 4126 | Minimum Number Of Flips To Reverse Binary String | 🟨 JavaScript |
-| 4168 | Mirror Distance Of An Integer | ⚙️ C++, 🟨 JavaScript |
-| 4177 | Reverse String Prefix | 🟨 JavaScript |
 
 ---
 
