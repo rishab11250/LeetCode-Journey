@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-336-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-337-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,9 +16,9 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 200 | 59.5% |
-| 🟨 JavaScript | 174 | 51.8% |
-| 🗄️ SQL | 16 | 4.8% |
+| ⚙️ C++ | 201 | 59.6% |
+| 🟨 JavaScript | 174 | 51.6% |
+| 🗄️ SQL | 16 | 4.7% |
 | 🐍 Python | 5 | 1.5% |
 | 🔷 TypeScript | 1 | 0.3% |
 
@@ -91,6 +91,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 205 | Isomorphic Strings | ⚙️ C++ |
 | 215 | Kth Largest Element In An Array | 🟨 JavaScript |
 | 217 | Contains Duplicate | ⚙️ C++ |
+| 228 | Summary Ranges | ⚙️ C++ |
 | 231 | Power Of Two | ⚙️ C++, 🟨 JavaScript |
 | 238 | Product Of Array Except Self | ⚙️ C++ |
 | 242 | Valid Anagram | ⚙️ C++, 🟨 JavaScript |
