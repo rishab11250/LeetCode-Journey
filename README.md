@@ -16,7 +16,7 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 199 | 59.2% |
+| ⚙️ C++ | 200 | 59.5% |
 | 🟨 JavaScript | 174 | 51.8% |
 | 🗄️ SQL | 16 | 4.8% |
 | 🐍 Python | 5 | 1.5% |
@@ -230,6 +230,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 2144 | Minimum Cost Of Buying Candies With Discount | ⚙️ C++ |
 | 2148 | Minimum Number Of Moves To Seat Everyone | ⚙️ C++, 🟨 JavaScript |
 | 2149 | Rearrange Array Elements By Sign | ⚙️ C++ |
+| 2161 | Partition Array According To Given Pivot | ⚙️ C++, 🟨 JavaScript |
 | 2163 | Kth Distinct String In An Array | 🟨 JavaScript |
 | 2168 | Check If Numbers Are Ascending In A Sentence | 🟨 JavaScript |
 | 2180 | Count Integers With Even Digit Sum | ⚙️ C++ |
@@ -237,7 +238,6 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 2231 | Find First Palindromic String In The Array | 🟨 JavaScript |
 | 2238 | A Number After A Double Reversal | 🟨 JavaScript |
 | 2264 | Minimum Sum Of Four Digit Number After Splitting Digits | ⚙️ C++, 🟨 JavaScript |
-| 2265 | Partition Array According To Given Pivot | 🟨 JavaScript |
 | 2274 | Keep Multiplying Found Values By Two | 🟨 JavaScript |
 | 2315 | Count Asterisks | ⚙️ C++ |
 | 2323 | Minimum Bit Flips To Convert Number | 🟨 JavaScript |
