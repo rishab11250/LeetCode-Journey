@@ -16,7 +16,7 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 202 | 59.8% |
+| ⚙️ C++ | 203 | 60.1% |
 | 🟨 JavaScript | 174 | 51.5% |
 | 🗄️ SQL | 16 | 4.7% |
 | 🐍 Python | 5 | 1.5% |
@@ -342,7 +342,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 3651 | Transformed Array | 🟨 JavaScript |
 | 3653 | X O R After Range Multiplication Queries I | ⚙️ C++ |
 | 3658 | Gcd Of Odd And Even Sums | 🟨 JavaScript |
-| 3668 | Restore Finishing Order | 🟨 JavaScript |
+| 3668 | Restore Finishing Order | ⚙️ C++, 🟨 JavaScript |
 | 3701 | Compute Alternating Sum | 🟨 JavaScript |
 | 3731 | Find Missing Elements | 🟨 JavaScript |
 | 3740 | Minimum Distance Between Three Equal Elements I | ⚙️ C++ |
