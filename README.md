@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-338-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-339-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 203 | 60.1% |
-| 🟨 JavaScript | 174 | 51.5% |
+| ⚙️ C++ | 204 | 60.2% |
+| 🟨 JavaScript | 174 | 51.3% |
 | 🗄️ SQL | 16 | 4.7% |
 | 🐍 Python | 5 | 1.5% |
 | 🔷 TypeScript | 1 | 0.3% |
@@ -144,6 +144,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 942 | D I String Match | ⚙️ C++ |
 | 1009 | Complement Of Base10 Integer | ⚙️ C++ |
 | 1019 | Squares Of A Sorted Array | 🟨 JavaScript |
+| 1021 | Remove Outermost Parentheses | ⚙️ C++ |
 | 1025 | Divisor Game | ⚙️ C++ |
 | 1027 | Sum Of Even Numbers After Queries | ⚙️ C++ |
 | 1047 | Remove All Adjacent Duplicates In String | ⚙️ C++ |
