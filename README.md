@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-342-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-343-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 209 | 61.1% |
-| 🟨 JavaScript | 174 | 50.9% |
+| ⚙️ C++ | 210 | 61.2% |
+| 🟨 JavaScript | 174 | 50.7% |
 | 🗄️ SQL | 16 | 4.7% |
 | 🐍 Python | 5 | 1.5% |
 | 🔷 TypeScript | 1 | 0.3% |
@@ -282,6 +282,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 2574 | Left And Right Sum Differences | ⚙️ C++, 🟨 JavaScript |
 | 2586 | Count The Number Of Vowel Strings In Range | ⚙️ C++ |
 | 2587 | Rearrange Array To Maximize Prefix Score | ⚙️ C++ |
+| 2610 | Convertan Array Intoa2 D Array With Conditions | ⚙️ C++ |
 | 2620 | Counter | 🟨 JavaScript |
 | 2648 | Generate Fibonacci Sequence | 🟨 JavaScript |
 | 2651 | Calculate Delayed Arrival Time | 🟨 JavaScript |
