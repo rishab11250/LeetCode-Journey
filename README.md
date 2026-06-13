@@ -16,7 +16,7 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 207 | 60.7% |
+| ⚙️ C++ | 208 | 61.0% |
 | 🟨 JavaScript | 174 | 51.0% |
 | 🗄️ SQL | 16 | 4.7% |
 | 🐍 Python | 5 | 1.5% |
@@ -346,7 +346,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 3502 | Minimum Cost To Reach Every Position | 🟨 JavaScript |
 | 3512 | Minimum Operations To Make Array Sum Divisible By K | 🟨 JavaScript |
 | 3516 | Find Closest Person | 🟨 JavaScript |
-| 3541 | Find Most Frequent Vowel And Consonant | 🟨 JavaScript |
+| 3541 | Find Most Frequent Vowel And Consonant | ⚙️ C++, 🟨 JavaScript |
 | 3622 | Check Divisibility By Digit Sum And Product | ⚙️ C++, 🟨 JavaScript |
 | 3643 | Flip Square Submatrix Vertically | ⚙️ C++ |
 | 3653 | X O R After Range Multiplication Queries I | ⚙️ C++ |
