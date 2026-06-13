@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-340-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-341-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 205 | 60.3% |
-| 🟨 JavaScript | 174 | 51.2% |
+| ⚙️ C++ | 206 | 60.4% |
+| 🟨 JavaScript | 174 | 51.0% |
 | 🗄️ SQL | 16 | 4.7% |
 | 🐍 Python | 5 | 1.5% |
 | 🔷 TypeScript | 1 | 0.3% |
@@ -359,6 +359,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 3816 | Dna Pattern Recognition | 🗄️ SQL |
 | 3830 | Find Closest Person | 🟨 JavaScript |
 | 3832 | Minimum Cost To Reach Every Position | 🟨 JavaScript |
+| 3838 | Weighted Word Mapping | ⚙️ C++ |
 | 3846 | Minimum Operations To Make Array Sum Divisible By K | 🟨 JavaScript |
 | 3857 | Minimum Cost To Split Into Ones | ⚙️ C++ |
 | 3867 | Sum Of G C D Of Formed Pairs | ⚙️ C++ |
