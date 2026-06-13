@@ -126,222 +126,229 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 657 | Robot Return To Origin | ⚙️ C++, 🟨 JavaScript |
 | 682 | Baseball Game | 🟨 JavaScript |
 | 693 | Binary Number With Alternating Bits | 🟨 JavaScript |
+| 704 | Binary Search | 🟨 JavaScript |
+| 709 | To Lower Case | ⚙️ C++, 🟨 JavaScript |
 | 728 | Self Dividing Numbers | ⚙️ C++ |
 | 739 | Daily Temperatures | ⚙️ C++ |
-| 742 | To Lower Case | ⚙️ C++, 🟨 JavaScript |
-| 745 | Find Smallest Letter Greater Than Target | 🟨 JavaScript |
-| 748 | Largest Number At Least Twice Of Others | 🟨 JavaScript |
-| 767 | Prime Number Of Set Bits In Binary Representation | 🟨 JavaScript |
-| 782 | Jewels And Stones | ⚙️ C++, 🟨 JavaScript |
+| 744 | Find Smallest Letter Greater Than Target | 🟨 JavaScript |
+| 747 | Largest Number At Least Twice Of Others | 🟨 JavaScript |
+| 762 | Prime Number Of Set Bits In Binary Representation | 🟨 JavaScript |
+| 771 | Jewels And Stones | ⚙️ C++, 🟨 JavaScript |
 | 788 | Rotated Digits | ⚙️ C++ |
-| 792 | Binary Search | 🟨 JavaScript |
 | 796 | Rotate String | ⚙️ C++ |
-| 861 | Flipping An Image | 🟨 JavaScript |
+| 832 | Flipping An Image | 🟨 JavaScript |
+| 868 | Binary Gap | 🟨 JavaScript |
 | 877 | Stone Game | ⚙️ C++ |
-| 899 | Binary Gap | 🟨 JavaScript |
 | 905 | Sort Array By Parity | ⚙️ C++ |
 | 917 | Reverse Only Letters | ⚙️ C++ |
 | 942 | D I String Match | ⚙️ C++ |
+| 977 | Squares Of A Sorted Array | 🟨 JavaScript |
+| 985 | Sum Of Even Numbers After Queries | ⚙️ C++ |
 | 1002 | Find Common Characters | ⚙️ C++ |
 | 1009 | Complement Of Base10 Integer | ⚙️ C++ |
-| 1019 | Squares Of A Sorted Array | 🟨 JavaScript |
 | 1021 | Remove Outermost Parentheses | ⚙️ C++ |
 | 1025 | Divisor Game | ⚙️ C++ |
-| 1027 | Sum Of Even Numbers After Queries | ⚙️ C++ |
 | 1047 | Remove All Adjacent Duplicates In String | ⚙️ C++ |
 | 1051 | Height Checker | ⚙️ C++ |
+| 1068 | Product Sales Analysis I | 🗄️ SQL |
 | 1078 | Occurrences After Bigram | ⚙️ C++ |
-| 1153 | Product Sales Analysis I | 🗄️ SQL |
-| 1205 | Defanging An Ip Address | 🟨 JavaScript |
+| 1108 | Defanging An Ip Address | 🟨 JavaScript |
+| 1137 | N Th Tribonacci Number | ⚙️ C++, 🟨 JavaScript |
 | 1207 | Unique Number Of Occurrences | ⚙️ C++ |
 | 1209 | Remove All Adjacent Duplicates In String I I | ⚙️ C++ |
 | 1221 | Split A String In Balanced Strings | ⚙️ C++ |
-| 1236 | N Th Tribonacci Number | ⚙️ C++, 🟨 JavaScript |
-| 1293 | Three Consecutive Odds | 🟨 JavaScript |
+| 1281 | Subtract The Product And Sum Of Digits Of An Integer | ⚙️ C++, 🟨 JavaScript |
+| 1282 | Group The People Given The Group Size They Belong To | 🟨 JavaScript |
 | 1323 | Maximum69 Number | ⚙️ C++ |
+| 1327 | List The Products Ordered In A Period | 🗄️ SQL |
 | 1331 | Rank Transform Of An Array | ⚙️ C++ |
+| 1342 | Number Of Steps To Reduce A Number To Zero | ⚙️ C++, 🟨 JavaScript |
+| 1346 | Check If N And Its Double Exist | ⚙️ C++, 🟨 JavaScript |
+| 1351 | Count Negative Numbers In A Sorted Matrix | 🟨 JavaScript |
+| 1365 | How Many Numbers Are Smaller Than The Current Number | ⚙️ C++, 🟨 JavaScript |
+| 1389 | Create Target Array In The Given Order | 🟨 JavaScript |
 | 1394 | Find Lucky Integer In An Array | ⚙️ C++ |
-| 1406 | Subtract The Product And Sum Of Digits Of An Integer | ⚙️ C++, 🟨 JavaScript |
-| 1407 | Group The People Given The Group Size They Belong To | 🟨 JavaScript |
+| 1404 | Number Of Steps To Reduce A Number In Binary Representation To One | 🟨 JavaScript |
 | 1408 | String Matching In An Array | ⚙️ C++ |
-| 1444 | Number Of Steps To Reduce A Number To Zero | ⚙️ C++, 🟨 JavaScript |
+| 1409 | Queries On A Permutation With Key | 🟨 JavaScript |
+| 1431 | Kids With The Greatest Number Of Candies | 🟨 JavaScript |
 | 1446 | Consecutive Characters | ⚙️ C++ |
-| 1462 | List The Products Ordered In A Period | 🗄️ SQL |
-| 1468 | Check If N And Its Double Exist | ⚙️ C++, 🟨 JavaScript |
+| 1455 | Check If A Word Occurs As A Prefix Of Any Word In A Sentence | 🟨 JavaScript |
+| 1464 | Maximum Product Of Two Elements In An Array | 🟨 JavaScript |
+| 1470 | Shuffle The Array | ⚙️ C++, 🟨 JavaScript |
 | 1475 | Final Prices With A Special Discount In A Shop | ⚙️ C++ |
-| 1476 | Count Negative Numbers In A Sorted Matrix | 🟨 JavaScript |
-| 1482 | How Many Numbers Are Smaller Than The Current Number | ⚙️ C++, 🟨 JavaScript |
+| 1480 | Running Sum Of1d Array | ⚙️ C++, 🟨 JavaScript |
+| 1486 | Xor Operation In An Array | ⚙️ C++, 🟨 JavaScript |
 | 1492 | The Kth Factor Of N | ⚙️ C++ |
+| 1502 | Can Make Arithmetic Progression From Sequence | 🟨 JavaScript |
 | 1503 | Last Moment Before All Ants Fall Out Of A Plank | ⚙️ C++ |
-| 1505 | Create Target Array In The Given Order | 🟨 JavaScript |
-| 1520 | Number Of Steps To Reduce A Number In Binary Representation To One | 🟨 JavaScript |
-| 1525 | Queries On A Permutation With Key | 🟨 JavaScript |
+| 1512 | Number Of Good Pairs | 🟨 JavaScript |
 | 1527 | Patients With A Condition | 🗄️ SQL |
-| 1528 | Kids With The Greatest Number Of Candies | 🟨 JavaScript |
+| 1528 | Shuffle String | 🟨 JavaScript |
+| 1534 | Count Good Triplets | 🟨 JavaScript |
+| 1539 | Kth Missing Positive Number | 🟨 JavaScript |
+| 1545 | Find Kth Bit In Nth Binary String | 🟨 JavaScript |
+| 1550 | Three Consecutive Odds | 🟨 JavaScript |
 | 1551 | Minimum Operations To Make Array Equal | ⚙️ C++ |
-| 1566 | Check If A Word Occurs As A Prefix Of Any Word In A Sentence | 🟨 JavaScript |
-| 1574 | Maximum Product Of Two Elements In An Array | 🟨 JavaScript |
-| 1580 | Shuffle The Array | ⚙️ C++, 🟨 JavaScript |
-| 1603 | Running Sum Of1d Array | ⚙️ C++, 🟨 JavaScript |
-| 1610 | Xor Operation In An Array | ⚙️ C++, 🟨 JavaScript |
-| 1626 | Can Make Arithmetic Progression From Sequence | 🟨 JavaScript |
-| 1635 | Number Of Good Pairs | 🟨 JavaScript |
-| 1646 | Kth Missing Positive Number | 🟨 JavaScript |
-| 1651 | Shuffle String | 🟨 JavaScript |
+| 1561 | Maximum Number Of Coins You Can Get | ⚙️ C++ |
+| 1637 | Widest Vertical Area Between Two Points Containing No Points | 🟨 JavaScript |
 | 1652 | Defuse The Bomb | ⚙️ C++ |
-| 1656 | Count Good Triplets | 🟨 JavaScript |
-| 1667 | Find Kth Bit In Nth Binary String | 🟨 JavaScript |
-| 1683 | Maximum Number Of Coins You Can Get | ⚙️ C++ |
-| 1742 | Widest Vertical Area Between Two Points Containing No Points | 🟨 JavaScript |
+| 1672 | Richest Customer Wealth | ⚙️ C++, 🟨 JavaScript |
+| 1678 | Goal Parser Interpretation | ⚙️ C++, 🟨 JavaScript |
+| 1683 | Invalid Tweets | 🗄️ SQL |
+| 1684 | Count The Number Of Consistent Strings | 🟨 JavaScript |
+| 1688 | Count Of Matches In Tournament | 🟨 JavaScript |
+| 1689 | Partitioning Into Minimum Number Of Deci Binary Numbers | 🟨 JavaScript |
+| 1693 | Daily Leads And Partners | 🗄️ SQL |
+| 1716 | Calculate Money In Leetcode Bank | 🟨 JavaScript |
+| 1720 | Decode Xored Array | 🟨 JavaScript |
+| 1741 | Find Total Time Spent By Each Employee | 🗄️ SQL |
 | 1752 | Check If Array Is Sorted And Rotated | ⚙️ C++ |
+| 1757 | Recyclable And Low Fat Products | 🗄️ SQL |
+| 1758 | Minimum Changes To Make Alternating Binary String | 🟨 JavaScript |
+| 1768 | Merge Strings Alternately | ⚙️ C++, 🟨 JavaScript |
+| 1769 | Minimum Number Of Operations To Move All Balls To Each Box | 🟨 JavaScript |
+| 1773 | Count Items Matching A Rule | 🟨 JavaScript |
 | 1784 | Check If Binary String Has At Most One Segment Of Ones | ⚙️ C++ |
-| 1786 | Count The Number Of Consistent Strings | 🟨 JavaScript |
-| 1791 | Richest Customer Wealth | ⚙️ C++, 🟨 JavaScript |
-| 1797 | Goal Parser Interpretation | ⚙️ C++, 🟨 JavaScript |
-| 1806 | Count Of Matches In Tournament | 🟨 JavaScript |
-| 1807 | Partitioning Into Minimum Number Of Deci Binary Numbers | 🟨 JavaScript |
-| 1817 | Calculate Money In Leetcode Bank | 🟨 JavaScript |
-| 1827 | Invalid Tweets | 🗄️ SQL |
-| 1837 | Daily Leads And Partners | 🗄️ SQL |
-| 1839 | Decode Xored Array | 🟨 JavaScript |
+| 1812 | Determine Color Of A Chessboard Square | 🟨 JavaScript |
+| 1816 | Truncate Sentence | ⚙️ C++, 🟨 JavaScript |
+| 1822 | Sign Of The Product Of An Array | ⚙️ C++, 🟨 JavaScript |
+| 1828 | Queries On Number Of Points Inside A Circle | 🟨 JavaScript |
+| 1832 | Check If The Sentence Is Pangram | 🟨 JavaScript |
 | 1844 | Replace All Digitswith Characters | ⚙️ C++ |
 | 1848 | Minimum Distance To The Target Element | ⚙️ C++ |
 | 1859 | Sorting The Sentence | ⚙️ C++ |
-| 1884 | Minimum Changes To Make Alternating Binary String | 🟨 JavaScript |
+| 1863 | Sum Of All Subset Xor Totals | 🟨 JavaScript |
+| 1877 | Minimize Maximum Pair Sum In Array | 🟨 JavaScript |
 | 1890 | The Latest Login In2020 | 🗄️ SQL |
-| 1892 | Find Total Time Spent By Each Employee | 🗄️ SQL |
-| 1894 | Merge Strings Alternately | ⚙️ C++, 🟨 JavaScript |
-| 1895 | Minimum Number Of Operations To Move All Balls To Each Box | 🟨 JavaScript |
-| 1899 | Count Items Matching A Rule | 🟨 JavaScript |
-| 1908 | Recyclable And Low Fat Products | 🗄️ SQL |
-| 1920 | Determine Color Of A Chessboard Square | 🟨 JavaScript |
-| 1939 | Queries On Number Of Points Inside A Circle | 🟨 JavaScript |
-| 1944 | Truncate Sentence | ⚙️ C++, 🟨 JavaScript |
-| 1950 | Sign Of The Product Of An Array | ⚙️ C++, 🟨 JavaScript |
+| 1920 | Build Array From Permutation | ⚙️ C++, 🟨 JavaScript |
+| 1929 | Concatenation Of Array | 🟨 JavaScript |
 | 1952 | Three Divisors | ⚙️ C++ |
-| 1960 | Check If The Sentence Is Pangram | 🟨 JavaScript |
 | 1967 | Number Of Strings That Appear As Substrings In Word | ⚙️ C++ |
-| 1988 | Minimize Maximum Pair Sum In Array | 🟨 JavaScript |
-| 1993 | Sum Of All Subset Xor Totals | 🟨 JavaScript |
-| 2048 | Build Array From Permutation | ⚙️ C++, 🟨 JavaScript |
-| 2058 | Concatenation Of Array | 🟨 JavaScript |
+| 2011 | Final Value Of Variable After Performing Operations | 🟨 JavaScript |
+| 2037 | Minimum Number Of Moves To Seat Everyone | ⚙️ C++, 🟨 JavaScript |
+| 2042 | Check If Numbers Are Ascending In A Sentence | 🟨 JavaScript |
+| 2053 | Kth Distinct String In An Array | 🟨 JavaScript |
 | 2073 | Time Needed To Buy Tickets | ⚙️ C++ |
 | 2078 | Two Furthest Houses With Different Colors | ⚙️ C++ |
 | 2089 | Find Target Indices After Sorting Array | ⚙️ C++ |
+| 2108 | Find First Palindromic String In The Array | 🟨 JavaScript |
+| 2114 | Maximum Number Of Words Found In Sentences | 🟨 JavaScript |
+| 2119 | A Number After A Double Reversal | 🟨 JavaScript |
 | 2124 | Checkif All As Appears Before All Bs | ⚙️ C++ |
 | 2126 | Destroying Asteroids | ⚙️ C++ |
-| 2137 | Final Value Of Variable After Performing Operations | 🟨 JavaScript |
 | 2144 | Minimum Cost Of Buying Candies With Discount | ⚙️ C++ |
-| 2148 | Minimum Number Of Moves To Seat Everyone | ⚙️ C++, 🟨 JavaScript |
 | 2149 | Rearrange Array Elements By Sign | ⚙️ C++ |
+| 2154 | Keep Multiplying Found Values By Two | 🟨 JavaScript |
+| 2160 | Minimum Sum Of Four Digit Number After Splitting Digits | ⚙️ C++, 🟨 JavaScript |
 | 2161 | Partition Array According To Given Pivot | ⚙️ C++, 🟨 JavaScript |
-| 2163 | Kth Distinct String In An Array | 🟨 JavaScript |
-| 2168 | Check If Numbers Are Ascending In A Sentence | 🟨 JavaScript |
 | 2180 | Count Integers With Even Digit Sum | ⚙️ C++ |
-| 2219 | Maximum Number Of Words Found In Sentences | 🟨 JavaScript |
-| 2231 | Find First Palindromic String In The Array | 🟨 JavaScript |
-| 2238 | A Number After A Double Reversal | 🟨 JavaScript |
-| 2264 | Minimum Sum Of Four Digit Number After Splitting Digits | ⚙️ C++, 🟨 JavaScript |
-| 2274 | Keep Multiplying Found Values By Two | 🟨 JavaScript |
+| 2220 | Minimum Bit Flips To Convert Number | 🟨 JavaScript |
+| 2221 | Find Triangular Sum Of An Array | 🟨 JavaScript |
+| 2235 | Add Two Integers | ⚙️ C++ |
+| 2278 | Percentage Of Letter In String | ⚙️ C++ |
 | 2315 | Count Asterisks | ⚙️ C++ |
-| 2323 | Minimum Bit Flips To Convert Number | 🟨 JavaScript |
-| 2324 | Find Triangular Sum Of An Array | 🟨 JavaScript |
+| 2351 | First Letter To Appear Twice | 🟨 JavaScript |
+| 2356 | Number Of Unique Subjects Taught By Each Teacher | 🗄️ SQL |
 | 2357 | Make Array Zero By Subtracting Equal Amounts | ⚙️ C++ |
-| 2365 | Percentage Of Letter In String | ⚙️ C++ |
 | 2367 | Number Of Arithmetic Triplets | ⚙️ C++ |
-| 2383 | Add Two Integers | ⚙️ C++ |
-| 2389 | Check If Strings Can Be Made Equal With Operations I | ⚙️ C++ |
+| 2396 | Strictly Palindromic Number | 🟨 JavaScript |
 | 2404 | Most Frequent Even Element | ⚙️ C++ |
 | 2410 | Maximum Matching Of Players With Trainers | ⚙️ C++ |
-| 2427 | First Letter To Appear Twice | 🟨 JavaScript |
+| 2413 | Smallest Even Multiple | ⚙️ C++, 🟨 JavaScript |
+| 2418 | Sort The People | 🟨 JavaScript |
+| 2433 | Find The Original Array Of Prefix Xor | 🟨 JavaScript |
+| 2455 | Average Value Of Even Numbers That Are Divisible By Three | ⚙️ C++ |
 | 2460 | Apply Operations To An Array | ⚙️ C++ |
+| 2465 | Number Of Distinct Averages | 🟨 JavaScript |
+| 2469 | Convert The Temperature | 🟨 JavaScript |
 | 2475 | Number Of Unequal Triplets In Array | ⚙️ C++ |
-| 2481 | Strictly Palindromic Number | 🟨 JavaScript |
+| 2481 | Minimum Cuts To Divide A Circle | 🟨 JavaScript |
+| 2485 | Find The Pivot Integer | 🟨 JavaScript |
 | 2490 | Circular Sentence | ⚙️ C++ |
-| 2491 | Smallest Even Multiple | ⚙️ C++, 🟨 JavaScript |
-| 2495 | Number Of Unique Subjects Taught By Each Teacher | 🗄️ SQL |
-| 2502 | Sort The People | 🟨 JavaScript |
+| 2496 | Maximum Value Of A String In An Array | 🟨 JavaScript |
 | 2515 | Shortest Distance To Target String In A Circular Array | ⚙️ C++ |
-| 2519 | Find The Original Array Of Prefix Xor | 🟨 JavaScript |
+| 2520 | Count The Digits That Divide A Number | ⚙️ C++, 🟨 JavaScript |
 | 2525 | Categorize Box According To Criteria | ⚙️ C++ |
+| 2529 | Maximum Count Of Positive Integer And Negative Integer | 🟨 JavaScript |
+| 2535 | Difference Between Element Sum And Digit Sum Of An Array | 🟨 JavaScript |
 | 2540 | Minimum Common Value | ⚙️ C++ |
-| 2542 | Average Value Of Even Numbers That Are Divisible By Three | ⚙️ C++ |
+| 2544 | Alternating Digit Sum | 🟨 JavaScript |
+| 2545 | Sort The Students By Their Kth Score | 🟨 JavaScript |
 | 2553 | Separate The Digits In An Array | ⚙️ C++ |
-| 2556 | Convert The Temperature | 🟨 JavaScript |
-| 2561 | Number Of Distinct Averages | 🟨 JavaScript |
+| 2562 | Find The Array Concatenation Value | 🟨 JavaScript |
 | 2566 | Maximum Difference By Remapping A Digit | ⚙️ C++ |
-| 2571 | Find The Pivot Integer | 🟨 JavaScript |
 | 2574 | Left And Right Sum Differences | ⚙️ C++, 🟨 JavaScript |
-| 2575 | Minimum Cuts To Divide A Circle | 🟨 JavaScript |
 | 2586 | Count The Number Of Vowel Strings In Range | ⚙️ C++ |
 | 2587 | Rearrange Array To Maximize Prefix Score | ⚙️ C++ |
-| 2589 | Maximum Value Of A String In An Array | 🟨 JavaScript |
-| 2608 | Count The Digits That Divide A Number | ⚙️ C++, 🟨 JavaScript |
-| 2614 | Maximum Count Of Positive Integer And Negative Integer | 🟨 JavaScript |
-| 2624 | Difference Between Element Sum And Digit Sum Of An Array | 🟨 JavaScript |
-| 2630 | Alternating Digit Sum | 🟨 JavaScript |
-| 2631 | Sort The Students By Their Kth Score | 🟨 JavaScript |
+| 2620 | Counter | 🟨 JavaScript |
+| 2648 | Generate Fibonacci Sequence | 🟨 JavaScript |
+| 2651 | Calculate Delayed Arrival Time | 🟨 JavaScript |
+| 2652 | Sum Multiples | ⚙️ C++, 🟨 JavaScript |
 | 2657 | Find The Prefix Common Array Of Two Arrays | ⚙️ C++ |
-| 2698 | Find The Array Concatenation Value | 🟨 JavaScript |
+| 2667 | Create Hello World Function | 🟨 JavaScript, 🔷 TypeScript |
+| 2703 | Return Length Of Arguments Passed | 🟨 JavaScript |
+| 2704 | To Be Or Not To Be | 🟨 JavaScript |
 | 2716 | Minimize String Length | ⚙️ C++ |
+| 2723 | Add Two Promises | 🟨 JavaScript |
 | 2724 | Sort By | 🟨 JavaScript |
 | 2727 | Is Object Empty | 🟨 JavaScript |
-| 2732 | Counter | 🟨 JavaScript |
+| 2733 | Neither Minimum Nor Maximum | 🟨 JavaScript |
 | 2744 | Find Maximum Number Of String Pairs | ⚙️ C++ |
-| 2748 | Calculate Delayed Arrival Time | 🟨 JavaScript |
-| 2752 | Sum Multiples | ⚙️ C++, 🟨 JavaScript |
-| 2775 | Generate Fibonacci Sequence | 🟨 JavaScript |
+| 2769 | Find The Maximum Achievable Number | 🟨 JavaScript |
 | 2778 | Sum Of Squares Of Special Elements | ⚙️ C++ |
 | 2784 | Check If Array Is Good | ⚙️ C++ |
-| 2809 | Create Hello World Function | 🟨 JavaScript, 🔷 TypeScript |
-| 2812 | Find The Maximum Achievable Number | 🟨 JavaScript |
-| 2813 | To Be Or Not To Be | 🟨 JavaScript |
-| 2820 | Return Length Of Arguments Passed | 🟨 JavaScript |
+| 2798 | Number Of Employees Who Met The Target | ⚙️ C++, 🟨 JavaScript |
+| 2824 | Count Pairs Whose Sum Is Less Than Target | 🟨 JavaScript |
 | 2833 | Furthest Point From Origin | ⚙️ C++ |
-| 2836 | Neither Minimum Nor Maximum | 🟨 JavaScript |
-| 2859 | Add Two Promises | 🟨 JavaScript |
+| 2839 | Check If Strings Can Be Made Equal With Operations I | ⚙️ C++ |
+| 2843 | Count Symmetric Integers | 🟨 JavaScript |
 | 2864 | Maximum Odd Binary Number | ⚙️ C++ |
-| 2876 | Number Of Employees Who Met The Target | ⚙️ C++, 🟨 JavaScript |
+| 2873 | Maximum Value Of An Ordered Triplet I | 🟨 JavaScript |
 | 2877 | Create A Data Frame From List | 🐍 Python |
 | 2879 | Display The First Three Rows | 🐍 Python |
 | 2881 | Create A New Column | 🐍 Python |
 | 2884 | Modify Columns | 🐍 Python |
 | 2888 | Reshape Data Concatenate | 🐍 Python |
-| 2917 | Count Pairs Whose Sum Is Less Than Target | 🟨 JavaScript |
+| 2894 | Divisible And Non Divisible Sums Difference | 🟨 JavaScript |
+| 2908 | Minimum Sum Of Mountain Triplets I | 🟨 JavaScript |
+| 2942 | Find Words Containing Character | 🟨 JavaScript |
 | 2951 | Find The Peaks | ⚙️ C++ |
 | 2966 | Divide Array Into Arrays With Max Difference | ⚙️ C++ |
-| 2998 | Count Symmetric Integers | 🟨 JavaScript |
+| 2974 | Minimum Number Game | 🟨 JavaScript |
+| 3019 | Number Of Changing Keys | ⚙️ C++, 🟨 JavaScript |
+| 3024 | Type Of Triangle | 🟨 JavaScript |
 | 3043 | Find The Length Of The Longest Common Prefix | ⚙️ C++ |
 | 3065 | Minimum Operations To Exceed Threshold Value I | ⚙️ C++ |
 | 3079 | Find The Sum Of Encrypted Integers | ⚙️ C++ |
+| 3099 | Harshad Number | 🟨 JavaScript |
+| 3110 | Score Of A String | 🟨 JavaScript |
 | 3120 | Countthe Numberof Special Characters I | ⚙️ C++ |
 | 3131 | Findthe Integer Addedto Array- I | ⚙️ C++ |
-| 3154 | Maximum Value Of An Ordered Triplet I | 🟨 JavaScript |
+| 3136 | Valid Word | 🟨 JavaScript |
+| 3146 | Permutation Difference Between Two Strings | 🟨 JavaScript |
 | 3162 | Find The Number Of Good Pairs I | ⚙️ C++ |
-| 3172 | Divisible And Non Divisible Sums Difference | 🟨 JavaScript |
-| 3176 | Minimum Sum Of Mountain Triplets I | 🟨 JavaScript |
-| 3194 | Find Words Containing Character | 🟨 JavaScript |
-| 3226 | Minimum Number Game | 🟨 JavaScript |
+| 3190 | Find Minimum Operations To Make All Elements Divisible By Three | 🟨 JavaScript |
+| 3194 | Minimum Average Of Smallest And Largest Elements | 🟨 JavaScript |
+| 3232 | Find If Digit Game Can Be Won | ⚙️ C++, 🟨 JavaScript |
+| 3264 | Final Array State After K Multiplication Operations I | 🟨 JavaScript |
+| 3280 | Convert Date To Binary | 🟨 JavaScript |
+| 3285 | Find Indices Of Stable Mountains | 🟨 JavaScript |
+| 3289 | The Two Sneaky Numbers Of Digitville | 🟨 JavaScript |
 | 3300 | Minimum Element After Replacement With Digit Sum | ⚙️ C++ |
-| 3312 | Number Of Changing Keys | ⚙️ C++, 🟨 JavaScript |
-| 3321 | Type Of Triangle | 🟨 JavaScript |
 | 3340 | Check Balanced String | ⚙️ C++ |
-| 3371 | Harshad Number | 🟨 JavaScript |
-| 3379 | Score Of A String | 🟨 JavaScript |
-| 3396 | Valid Word | 🟨 JavaScript |
-| 3412 | Permutation Difference Between Two Strings | 🟨 JavaScript |
+| 3379 | Transformed Array | 🟨 JavaScript |
 | 3432 | Count Partitions With Even Sum Difference | ⚙️ C++ |
 | 3461 | Check If Digits Are Equal In String After Operations I | ⚙️ C++ |
-| 3463 | Flip Square Submatrix Vertically | ⚙️ C++ |
-| 3471 | Minimum Average Of Smallest And Largest Elements | 🟨 JavaScript |
-| 3476 | Find Minimum Operations To Make All Elements Divisible By Three | 🟨 JavaScript |
-| 3515 | Find If Digit Game Can Be Won | ⚙️ C++, 🟨 JavaScript |
-| 3555 | Final Array State After K Multiplication Operations I | 🟨 JavaScript |
-| 3567 | Convert Date To Binary | 🟨 JavaScript |
-| 3581 | The Two Sneaky Numbers Of Digitville | 🟨 JavaScript |
-| 3582 | Find Indices Of Stable Mountains | 🟨 JavaScript |
+| 3467 | Transform Array By Parity | 🟨 JavaScript |
+| 3475 | Dna Pattern Recognition | 🗄️ SQL |
+| 3498 | Reverse Degree Of A String | 🟨 JavaScript |
+| 3502 | Minimum Cost To Reach Every Position | 🟨 JavaScript |
+| 3512 | Minimum Operations To Make Array Sum Divisible By K | 🟨 JavaScript |
+| 3516 | Find Closest Person | 🟨 JavaScript |
+| 3541 | Find Most Frequent Vowel And Consonant | 🟨 JavaScript |
 | 3622 | Check Divisibility By Digit Sum And Product | ⚙️ C++, 🟨 JavaScript |
-| 3651 | Transformed Array | 🟨 JavaScript |
+| 3643 | Flip Square Submatrix Vertically | ⚙️ C++ |
 | 3653 | X O R After Range Multiplication Queries I | ⚙️ C++ |
 | 3658 | Gcd Of Odd And Even Sums | 🟨 JavaScript |
 | 3668 | Restore Finishing Order | ⚙️ C++, 🟨 JavaScript |
@@ -351,20 +358,13 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 3750 | Minimum Number Of Flips To Reverse Binary String | 🟨 JavaScript |
 | 3751 | Total Waviness Of Numbers In Range I | ⚙️ C++ |
 | 3760 | Maximum Substrings With Distinct Start | 🟨 JavaScript |
-| 3778 | Transform Array By Parity | 🟨 JavaScript |
 | 3783 | Mirror Distance Of An Integer | ⚙️ C++, 🟨 JavaScript |
 | 3794 | Reverse String Prefix | 🟨 JavaScript |
 | 3798 | Largest Even Number | ⚙️ C++ |
-| 3811 | Reverse Degree Of A String | 🟨 JavaScript |
-| 3816 | Dna Pattern Recognition | 🗄️ SQL |
-| 3830 | Find Closest Person | 🟨 JavaScript |
-| 3832 | Minimum Cost To Reach Every Position | 🟨 JavaScript |
 | 3838 | Weighted Word Mapping | ⚙️ C++ |
-| 3846 | Minimum Operations To Make Array Sum Divisible By K | 🟨 JavaScript |
 | 3857 | Minimum Cost To Split Into Ones | ⚙️ C++ |
 | 3867 | Sum Of G C D Of Formed Pairs | ⚙️ C++ |
 | 3870 | Count Commas In Range | ⚙️ C++ |
-| 3872 | Find Most Frequent Vowel And Consonant | 🟨 JavaScript |
 | 3880 | Minimum Absolute Difference Between Two Values | ⚙️ C++ |
 | 3884 | First Matching Character From Both Ends | ⚙️ C++ |
 | 3890 | Integers With Multiple Sum Of Two Cubes | ⚙️ C++ |
