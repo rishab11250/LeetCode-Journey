@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-343-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-344-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 210 | 61.2% |
-| 🟨 JavaScript | 174 | 50.7% |
+| ⚙️ C++ | 211 | 61.3% |
+| 🟨 JavaScript | 174 | 50.6% |
 | 🗄️ SQL | 16 | 4.7% |
 | 🐍 Python | 5 | 1.5% |
 | 🔷 TypeScript | 1 | 0.3% |
@@ -111,6 +111,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 394 | Decode String | ⚙️ C++ |
 | 412 | Fizz Buzz | ⚙️ C++ |
 | 442 | Find All Duplicates In An Array | ⚙️ C++ |
+| 448 | Find All Numbers Disappearedinan Array | ⚙️ C++ |
 | 455 | Assign Cookies | ⚙️ C++ |
 | 476 | Number Complement | ⚙️ C++ |
 | 485 | Max Consecutive Ones | ⚙️ C++, 🟨 JavaScript |
