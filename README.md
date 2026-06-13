@@ -16,7 +16,7 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 206 | 60.4% |
+| ⚙️ C++ | 207 | 60.7% |
 | 🟨 JavaScript | 174 | 51.0% |
 | 🗄️ SQL | 16 | 4.7% |
 | 🐍 Python | 5 | 1.5% |
@@ -312,7 +312,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 2888 | Reshape Data Concatenate | 🐍 Python |
 | 2894 | Divisible And Non Divisible Sums Difference | 🟨 JavaScript |
 | 2908 | Minimum Sum Of Mountain Triplets I | 🟨 JavaScript |
-| 2942 | Find Words Containing Character | 🟨 JavaScript |
+| 2942 | Find Words Containing Character | ⚙️ C++, 🟨 JavaScript |
 | 2951 | Find The Peaks | ⚙️ C++ |
 | 2966 | Divide Array Into Arrays With Max Difference | ⚙️ C++ |
 | 2974 | Minimum Number Game | 🟨 JavaScript |
