@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-345-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-346-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 214 | 62.0% |
-| 🟨 JavaScript | 174 | 50.4% |
+| ⚙️ C++ | 215 | 62.1% |
+| 🟨 JavaScript | 174 | 50.3% |
 | 🗄️ SQL | 16 | 4.6% |
 | 🐍 Python | 5 | 1.4% |
 | 🔷 TypeScript | 1 | 0.3% |
@@ -389,6 +389,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 3945 | Digit Frequency Score | ⚙️ C++ |
 | 3950 | Exactly One Consecutive Set Bits Pair | ⚙️ C++ |
 | 3954 | Sumof Compatible Numbersin Range I | ⚙️ C++ |
+| 3959 | Check Good Integer | ⚙️ C++ |
 
 ---
 
