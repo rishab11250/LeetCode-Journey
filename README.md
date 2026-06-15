@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-344-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-345-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,10 +16,10 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 211 | 61.3% |
-| 🟨 JavaScript | 174 | 50.6% |
-| 🗄️ SQL | 16 | 4.7% |
-| 🐍 Python | 5 | 1.5% |
+| ⚙️ C++ | 214 | 62.0% |
+| 🟨 JavaScript | 174 | 50.4% |
+| 🗄️ SQL | 16 | 4.6% |
+| 🐍 Python | 5 | 1.4% |
 | 🔷 TypeScript | 1 | 0.3% |
 
 ---
@@ -110,6 +110,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 387 | First Unique Character In A String | ⚙️ C++, 🟨 JavaScript |
 | 394 | Decode String | ⚙️ C++ |
 | 412 | Fizz Buzz | ⚙️ C++ |
+| 434 | Numberof Segmentsina String | ⚙️ C++ |
 | 442 | Find All Duplicates In An Array | ⚙️ C++ |
 | 448 | Find All Numbers Disappearedinan Array | ⚙️ C++ |
 | 455 | Assign Cookies | ⚙️ C++ |
@@ -215,7 +216,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 1816 | Truncate Sentence | ⚙️ C++, 🟨 JavaScript |
 | 1822 | Sign Of The Product Of An Array | ⚙️ C++, 🟨 JavaScript |
 | 1828 | Queries On Number Of Points Inside A Circle | 🟨 JavaScript |
-| 1832 | Check If The Sentence Is Pangram | 🟨 JavaScript |
+| 1832 | Check If The Sentence Is Pangram | ⚙️ C++, 🟨 JavaScript |
 | 1844 | Replace All Digitswith Characters | ⚙️ C++ |
 | 1848 | Minimum Distance To The Target Element | ⚙️ C++ |
 | 1859 | Sorting The Sentence | ⚙️ C++ |
@@ -235,7 +236,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 2078 | Two Furthest Houses With Different Colors | ⚙️ C++ |
 | 2089 | Find Target Indices After Sorting Array | ⚙️ C++ |
 | 2108 | Find First Palindromic String In The Array | 🟨 JavaScript |
-| 2114 | Maximum Number Of Words Found In Sentences | 🟨 JavaScript |
+| 2114 | Maximum Number Of Words Found In Sentences | ⚙️ C++, 🟨 JavaScript |
 | 2119 | A Number After A Double Reversal | 🟨 JavaScript |
 | 2124 | Checkif All As Appears Before All Bs | ⚙️ C++ |
 | 2126 | Destroying Asteroids | ⚙️ C++ |
