@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-349-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-350-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 218 | 62.5% |
-| 🟨 JavaScript | 174 | 49.9% |
+| ⚙️ C++ | 219 | 62.6% |
+| 🟨 JavaScript | 174 | 49.7% |
 | 🗄️ SQL | 16 | 4.6% |
 | 🐍 Python | 5 | 1.4% |
 | 🔷 TypeScript | 1 | 0.3% |
@@ -67,6 +67,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 66 | Plus One | ⚙️ C++, 🟨 JavaScript |
 | 67 | Add Binary | 🟨 JavaScript |
 | 69 | Sqrtx | ⚙️ C++, 🟨 JavaScript |
+| 71 | Simplify Path | ⚙️ C++ |
 | 75 | Sort Colors | 🟨 JavaScript |
 | 81 | Search In Rotated Sorted Array I I | ⚙️ C++ |
 | 88 | Merge Sorted Array | ⚙️ C++, 🟨 JavaScript |
