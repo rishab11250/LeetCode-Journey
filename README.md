@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-347-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-348-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 216 | 62.2% |
-| 🟨 JavaScript | 174 | 50.1% |
+| ⚙️ C++ | 217 | 62.4% |
+| 🟨 JavaScript | 174 | 50.0% |
 | 🗄️ SQL | 16 | 4.6% |
 | 🐍 Python | 5 | 1.4% |
 | 🔷 TypeScript | 1 | 0.3% |
@@ -80,6 +80,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 154 | Find Minimum In Rotated Sorted Array Ii | ⚙️ C++, 🟨 JavaScript |
 | 162 | Find Peak Element | 🟨 JavaScript |
 | 164 | Maximum Gap | 🟨 JavaScript |
+| 165 | Compare Version Numbers | ⚙️ C++ |
 | 167 | Two Sum I I- Input Array Is Sorted | ⚙️ C++ |
 | 169 | Majority Element | ⚙️ C++, 🟨 JavaScript |
 | 171 | Excel Sheet Column Number | ⚙️ C++ |
