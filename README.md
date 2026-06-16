@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-346-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-347-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 215 | 62.1% |
-| 🟨 JavaScript | 174 | 50.3% |
+| ⚙️ C++ | 216 | 62.2% |
+| 🟨 JavaScript | 174 | 50.1% |
 | 🗄️ SQL | 16 | 4.6% |
 | 🐍 Python | 5 | 1.4% |
 | 🔷 TypeScript | 1 | 0.3% |
@@ -351,6 +351,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 3512 | Minimum Operations To Make Array Sum Divisible By K | 🟨 JavaScript |
 | 3516 | Find Closest Person | 🟨 JavaScript |
 | 3541 | Find Most Frequent Vowel And Consonant | ⚙️ C++, 🟨 JavaScript |
+| 3612 | Process String With Special Operations I | ⚙️ C++ |
 | 3622 | Check Divisibility By Digit Sum And Product | ⚙️ C++, 🟨 JavaScript |
 | 3643 | Flip Square Submatrix Vertically | ⚙️ C++ |
 | 3653 | X O R After Range Multiplication Queries I | ⚙️ C++ |
