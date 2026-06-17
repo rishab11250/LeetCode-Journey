@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-351-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-352-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,9 +16,9 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 221 | 63.0% |
-| 🟨 JavaScript | 174 | 49.6% |
-| 🗄️ SQL | 16 | 4.6% |
+| ⚙️ C++ | 222 | 63.1% |
+| 🟨 JavaScript | 174 | 49.4% |
+| 🗄️ SQL | 16 | 4.5% |
 | 🐍 Python | 5 | 1.4% |
 | 🔷 TypeScript | 1 | 0.3% |
 
@@ -257,6 +257,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 2351 | First Letter To Appear Twice | 🟨 JavaScript |
 | 2356 | Number Of Unique Subjects Taught By Each Teacher | 🗄️ SQL |
 | 2357 | Make Array Zero By Subtracting Equal Amounts | ⚙️ C++ |
+| 2363 | Merge Similar Items | ⚙️ C++ |
 | 2367 | Number Of Arithmetic Triplets | ⚙️ C++ |
 | 2396 | Strictly Palindromic Number | 🟨 JavaScript |
 | 2404 | Most Frequent Even Element | ⚙️ C++ |
