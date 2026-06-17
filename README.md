@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-357-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-358-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,9 +16,9 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 222 | 62.2% |
-| 🟨 JavaScript | 174 | 48.7% |
-| 🗄️ SQL | 21 | 5.9% |
+| ⚙️ C++ | 222 | 62.0% |
+| 🟨 JavaScript | 174 | 48.6% |
+| 🗄️ SQL | 22 | 6.1% |
 | 🐍 Python | 5 | 1.4% |
 | 🔷 TypeScript | 1 | 0.3% |
 
@@ -212,6 +212,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 1693 | Daily Leads And Partners | 🗄️ SQL |
 | 1716 | Calculate Money In Leetcode Bank | 🟨 JavaScript |
 | 1720 | Decode Xored Array | 🟨 JavaScript |
+| 1729 | Find Followers Count | 🗄️ SQL |
 | 1741 | Find Total Time Spent By Each Employee | 🗄️ SQL |
 | 1752 | Check If Array Is Sorted And Rotated | ⚙️ C++ |
 | 1757 | Recyclable And Low Fat Products | 🗄️ SQL |
