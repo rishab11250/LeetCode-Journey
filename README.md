@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-350-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-351-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 219 | 62.6% |
-| 🟨 JavaScript | 174 | 49.7% |
+| ⚙️ C++ | 221 | 63.0% |
+| 🟨 JavaScript | 174 | 49.6% |
 | 🗄️ SQL | 16 | 4.6% |
 | 🐍 Python | 5 | 1.4% |
 | 🔷 TypeScript | 1 | 0.3% |
@@ -131,7 +131,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 657 | Robot Return To Origin | ⚙️ C++, 🟨 JavaScript |
 | 682 | Baseball Game | 🟨 JavaScript |
 | 693 | Binary Number With Alternating Bits | 🟨 JavaScript |
-| 704 | Binary Search | 🟨 JavaScript |
+| 704 | Binary Search | ⚙️ C++, 🟨 JavaScript |
 | 709 | To Lower Case | ⚙️ C++, 🟨 JavaScript |
 | 728 | Self Dividing Numbers | ⚙️ C++ |
 | 739 | Daily Temperatures | ⚙️ C++ |
@@ -355,6 +355,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 3516 | Find Closest Person | 🟨 JavaScript |
 | 3541 | Find Most Frequent Vowel And Consonant | ⚙️ C++, 🟨 JavaScript |
 | 3612 | Process String With Special Operations I | ⚙️ C++ |
+| 3614 | Process Stringwith Special Operations I I | ⚙️ C++ |
 | 3622 | Check Divisibility By Digit Sum And Product | ⚙️ C++, 🟨 JavaScript |
 | 3643 | Flip Square Submatrix Vertically | ⚙️ C++ |
 | 3653 | X O R After Range Multiplication Queries I | ⚙️ C++ |
