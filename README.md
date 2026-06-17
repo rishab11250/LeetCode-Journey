@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-352-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-357-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,9 +16,9 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 222 | 63.1% |
-| 🟨 JavaScript | 174 | 49.4% |
-| 🗄️ SQL | 16 | 4.5% |
+| ⚙️ C++ | 222 | 62.2% |
+| 🟨 JavaScript | 174 | 48.7% |
+| 🗄️ SQL | 21 | 5.9% |
 | 🐍 Python | 5 | 1.4% |
 | 🔷 TypeScript | 1 | 0.3% |
 
@@ -121,8 +121,11 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 500 | Keyboard Row | ⚙️ C++ |
 | 506 | Relative Ranks | ⚙️ C++ |
 | 507 | Perfect Number | 🟨 JavaScript |
+| 511 | Game Play Analysis I | 🗄️ SQL |
 | 584 | Find Customer Referee | 🗄️ SQL |
+| 586 | Customer Placing The Largest Number Of Orders | 🗄️ SQL |
 | 595 | Big Countries | 🗄️ SQL |
+| 596 | Classes With At Least5 Students | 🗄️ SQL |
 | 610 | Triangle Judgement | 🗄️ SQL |
 | 620 | Not Boring Movies | 🗄️ SQL |
 | 627 | Swap Sex Of Employees | 🗄️ SQL |
@@ -154,11 +157,13 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 1021 | Remove Outermost Parentheses | ⚙️ C++ |
 | 1025 | Divisor Game | ⚙️ C++ |
 | 1047 | Remove All Adjacent Duplicates In String | ⚙️ C++ |
+| 1050 | Actors And Directors Who Cooperated At Least Three Times | 🗄️ SQL |
 | 1051 | Height Checker | ⚙️ C++ |
 | 1068 | Product Sales Analysis I | 🗄️ SQL |
 | 1078 | Occurrences After Bigram | ⚙️ C++ |
 | 1108 | Defanging An Ip Address | 🟨 JavaScript |
 | 1137 | N Th Tribonacci Number | ⚙️ C++, 🟨 JavaScript |
+| 1148 | Article Views I | 🗄️ SQL |
 | 1207 | Unique Number Of Occurrences | ⚙️ C++ |
 | 1209 | Remove All Adjacent Duplicates In String I I | ⚙️ C++ |
 | 1221 | Split A String In Balanced Strings | ⚙️ C++ |
