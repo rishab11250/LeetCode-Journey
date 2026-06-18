@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-358-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-359-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 222 | 62.0% |
-| 🟨 JavaScript | 174 | 48.6% |
+| ⚙️ C++ | 223 | 62.1% |
+| 🟨 JavaScript | 174 | 48.5% |
 | 🗄️ SQL | 22 | 6.1% |
 | 🐍 Python | 5 | 1.4% |
 | 🔷 TypeScript | 1 | 0.3% |
@@ -173,6 +173,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 1327 | List The Products Ordered In A Period | 🗄️ SQL |
 | 1331 | Rank Transform Of An Array | ⚙️ C++ |
 | 1342 | Number Of Steps To Reduce A Number To Zero | ⚙️ C++, 🟨 JavaScript |
+| 1344 | Angle Between Hands Of A Clock | ⚙️ C++ |
 | 1346 | Check If N And Its Double Exist | ⚙️ C++, 🟨 JavaScript |
 | 1351 | Count Negative Numbers In A Sorted Matrix | 🟨 JavaScript |
 | 1365 | How Many Numbers Are Smaller Than The Current Number | ⚙️ C++, 🟨 JavaScript |
