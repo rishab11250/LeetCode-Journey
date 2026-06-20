@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-360-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-361-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 224 | 62.2% |
-| 🟨 JavaScript | 174 | 48.3% |
+| ⚙️ C++ | 225 | 62.3% |
+| 🟨 JavaScript | 174 | 48.2% |
 | 🗄️ SQL | 22 | 6.1% |
 | 🐍 Python | 5 | 1.4% |
 | 🔷 TypeScript | 1 | 0.3% |
@@ -101,6 +101,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 258 | Add Digits | ⚙️ C++, 🟨 JavaScript |
 | 263 | Ugly Number | ⚙️ C++ |
 | 268 | Missing Number | ⚙️ C++ |
+| 278 | First Bad Version | ⚙️ C++ |
 | 283 | Move Zeroes | ⚙️ C++, 🟨 JavaScript |
 | 290 | Word Pattern | ⚙️ C++ |
 | 292 | Nim Game | ⚙️ C++ |
