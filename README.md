@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-361-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-364-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,9 +16,9 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 225 | 62.3% |
-| 🟨 JavaScript | 174 | 48.2% |
-| 🗄️ SQL | 22 | 6.1% |
+| ⚙️ C++ | 228 | 62.6% |
+| 🟨 JavaScript | 174 | 47.8% |
+| 🗄️ SQL | 22 | 6.0% |
 | 🐍 Python | 5 | 1.4% |
 | 🔷 TypeScript | 1 | 0.3% |
 
@@ -229,6 +229,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 1822 | Sign Of The Product Of An Array | ⚙️ C++, 🟨 JavaScript |
 | 1828 | Queries On Number Of Points Inside A Circle | 🟨 JavaScript |
 | 1832 | Check If The Sentence Is Pangram | ⚙️ C++, 🟨 JavaScript |
+| 1833 | Maximum Ice Cream Bars | ⚙️ C++ |
 | 1844 | Replace All Digitswith Characters | ⚙️ C++ |
 | 1848 | Minimum Distance To The Target Element | ⚙️ C++ |
 | 1859 | Sorting The Sentence | ⚙️ C++ |
@@ -405,6 +406,8 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 3950 | Exactly One Consecutive Set Bits Pair | ⚙️ C++ |
 | 3954 | Sumof Compatible Numbersin Range I | ⚙️ C++ |
 | 3959 | Check Good Integer | ⚙️ C++ |
+| 3968 | Maximum Manhattan Distance After All Moves | ⚙️ C++ |
+| 3969 | Valid Subarrays With Matching Sum Digits I | ⚙️ C++ |
 
 ---
 
