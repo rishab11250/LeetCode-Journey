@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-364-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-365-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 228 | 62.6% |
-| 🟨 JavaScript | 174 | 47.8% |
+| ⚙️ C++ | 229 | 62.7% |
+| 🟨 JavaScript | 174 | 47.7% |
 | 🗄️ SQL | 22 | 6.0% |
 | 🐍 Python | 5 | 1.4% |
 | 🔷 TypeScript | 1 | 0.3% |
@@ -165,6 +165,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 1108 | Defanging An Ip Address | 🟨 JavaScript |
 | 1137 | N Th Tribonacci Number | ⚙️ C++, 🟨 JavaScript |
 | 1148 | Article Views I | 🗄️ SQL |
+| 1189 | Maximum Number Of Balloons | ⚙️ C++ |
 | 1207 | Unique Number Of Occurrences | ⚙️ C++ |
 | 1209 | Remove All Adjacent Duplicates In String I I | ⚙️ C++ |
 | 1221 | Split A String In Balanced Strings | ⚙️ C++ |
