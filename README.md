@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-365-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-366-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 229 | 62.7% |
-| 🟨 JavaScript | 174 | 47.7% |
+| ⚙️ C++ | 230 | 62.8% |
+| 🟨 JavaScript | 174 | 47.5% |
 | 🗄️ SQL | 22 | 6.0% |
 | 🐍 Python | 5 | 1.4% |
 | 🔷 TypeScript | 1 | 0.3% |
@@ -375,6 +375,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 3668 | Restore Finishing Order | ⚙️ C++, 🟨 JavaScript |
 | 3701 | Compute Alternating Sum | 🟨 JavaScript |
 | 3731 | Find Missing Elements | 🟨 JavaScript |
+| 3737 | Count Subarrays With Majority Element I | ⚙️ C++ |
 | 3740 | Minimum Distance Between Three Equal Elements I | ⚙️ C++ |
 | 3750 | Minimum Number Of Flips To Reverse Binary String | 🟨 JavaScript |
 | 3751 | Total Waviness Of Numbers In Range I | ⚙️ C++ |
