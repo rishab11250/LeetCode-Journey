@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-366-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-367-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 230 | 62.8% |
-| 🟨 JavaScript | 174 | 47.5% |
+| ⚙️ C++ | 231 | 62.9% |
+| 🟨 JavaScript | 174 | 47.4% |
 | 🗄️ SQL | 22 | 6.0% |
 | 🐍 Python | 5 | 1.4% |
 | 🔷 TypeScript | 1 | 0.3% |
@@ -232,6 +232,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 1832 | Check If The Sentence Is Pangram | ⚙️ C++, 🟨 JavaScript |
 | 1833 | Maximum Ice Cream Bars | ⚙️ C++ |
 | 1844 | Replace All Digitswith Characters | ⚙️ C++ |
+| 1846 | Maximum Element After Decreasing And Rearranging | ⚙️ C++ |
 | 1848 | Minimum Distance To The Target Element | ⚙️ C++ |
 | 1859 | Sorting The Sentence | ⚙️ C++ |
 | 1863 | Sum Of All Subset Xor Totals | 🟨 JavaScript |
