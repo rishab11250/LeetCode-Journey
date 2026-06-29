@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-367-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-368-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 231 | 62.9% |
-| 🟨 JavaScript | 174 | 47.4% |
+| ⚙️ C++ | 232 | 63.0% |
+| 🟨 JavaScript | 174 | 47.3% |
 | 🗄️ SQL | 22 | 6.0% |
 | 🐍 Python | 5 | 1.4% |
 | 🔷 TypeScript | 1 | 0.3% |
@@ -411,6 +411,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 3959 | Check Good Integer | ⚙️ C++ |
 | 3968 | Maximum Manhattan Distance After All Moves | ⚙️ C++ |
 | 3969 | Valid Subarrays With Matching Sum Digits I | ⚙️ C++ |
+| 3974 | Maximum Total Sum Of K Selected Elements | ⚙️ C++ |
 
 ---
 
