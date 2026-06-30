@@ -1,0 +1,29 @@
+#include <iostream>
+#include <string>
+#include <vector>
+#include <algorithm>
+using namespace std;
+
+class Solution {
+public:
+    int minMaxGame(vector<int>& nums) {
+        while(nums.size() > 1) {
+            vector<int> newNum(nums.size() / 2);
+            for(int i = 0; i < newNum.size(); i++) {
+                if(i % 2 == 0) {
+                    newNum[i] = min(nums[2 * i], nums[2 * i + 1]);
+                }
+                else {
+                    newNum[i] = max(nums[2 * i], nums[2 * i + 1]);
+                }
+            }
+            nums = newNum;
+        }
+        return nums[0];
+    }
+};
+
+int main(){
+    
+    return 0;
+}
