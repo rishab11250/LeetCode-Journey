@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-369-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-370-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,9 +16,9 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 233 | 63.1% |
-| 🟨 JavaScript | 174 | 47.2% |
-| 🗄️ SQL | 22 | 6.0% |
+| ⚙️ C++ | 234 | 63.2% |
+| 🟨 JavaScript | 174 | 47.0% |
+| 🗄️ SQL | 22 | 5.9% |
 | 🐍 Python | 5 | 1.4% |
 | 🔷 TypeScript | 1 | 0.3% |
 
@@ -266,6 +266,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 2221 | Find Triangular Sum Of An Array | 🟨 JavaScript |
 | 2235 | Add Two Integers | ⚙️ C++ |
 | 2278 | Percentage Of Letter In String | ⚙️ C++ |
+| 2293 | Min Max Game | ⚙️ C++ |
 | 2315 | Count Asterisks | ⚙️ C++ |
 | 2351 | First Letter To Appear Twice | 🟨 JavaScript |
 | 2356 | Number Of Unique Subjects Taught By Each Teacher | 🗄️ SQL |
