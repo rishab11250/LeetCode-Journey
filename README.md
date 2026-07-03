@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-370-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-371-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,10 +16,10 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 234 | 63.2% |
-| 🟨 JavaScript | 174 | 47.0% |
+| ⚙️ C++ | 235 | 63.3% |
+| 🟨 JavaScript | 174 | 46.9% |
 | 🗄️ SQL | 22 | 5.9% |
-| 🐍 Python | 5 | 1.4% |
+| 🐍 Python | 5 | 1.3% |
 | 🔷 TypeScript | 1 | 0.3% |
 
 ---
@@ -119,6 +119,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 455 | Assign Cookies | ⚙️ C++ |
 | 476 | Number Complement | ⚙️ C++ |
 | 485 | Max Consecutive Ones | ⚙️ C++, 🟨 JavaScript |
+| 496 | Next Greater Element I | ⚙️ C++ |
 | 500 | Keyboard Row | ⚙️ C++ |
 | 506 | Relative Ranks | ⚙️ C++ |
 | 507 | Perfect Number | 🟨 JavaScript |
