@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-373-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-374-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 237 | 63.5% |
-| 🟨 JavaScript | 174 | 46.6% |
+| ⚙️ C++ | 238 | 63.6% |
+| 🟨 JavaScript | 174 | 46.5% |
 | 🗄️ SQL | 22 | 5.9% |
 | 🐍 Python | 5 | 1.3% |
 | 🔷 TypeScript | 1 | 0.3% |
@@ -383,6 +383,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 3740 | Minimum Distance Between Three Equal Elements I | ⚙️ C++ |
 | 3750 | Minimum Number Of Flips To Reverse Binary String | 🟨 JavaScript |
 | 3751 | Total Waviness Of Numbers In Range I | ⚙️ C++ |
+| 3754 | Concatenate Non- Zero Digits And Multiply By Sum I | ⚙️ C++ |
 | 3760 | Maximum Substrings With Distinct Start | 🟨 JavaScript |
 | 3783 | Mirror Distance Of An Integer | ⚙️ C++, 🟨 JavaScript |
 | 3794 | Reverse String Prefix | 🟨 JavaScript |
