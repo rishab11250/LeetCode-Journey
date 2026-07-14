@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-374-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-375-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 238 | 63.6% |
-| 🟨 JavaScript | 174 | 46.5% |
+| ⚙️ C++ | 239 | 63.7% |
+| 🟨 JavaScript | 174 | 46.4% |
 | 🗄️ SQL | 22 | 5.9% |
 | 🐍 Python | 5 | 1.3% |
 | 🔷 TypeScript | 1 | 0.3% |
@@ -418,6 +418,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 3974 | Maximum Total Sum Of K Selected Elements | ⚙️ C++ |
 | 3978 | Unique Middle Element | ⚙️ C++ |
 | 3979 | Maximum Valid Pair Sum | ⚙️ C++ |
+| 3986 | Numberof Elapsed Seconds Between Two Times | ⚙️ C++ |
 
 ---
 
