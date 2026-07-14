@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-375-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-377-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,9 +16,9 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 239 | 63.7% |
-| 🟨 JavaScript | 174 | 46.4% |
-| 🗄️ SQL | 22 | 5.9% |
+| ⚙️ C++ | 241 | 63.9% |
+| 🟨 JavaScript | 174 | 46.2% |
+| 🗄️ SQL | 22 | 5.8% |
 | 🐍 Python | 5 | 1.3% |
 | 🔷 TypeScript | 1 | 0.3% |
 
@@ -132,6 +132,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 620 | Not Boring Movies | 🗄️ SQL |
 | 627 | Swap Sex Of Employees | 🗄️ SQL |
 | 628 | Maximum Product Of Three Numbers | ⚙️ C++ |
+| 643 | Maximum Average Subarray I | ⚙️ C++ |
 | 645 | Set Mismatch | ⚙️ C++ |
 | 657 | Robot Return To Origin | ⚙️ C++, 🟨 JavaScript |
 | 682 | Baseball Game | 🟨 JavaScript |
@@ -189,6 +190,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 1431 | Kids With The Greatest Number Of Candies | 🟨 JavaScript |
 | 1446 | Consecutive Characters | ⚙️ C++ |
 | 1455 | Check If A Word Occurs As A Prefix Of Any Word In A Sentence | 🟨 JavaScript |
+| 1456 | Maximum Number Of Vowels In A Substring Of Given Length | ⚙️ C++ |
 | 1464 | Maximum Product Of Two Elements In An Array | 🟨 JavaScript |
 | 1470 | Shuffle The Array | ⚙️ C++, 🟨 JavaScript |
 | 1475 | Final Prices With A Special Discount In A Shop | ⚙️ C++ |
