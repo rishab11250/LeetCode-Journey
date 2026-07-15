@@ -16,7 +16,7 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 241 | 63.9% |
+| ⚙️ C++ | 242 | 64.2% |
 | 🟨 JavaScript | 174 | 46.2% |
 | 🗄️ SQL | 22 | 5.8% |
 | 🐍 Python | 5 | 1.3% |
@@ -377,7 +377,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 3622 | Check Divisibility By Digit Sum And Product | ⚙️ C++, 🟨 JavaScript |
 | 3643 | Flip Square Submatrix Vertically | ⚙️ C++ |
 | 3653 | X O R After Range Multiplication Queries I | ⚙️ C++ |
-| 3658 | Gcd Of Odd And Even Sums | 🟨 JavaScript |
+| 3658 | Gcd Of Odd And Even Sums | ⚙️ C++, 🟨 JavaScript |
 | 3668 | Restore Finishing Order | ⚙️ C++, 🟨 JavaScript |
 | 3701 | Compute Alternating Sum | 🟨 JavaScript |
 | 3731 | Find Missing Elements | 🟨 JavaScript |
