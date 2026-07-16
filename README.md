@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-377-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-378-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 242 | 64.2% |
-| 🟨 JavaScript | 174 | 46.2% |
+| ⚙️ C++ | 243 | 64.3% |
+| 🟨 JavaScript | 174 | 46.0% |
 | 🗄️ SQL | 22 | 5.8% |
 | 🐍 Python | 5 | 1.3% |
 | 🔷 TypeScript | 1 | 0.3% |
@@ -45,6 +45,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | # | Problem | Languages |
 |--:|:--------|:----------|
 | 1 | Two Sum | ⚙️ C++, 🟨 JavaScript |
+| 3 | Longest Substring Without Repeating Characters | ⚙️ C++ |
 | 4 | Median Of Two Sorted Arrays | ⚙️ C++, 🟨 JavaScript |
 | 7 | Reverse Integer | 🟨 JavaScript |
 | 8 | String To Integer(atoi) | ⚙️ C++ |
