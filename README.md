@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-379-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-381-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 244 | 64.4% |
-| 🟨 JavaScript | 174 | 45.9% |
+| ⚙️ C++ | 246 | 64.6% |
+| 🟨 JavaScript | 174 | 45.7% |
 | 🗄️ SQL | 22 | 5.8% |
 | 🐍 Python | 5 | 1.3% |
 | 🔷 TypeScript | 1 | 0.3% |
@@ -127,6 +127,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 511 | Game Play Analysis I | 🗄️ SQL |
 | 584 | Find Customer Referee | 🗄️ SQL |
 | 586 | Customer Placing The Largest Number Of Orders | 🗄️ SQL |
+| 594 | Longest Harmonious Subsequence | ⚙️ C++ |
 | 595 | Big Countries | 🗄️ SQL |
 | 596 | Classes With At Least5 Students | 🗄️ SQL |
 | 610 | Triangle Judgement | 🗄️ SQL |
@@ -325,6 +326,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 2778 | Sum Of Squares Of Special Elements | ⚙️ C++ |
 | 2784 | Check If Array Is Good | ⚙️ C++ |
 | 2798 | Number Of Employees Who Met The Target | ⚙️ C++, 🟨 JavaScript |
+| 2807 | Insert Greatest Common Divisors In Linked List | ⚙️ C++ |
 | 2824 | Count Pairs Whose Sum Is Less Than Target | 🟨 JavaScript |
 | 2833 | Furthest Point From Origin | ⚙️ C++ |
 | 2839 | Check If Strings Can Be Made Equal With Operations I | ⚙️ C++ |
