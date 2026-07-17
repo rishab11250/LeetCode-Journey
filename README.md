@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-382-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-384-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,9 +16,9 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 247 | 64.7% |
-| 🟨 JavaScript | 174 | 45.5% |
-| 🗄️ SQL | 22 | 5.8% |
+| ⚙️ C++ | 249 | 64.8% |
+| 🟨 JavaScript | 174 | 45.3% |
+| 🗄️ SQL | 22 | 5.7% |
 | 🐍 Python | 5 | 1.3% |
 | 🔷 TypeScript | 1 | 0.3% |
 
@@ -116,6 +116,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 394 | Decode String | ⚙️ C++ |
 | 412 | Fizz Buzz | ⚙️ C++ |
 | 434 | Numberof Segmentsina String | ⚙️ C++ |
+| 438 | Find All Anagrams In A String | ⚙️ C++ |
 | 442 | Find All Duplicates In An Array | ⚙️ C++ |
 | 448 | Find All Numbers Disappearedinan Array | ⚙️ C++ |
 | 455 | Assign Cookies | ⚙️ C++ |
@@ -287,6 +288,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 2433 | Find The Original Array Of Prefix Xor | 🟨 JavaScript |
 | 2455 | Average Value Of Even Numbers That Are Divisible By Three | ⚙️ C++ |
 | 2460 | Apply Operations To An Array | ⚙️ C++ |
+| 2461 | Maximum Sum Of Distinct Subarrays With Length K | ⚙️ C++ |
 | 2465 | Number Of Distinct Averages | 🟨 JavaScript |
 | 2469 | Convert The Temperature | 🟨 JavaScript |
 | 2475 | Number Of Unequal Triplets In Array | ⚙️ C++ |
