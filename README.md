@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-381-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-382-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 246 | 64.6% |
-| 🟨 JavaScript | 174 | 45.7% |
+| ⚙️ C++ | 247 | 64.7% |
+| 🟨 JavaScript | 174 | 45.5% |
 | 🗄️ SQL | 22 | 5.8% |
 | 🐍 Python | 5 | 1.3% |
 | 🔷 TypeScript | 1 | 0.3% |
@@ -104,6 +104,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 268 | Missing Number | ⚙️ C++ |
 | 278 | First Bad Version | ⚙️ C++ |
 | 283 | Move Zeroes | ⚙️ C++, 🟨 JavaScript |
+| 287 | Find The Duplicate Number | ⚙️ C++ |
 | 290 | Word Pattern | ⚙️ C++ |
 | 292 | Nim Game | ⚙️ C++ |
 | 326 | Power Of Three | ⚙️ C++, 🟨 JavaScript |
