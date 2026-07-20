@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-389-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-390-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,9 +16,9 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 254 | 65.3% |
-| 🟨 JavaScript | 174 | 44.7% |
-| 🗄️ SQL | 22 | 5.7% |
+| ⚙️ C++ | 255 | 65.4% |
+| 🟨 JavaScript | 174 | 44.6% |
+| 🗄️ SQL | 22 | 5.6% |
 | 🐍 Python | 5 | 1.3% |
 | 🔷 TypeScript | 1 | 0.3% |
 
@@ -215,6 +215,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 1561 | Maximum Number Of Coins You Can Get | ⚙️ C++ |
 | 1637 | Widest Vertical Area Between Two Points Containing No Points | 🟨 JavaScript |
 | 1652 | Defuse The Bomb | ⚙️ C++ |
+| 1669 | Merge In Between Linked Lists | ⚙️ C++ |
 | 1672 | Richest Customer Wealth | ⚙️ C++, 🟨 JavaScript |
 | 1678 | Goal Parser Interpretation | ⚙️ C++, 🟨 JavaScript |
 | 1683 | Invalid Tweets | 🗄️ SQL |
