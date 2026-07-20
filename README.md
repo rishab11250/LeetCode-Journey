@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-388-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-389-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 253 | 65.2% |
-| 🟨 JavaScript | 174 | 44.8% |
+| ⚙️ C++ | 254 | 65.3% |
+| 🟨 JavaScript | 174 | 44.7% |
 | 🗄️ SQL | 22 | 5.7% |
 | 🐍 Python | 5 | 1.3% |
 | 🔷 TypeScript | 1 | 0.3% |
@@ -97,6 +97,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 219 | Contains Duplicate I I | ⚙️ C++ |
 | 228 | Summary Ranges | ⚙️ C++ |
 | 231 | Power Of Two | ⚙️ C++, 🟨 JavaScript |
+| 237 | Delete Node In A Linked List | ⚙️ C++ |
 | 238 | Product Of Array Except Self | ⚙️ C++ |
 | 242 | Valid Anagram | ⚙️ C++, 🟨 JavaScript |
 | 258 | Add Digits | ⚙️ C++, 🟨 JavaScript |
