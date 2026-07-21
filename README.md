@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-390-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-392-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 255 | 65.4% |
-| 🟨 JavaScript | 174 | 44.6% |
+| ⚙️ C++ | 257 | 65.6% |
+| 🟨 JavaScript | 174 | 44.4% |
 | 🗄️ SQL | 22 | 5.6% |
 | 🐍 Python | 5 | 1.3% |
 | 🔷 TypeScript | 1 | 0.3% |
@@ -182,6 +182,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 1327 | List The Products Ordered In A Period | 🗄️ SQL |
 | 1331 | Rank Transform Of An Array | ⚙️ C++ |
 | 1342 | Number Of Steps To Reduce A Number To Zero | ⚙️ C++, 🟨 JavaScript |
+| 1343 | Number Of Sub-arrays Of Size K And Average Greater Than Or Equal To Threshold | ⚙️ C++ |
 | 1344 | Angle Between Hands Of A Clock | ⚙️ C++ |
 | 1346 | Check If N And Its Double Exist | ⚙️ C++, 🟨 JavaScript |
 | 1351 | Count Negative Numbers In A Sorted Matrix | 🟨 JavaScript |
@@ -192,6 +193,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 1404 | Number Of Steps To Reduce A Number In Binary Representation To One | 🟨 JavaScript |
 | 1408 | String Matching In An Array | ⚙️ C++ |
 | 1409 | Queries On A Permutation With Key | 🟨 JavaScript |
+| 1423 | Maximum Points You Can Obtain From Cards | ⚙️ C++ |
 | 1431 | Kids With The Greatest Number Of Candies | 🟨 JavaScript |
 | 1446 | Consecutive Characters | ⚙️ C++ |
 | 1455 | Check If A Word Occurs As A Prefix Of Any Word In A Sentence | 🟨 JavaScript |
