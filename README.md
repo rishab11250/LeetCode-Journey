@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-392-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-394-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 257 | 65.6% |
-| 🟨 JavaScript | 174 | 44.4% |
+| ⚙️ C++ | 260 | 66.0% |
+| 🟨 JavaScript | 174 | 44.2% |
 | 🗄️ SQL | 22 | 5.6% |
 | 🐍 Python | 5 | 1.3% |
 | 🔷 TypeScript | 1 | 0.3% |
@@ -155,6 +155,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 832 | Flipping An Image | 🟨 JavaScript |
 | 868 | Binary Gap | 🟨 JavaScript |
 | 877 | Stone Game | ⚙️ C++ |
+| 896 | Monotonic Array | ⚙️ C++ |
 | 905 | Sort Array By Parity | ⚙️ C++ |
 | 917 | Reverse Only Letters | ⚙️ C++ |
 | 942 | D I String Match | ⚙️ C++ |
@@ -194,7 +195,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 1408 | String Matching In An Array | ⚙️ C++ |
 | 1409 | Queries On A Permutation With Key | 🟨 JavaScript |
 | 1423 | Maximum Points You Can Obtain From Cards | ⚙️ C++ |
-| 1431 | Kids With The Greatest Number Of Candies | 🟨 JavaScript |
+| 1431 | Kids With The Greatest Number Of Candies | ⚙️ C++, 🟨 JavaScript |
 | 1446 | Consecutive Characters | ⚙️ C++ |
 | 1455 | Check If A Word Occurs As A Prefix Of Any Word In A Sentence | 🟨 JavaScript |
 | 1456 | Maximum Number Of Vowels In A Substring Of Given Length | ⚙️ C++ |
@@ -273,6 +274,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 2154 | Keep Multiplying Found Values By Two | 🟨 JavaScript |
 | 2160 | Minimum Sum Of Four Digit Number After Splitting Digits | ⚙️ C++, 🟨 JavaScript |
 | 2161 | Partition Array According To Given Pivot | ⚙️ C++, 🟨 JavaScript |
+| 2176 | Count Equal And Divisible Pairs In An Array | ⚙️ C++ |
 | 2180 | Count Integers With Even Digit Sum | ⚙️ C++ |
 | 2220 | Minimum Bit Flips To Convert Number | 🟨 JavaScript |
 | 2221 | Find Triangular Sum Of An Array | 🟨 JavaScript |
