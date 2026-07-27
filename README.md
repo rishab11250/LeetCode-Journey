@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-394-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-396-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 260 | 66.0% |
-| 🟨 JavaScript | 174 | 44.2% |
+| ⚙️ C++ | 263 | 66.4% |
+| 🟨 JavaScript | 174 | 43.9% |
 | 🗄️ SQL | 22 | 5.6% |
 | 🐍 Python | 5 | 1.3% |
 | 🔷 TypeScript | 1 | 0.3% |
@@ -177,6 +177,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 1207 | Unique Number Of Occurrences | ⚙️ C++ |
 | 1209 | Remove All Adjacent Duplicates In String I I | ⚙️ C++ |
 | 1221 | Split A String In Balanced Strings | ⚙️ C++ |
+| 1227 | Airplane Seat Assignment Probability | ⚙️ C++ |
 | 1281 | Subtract The Product And Sum Of Digits Of An Integer | ⚙️ C++, 🟨 JavaScript |
 | 1282 | Group The People Given The Group Size They Belong To | 🟨 JavaScript |
 | 1323 | Maximum69 Number | ⚙️ C++ |
@@ -238,7 +239,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 1769 | Minimum Number Of Operations To Move All Balls To Each Box | 🟨 JavaScript |
 | 1773 | Count Items Matching A Rule | 🟨 JavaScript |
 | 1784 | Check If Binary String Has At Most One Segment Of Ones | ⚙️ C++ |
-| 1812 | Determine Color Of A Chessboard Square | 🟨 JavaScript |
+| 1812 | Determine Color Of A Chessboard Square | ⚙️ C++, 🟨 JavaScript |
 | 1816 | Truncate Sentence | ⚙️ C++, 🟨 JavaScript |
 | 1822 | Sign Of The Product Of An Array | ⚙️ C++, 🟨 JavaScript |
 | 1828 | Queries On Number Of Points Inside A Circle | 🟨 JavaScript |
@@ -404,6 +405,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 3783 | Mirror Distance Of An Integer | ⚙️ C++, 🟨 JavaScript |
 | 3794 | Reverse String Prefix | 🟨 JavaScript |
 | 3798 | Largest Even Number | ⚙️ C++ |
+| 3828 | Final Element After Subarray Deletions | ⚙️ C++ |
 | 3838 | Weighted Word Mapping | ⚙️ C++ |
 | 3857 | Minimum Cost To Split Into Ones | ⚙️ C++ |
 | 3867 | Sum Of G C D Of Formed Pairs | ⚙️ C++ |
