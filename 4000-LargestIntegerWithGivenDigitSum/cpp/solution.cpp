@@ -6,19 +6,18 @@ using namespace std;
 
 class Solution {
 public:
-    int countQuadruplets(vector<int>& nums) {
-        int c = 0, n = nums.size();
-        for (int i = 0; i < n - 3; i++) {
-            for (int j = i + 1; j < n - 2; j++) {
-                for (int k = j + 1; k < n - 1; k++) {
-                    for (int l = k + 1; l < n; l++) {
-                        if (nums[i] + nums[j] + nums[k] == nums[l])
-                            c++;
-                    }
-                }
-            }
+    int largestInteger(int n, int s) {
+        if ((n * 9) < s) return -1;
+
+        int ans = 0;
+
+        for (int i = 0; i < n; i++) {
+            int x = min(s, 9);
+            s -= x;
+            ans = ans * 10 + x;
         }
-        return c;
+
+        return ans;
     }
 };
 
