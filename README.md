@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-396-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-399-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,9 +16,9 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 263 | 66.4% |
-| 🟨 JavaScript | 174 | 43.9% |
-| 🗄️ SQL | 22 | 5.6% |
+| ⚙️ C++ | 265 | 66.4% |
+| 🟨 JavaScript | 174 | 43.6% |
+| 🗄️ SQL | 23 | 5.8% |
 | 🐍 Python | 5 | 1.3% |
 | 🔷 TypeScript | 1 | 0.3% |
 
@@ -134,6 +134,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 595 | Big Countries | 🗄️ SQL |
 | 596 | Classes With At Least5 Students | 🗄️ SQL |
 | 610 | Triangle Judgement | 🗄️ SQL |
+| 619 | Biggest Single Number | 🗄️ SQL |
 | 620 | Not Boring Movies | 🗄️ SQL |
 | 627 | Swap Sex Of Employees | 🗄️ SQL |
 | 628 | Maximum Product Of Three Numbers | ⚙️ C++ |
@@ -257,6 +258,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 1952 | Three Divisors | ⚙️ C++ |
 | 1967 | Number Of Strings That Appear As Substrings In Word | ⚙️ C++ |
 | 1979 | Find Greatest Common Divisor Of Array | ⚙️ C++ |
+| 1995 | Count Special Quadruplets | ⚙️ C++ |
 | 2000 | Reverse Prefixof Word | ⚙️ C++ |
 | 2011 | Final Value Of Variable After Performing Operations | 🟨 JavaScript |
 | 2037 | Minimum Number Of Moves To Seat Everyone | ⚙️ C++, 🟨 JavaScript |
@@ -440,6 +442,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 3992 | Rearrange String To Avoid Character Pair | ⚙️ C++ |
 | 3993 | Maximum Value Of An Alternating Sequence | ⚙️ C++ |
 | 3996 | Even Number Of Knight Moves | ⚙️ C++ |
+| 4000 | Largest Integer With Given Digit Sum | ⚙️ C++ |
 
 ---
 
