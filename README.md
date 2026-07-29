@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-404-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-405-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 269 | 66.6% |
-| 🟨 JavaScript | 174 | 43.1% |
+| ⚙️ C++ | 270 | 66.7% |
+| 🟨 JavaScript | 174 | 43.0% |
 | 🗄️ SQL | 25 | 6.2% |
 | 🐍 Python | 5 | 1.2% |
 | 🔷 TypeScript | 1 | 0.2% |
@@ -272,6 +272,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 2073 | Time Needed To Buy Tickets | ⚙️ C++ |
 | 2078 | Two Furthest Houses With Different Colors | ⚙️ C++ |
 | 2089 | Find Target Indices After Sorting Array | ⚙️ C++ |
+| 2095 | Delete The Middle Node Of A Linked List | ⚙️ C++ |
 | 2108 | Find First Palindromic String In The Array | 🟨 JavaScript |
 | 2114 | Maximum Number Of Words Found In Sentences | ⚙️ C++, 🟨 JavaScript |
 | 2119 | A Number After A Double Reversal | 🟨 JavaScript |
