@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-400-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-404-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,11 +16,11 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 266 | 66.5% |
-| 🟨 JavaScript | 174 | 43.5% |
-| 🗄️ SQL | 23 | 5.8% |
-| 🐍 Python | 5 | 1.3% |
-| 🔷 TypeScript | 1 | 0.3% |
+| ⚙️ C++ | 269 | 66.6% |
+| 🟨 JavaScript | 174 | 43.1% |
+| 🗄️ SQL | 25 | 6.2% |
+| 🐍 Python | 5 | 1.2% |
+| 🔷 TypeScript | 1 | 0.2% |
 
 ---
 
@@ -54,6 +54,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 12 | Integer To Roman | ⚙️ C++ |
 | 13 | Roman To Integer | ⚙️ C++, 🟨 JavaScript |
 | 14 | Longest Common Prefix | ⚙️ C++ |
+| 16 | 3 Sum Closest | ⚙️ C++ |
 | 26 | Remove Duplicates From Sorted Array | ⚙️ C++, 🟨 JavaScript |
 | 27 | Remove Element | ⚙️ C++, 🟨 JavaScript |
 | 28 | Find The Index Of The First Occurrence In A String | ⚙️ C++, 🟨 JavaScript |
@@ -69,7 +70,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 67 | Add Binary | 🟨 JavaScript |
 | 69 | Sqrtx | ⚙️ C++, 🟨 JavaScript |
 | 71 | Simplify Path | ⚙️ C++ |
-| 75 | Sort Colors | 🟨 JavaScript |
+| 75 | Sort Colors | ⚙️ C++, 🟨 JavaScript |
 | 81 | Search In Rotated Sorted Array I I | ⚙️ C++ |
 | 88 | Merge Sorted Array | ⚙️ C++, 🟨 JavaScript |
 | 118 | Pascals Triangle | ⚙️ C++ |
@@ -86,11 +87,13 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 167 | Two Sum I I- Input Array Is Sorted | ⚙️ C++ |
 | 169 | Majority Element | ⚙️ C++, 🟨 JavaScript |
 | 171 | Excel Sheet Column Number | ⚙️ C++ |
+| 175 | Combine Two Tables | 🗄️ SQL |
 | 182 | Duplicate Emails | 🗄️ SQL |
 | 189 | Rotate Array | ⚙️ C++, 🟨 JavaScript |
 | 190 | Reverse Bits | ⚙️ C++ |
 | 191 | Number Of1 Bits | ⚙️ C++ |
 | 202 | Happy Number | ⚙️ C++ |
+| 203 | Remove Linked List Elements | ⚙️ C++ |
 | 205 | Isomorphic Strings | ⚙️ C++ |
 | 215 | Kth Largest Element In An Array | 🟨 JavaScript |
 | 217 | Contains Duplicate | ⚙️ C++ |
@@ -128,6 +131,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 506 | Relative Ranks | ⚙️ C++ |
 | 507 | Perfect Number | 🟨 JavaScript |
 | 511 | Game Play Analysis I | 🗄️ SQL |
+| 577 | Employee Bonus | 🗄️ SQL |
 | 584 | Find Customer Referee | 🗄️ SQL |
 | 586 | Customer Placing The Largest Number Of Orders | 🗄️ SQL |
 | 594 | Longest Harmonious Subsequence | ⚙️ C++ |
