@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-405-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-410-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,9 +16,9 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 270 | 66.7% |
-| 🟨 JavaScript | 174 | 43.0% |
-| 🗄️ SQL | 25 | 6.2% |
+| ⚙️ C++ | 274 | 66.8% |
+| 🟨 JavaScript | 174 | 42.4% |
+| 🗄️ SQL | 26 | 6.3% |
 | 🐍 Python | 5 | 1.2% |
 | 🔷 TypeScript | 1 | 0.2% |
 
@@ -88,6 +88,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 169 | Majority Element | ⚙️ C++, 🟨 JavaScript |
 | 171 | Excel Sheet Column Number | ⚙️ C++ |
 | 175 | Combine Two Tables | 🗄️ SQL |
+| 181 | Employees Earning More Than Their Managers | 🗄️ SQL |
 | 182 | Duplicate Emails | 🗄️ SQL |
 | 189 | Rotate Array | ⚙️ C++, 🟨 JavaScript |
 | 190 | Reverse Bits | ⚙️ C++ |
@@ -122,6 +123,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 434 | Numberof Segmentsina String | ⚙️ C++ |
 | 438 | Find All Anagrams In A String | ⚙️ C++ |
 | 442 | Find All Duplicates In An Array | ⚙️ C++ |
+| 443 | String Compression | ⚙️ C++ |
 | 448 | Find All Numbers Disappearedinan Array | ⚙️ C++ |
 | 455 | Assign Cookies | ⚙️ C++ |
 | 476 | Number Complement | ⚙️ C++ |
@@ -363,6 +365,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 2951 | Find The Peaks | ⚙️ C++ |
 | 2966 | Divide Array Into Arrays With Max Difference | ⚙️ C++ |
 | 2974 | Minimum Number Game | 🟨 JavaScript |
+| 3014 | Minimum Number Of Pushes To Type Word I | ⚙️ C++ |
 | 3019 | Number Of Changing Keys | ⚙️ C++, 🟨 JavaScript |
 | 3024 | Type Of Triangle | 🟨 JavaScript |
 | 3043 | Find The Length Of The Longest Common Prefix | ⚙️ C++ |
@@ -375,6 +378,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 3136 | Valid Word | 🟨 JavaScript |
 | 3146 | Permutation Difference Between Two Strings | 🟨 JavaScript |
 | 3162 | Find The Number Of Good Pairs I | ⚙️ C++ |
+| 3163 | String Compression I I I | ⚙️ C++ |
 | 3190 | Find Minimum Operations To Make All Elements Divisible By Three | 🟨 JavaScript |
 | 3194 | Minimum Average Of Smallest And Largest Elements | 🟨 JavaScript |
 | 3232 | Find If Digit Game Can Be Won | ⚙️ C++, 🟨 JavaScript |
@@ -383,6 +387,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 3285 | Find Indices Of Stable Mountains | 🟨 JavaScript |
 | 3289 | The Two Sneaky Numbers Of Digitville | 🟨 JavaScript |
 | 3300 | Minimum Element After Replacement With Digit Sum | ⚙️ C++ |
+| 3314 | Construct The Minimum Bitwise Array I | ⚙️ C++ |
 | 3340 | Check Balanced String | ⚙️ C++ |
 | 3379 | Transformed Array | 🟨 JavaScript |
 | 3432 | Count Partitions With Even Sum Difference | ⚙️ C++ |
