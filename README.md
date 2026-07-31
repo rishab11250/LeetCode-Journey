@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-410-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-413-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,9 +16,9 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 274 | 66.8% |
-| 🟨 JavaScript | 174 | 42.4% |
-| 🗄️ SQL | 26 | 6.3% |
+| ⚙️ C++ | 276 | 66.8% |
+| 🟨 JavaScript | 174 | 42.1% |
+| 🗄️ SQL | 27 | 6.5% |
 | 🐍 Python | 5 | 1.2% |
 | 🔷 TypeScript | 1 | 0.2% |
 
@@ -185,6 +185,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 1209 | Remove All Adjacent Duplicates In String I I | ⚙️ C++ |
 | 1221 | Split A String In Balanced Strings | ⚙️ C++ |
 | 1227 | Airplane Seat Assignment Probability | ⚙️ C++ |
+| 1248 | Count Number Of Nice Subarrays | ⚙️ C++ |
 | 1281 | Subtract The Product And Sum Of Digits Of An Integer | ⚙️ C++, 🟨 JavaScript |
 | 1282 | Group The People Given The Group Size They Belong To | 🟨 JavaScript |
 | 1323 | Maximum69 Number | ⚙️ C++ |
@@ -263,6 +264,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 1920 | Build Array From Permutation | ⚙️ C++, 🟨 JavaScript |
 | 1929 | Concatenation Of Array | 🟨 JavaScript |
 | 1952 | Three Divisors | ⚙️ C++ |
+| 1965 | Employees With Missing Information | 🗄️ SQL |
 | 1967 | Number Of Strings That Appear As Substrings In Word | ⚙️ C++ |
 | 1979 | Find Greatest Common Divisor Of Array | ⚙️ C++ |
 | 1995 | Count Special Quadruplets | ⚙️ C++ |
@@ -366,6 +368,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 2966 | Divide Array Into Arrays With Max Difference | ⚙️ C++ |
 | 2974 | Minimum Number Game | 🟨 JavaScript |
 | 3014 | Minimum Number Of Pushes To Type Word I | ⚙️ C++ |
+| 3016 | Minimum Number Of Pushes To Type Word I I | ⚙️ C++ |
 | 3019 | Number Of Changing Keys | ⚙️ C++, 🟨 JavaScript |
 | 3024 | Type Of Triangle | 🟨 JavaScript |
 | 3043 | Find The Length Of The Longest Common Prefix | ⚙️ C++ |
