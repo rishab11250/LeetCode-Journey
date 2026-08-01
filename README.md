@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-413-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-415-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,9 +16,9 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 276 | 66.8% |
-| 🟨 JavaScript | 174 | 42.1% |
-| 🗄️ SQL | 27 | 6.5% |
+| ⚙️ C++ | 276 | 66.5% |
+| 🟨 JavaScript | 174 | 41.9% |
+| 🗄️ SQL | 29 | 7.0% |
 | 🐍 Python | 5 | 1.2% |
 | 🔷 TypeScript | 1 | 0.2% |
 
@@ -88,6 +88,8 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 169 | Majority Element | ⚙️ C++, 🟨 JavaScript |
 | 171 | Excel Sheet Column Number | ⚙️ C++ |
 | 175 | Combine Two Tables | 🗄️ SQL |
+| 176 | Second Highest Salary | 🗄️ SQL |
+| 177 | Nth Highest Salary | 🗄️ SQL |
 | 181 | Employees Earning More Than Their Managers | 🗄️ SQL |
 | 182 | Duplicate Emails | 🗄️ SQL |
 | 189 | Rotate Array | ⚙️ C++, 🟨 JavaScript |
