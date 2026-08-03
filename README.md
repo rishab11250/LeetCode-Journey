@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-418-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-419-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,9 +16,9 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 278 | 66.5% |
-| 🟨 JavaScript | 174 | 41.6% |
-| 🗄️ SQL | 30 | 7.2% |
+| ⚙️ C++ | 278 | 66.3% |
+| 🟨 JavaScript | 174 | 41.5% |
+| 🗄️ SQL | 31 | 7.4% |
 | 🐍 Python | 5 | 1.2% |
 | 🔷 TypeScript | 1 | 0.2% |
 
@@ -96,6 +96,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 189 | Rotate Array | ⚙️ C++, 🟨 JavaScript |
 | 190 | Reverse Bits | ⚙️ C++ |
 | 191 | Number Of1 Bits | ⚙️ C++ |
+| 196 | Delete Duplicate Emails | 🗄️ SQL |
 | 202 | Happy Number | ⚙️ C++ |
 | 203 | Remove Linked List Elements | ⚙️ C++ |
 | 205 | Isomorphic Strings | ⚙️ C++ |
