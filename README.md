@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-422-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-424-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 282 | 66.8% |
-| 🟨 JavaScript | 174 | 41.2% |
+| ⚙️ C++ | 284 | 67.0% |
+| 🟨 JavaScript | 174 | 41.0% |
 | 🗄️ SQL | 31 | 7.3% |
 | 🐍 Python | 5 | 1.2% |
 | 🔷 TypeScript | 1 | 0.2% |
@@ -72,6 +72,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 71 | Simplify Path | ⚙️ C++ |
 | 75 | Sort Colors | ⚙️ C++, 🟨 JavaScript |
 | 81 | Search In Rotated Sorted Array I I | ⚙️ C++ |
+| 83 | Remove Duplicates From Sorted List | ⚙️ C++ |
 | 88 | Merge Sorted Array | ⚙️ C++, 🟨 JavaScript |
 | 118 | Pascals Triangle | ⚙️ C++ |
 | 121 | Best Time To Buy And Sell Stock | ⚙️ C++ |
@@ -155,6 +156,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 682 | Baseball Game | 🟨 JavaScript |
 | 693 | Binary Number With Alternating Bits | 🟨 JavaScript |
 | 704 | Binary Search | ⚙️ C++, 🟨 JavaScript |
+| 707 | Design Linked List | ⚙️ C++ |
 | 709 | To Lower Case | ⚙️ C++, 🟨 JavaScript |
 | 728 | Self Dividing Numbers | ⚙️ C++ |
 | 739 | Daily Temperatures | ⚙️ C++ |
