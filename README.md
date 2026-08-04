@@ -16,7 +16,7 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 281 | 66.6% |
+| ⚙️ C++ | 282 | 66.8% |
 | 🟨 JavaScript | 174 | 41.2% |
 | 🗄️ SQL | 31 | 7.3% |
 | 🐍 Python | 5 | 1.2% |
@@ -417,7 +417,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 3668 | Restore Finishing Order | ⚙️ C++, 🟨 JavaScript |
 | 3683 | Earliest Time To Finish One Task | ⚙️ C++ |
 | 3701 | Compute Alternating Sum | 🟨 JavaScript |
-| 3731 | Find Missing Elements | 🟨 JavaScript |
+| 3731 | Find Missing Elements | ⚙️ C++, 🟨 JavaScript |
 | 3737 | Count Subarrays With Majority Element I | ⚙️ C++ |
 | 3740 | Minimum Distance Between Three Equal Elements I | ⚙️ C++ |
 | 3750 | Minimum Number Of Flips To Reverse Binary String | 🟨 JavaScript |
