@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-428-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-436-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,10 +16,10 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 284 | 66.4% |
-| 🟨 JavaScript | 174 | 40.7% |
-| 🗄️ SQL | 35 | 8.2% |
-| 🐍 Python | 5 | 1.2% |
+| ⚙️ C++ | 288 | 66.1% |
+| 🟨 JavaScript | 174 | 39.9% |
+| 🗄️ SQL | 39 | 8.9% |
+| 🐍 Python | 5 | 1.1% |
 | 🔷 TypeScript | 1 | 0.2% |
 
 ---
@@ -82,6 +82,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 151 | Reverse Words In A String | ⚙️ C++, 🟨 JavaScript |
 | 153 | Find Minimum In Rotated Sorted Array | ⚙️ C++, 🟨 JavaScript |
 | 154 | Find Minimum In Rotated Sorted Array Ii | ⚙️ C++, 🟨 JavaScript |
+| 160 | Intersection Of Two Linked Lists | ⚙️ C++ |
 | 162 | Find Peak Element | 🟨 JavaScript |
 | 164 | Maximum Gap | 🟨 JavaScript |
 | 165 | Compare Version Numbers | ⚙️ C++ |
@@ -99,6 +100,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 190 | Reverse Bits | ⚙️ C++ |
 | 191 | Number Of1 Bits | ⚙️ C++ |
 | 196 | Delete Duplicate Emails | 🗄️ SQL |
+| 197 | Rising Temperature | 🗄️ SQL |
 | 202 | Happy Number | ⚙️ C++ |
 | 203 | Remove Linked List Elements | ⚙️ C++ |
 | 205 | Isomorphic Strings | ⚙️ C++ |
@@ -108,6 +110,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 219 | Contains Duplicate I I | ⚙️ C++ |
 | 228 | Summary Ranges | ⚙️ C++ |
 | 231 | Power Of Two | ⚙️ C++, 🟨 JavaScript |
+| 234 | Palindrome Linked List | ⚙️ C++ |
 | 237 | Delete Node In A Linked List | ⚙️ C++ |
 | 238 | Product Of Array Except Self | ⚙️ C++ |
 | 242 | Valid Anagram | ⚙️ C++, 🟨 JavaScript |
@@ -140,6 +143,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 506 | Relative Ranks | ⚙️ C++ |
 | 507 | Perfect Number | 🟨 JavaScript |
 | 511 | Game Play Analysis I | 🗄️ SQL |
+| 570 | Managers With At Least5 Direct Reports | 🗄️ SQL |
 | 577 | Employee Bonus | 🗄️ SQL |
 | 584 | Find Customer Referee | 🗄️ SQL |
 | 586 | Customer Placing The Largest Number Of Orders | 🗄️ SQL |
@@ -178,6 +182,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 985 | Sum Of Even Numbers After Queries | ⚙️ C++ |
 | 1002 | Find Common Characters | ⚙️ C++ |
 | 1009 | Complement Of Base10 Integer | ⚙️ C++ |
+| 1015 | Smallest Integer Divisible By K | ⚙️ C++ |
 | 1021 | Remove Outermost Parentheses | ⚙️ C++ |
 | 1025 | Divisor Game | ⚙️ C++ |
 | 1047 | Remove All Adjacent Duplicates In String | ⚙️ C++ |
@@ -190,6 +195,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 1141 | User Activity For The Past30 Days I | 🗄️ SQL |
 | 1148 | Article Views I | 🗄️ SQL |
 | 1189 | Maximum Number Of Balloons | ⚙️ C++ |
+| 1193 | Monthly Transactions I | 🗄️ SQL |
 | 1207 | Unique Number Of Occurrences | ⚙️ C++ |
 | 1209 | Remove All Adjacent Duplicates In String I I | ⚙️ C++ |
 | 1221 | Split A String In Balanced Strings | ⚙️ C++ |
@@ -278,12 +284,14 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 1952 | Three Divisors | ⚙️ C++ |
 | 1965 | Employees With Missing Information | 🗄️ SQL |
 | 1967 | Number Of Strings That Appear As Substrings In Word | ⚙️ C++ |
+| 1978 | Employees Whose Manager Left The Company | 🗄️ SQL |
 | 1979 | Find Greatest Common Divisor Of Array | ⚙️ C++ |
 | 1995 | Count Special Quadruplets | ⚙️ C++ |
 | 2000 | Reverse Prefixof Word | ⚙️ C++ |
 | 2011 | Final Value Of Variable After Performing Operations | 🟨 JavaScript |
 | 2037 | Minimum Number Of Moves To Seat Everyone | ⚙️ C++, 🟨 JavaScript |
 | 2042 | Check If Numbers Are Ascending In A Sentence | 🟨 JavaScript |
+| 2043 | Simple Bank System | ⚙️ C++ |
 | 2053 | Kth Distinct String In An Array | 🟨 JavaScript |
 | 2073 | Time Needed To Buy Tickets | ⚙️ C++ |
 | 2078 | Two Furthest Houses With Different Colors | ⚙️ C++ |
