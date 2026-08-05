@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-424-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-428-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,9 +16,9 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 284 | 67.0% |
-| 🟨 JavaScript | 174 | 41.0% |
-| 🗄️ SQL | 31 | 7.3% |
+| ⚙️ C++ | 284 | 66.4% |
+| 🟨 JavaScript | 174 | 40.7% |
+| 🗄️ SQL | 35 | 8.2% |
 | 🐍 Python | 5 | 1.2% |
 | 🔷 TypeScript | 1 | 0.2% |
 
@@ -93,6 +93,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 177 | Nth Highest Salary | 🗄️ SQL |
 | 181 | Employees Earning More Than Their Managers | 🗄️ SQL |
 | 182 | Duplicate Emails | 🗄️ SQL |
+| 183 | Customers Who Never Order | 🗄️ SQL |
 | 184 | Department Highest Salary | 🗄️ SQL |
 | 189 | Rotate Array | ⚙️ C++, 🟨 JavaScript |
 | 190 | Reverse Bits | ⚙️ C++ |
@@ -186,6 +187,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 1078 | Occurrences After Bigram | ⚙️ C++ |
 | 1108 | Defanging An Ip Address | 🟨 JavaScript |
 | 1137 | N Th Tribonacci Number | ⚙️ C++, 🟨 JavaScript |
+| 1141 | User Activity For The Past30 Days I | 🗄️ SQL |
 | 1148 | Article Views I | 🗄️ SQL |
 | 1189 | Maximum Number Of Balloons | ⚙️ C++ |
 | 1207 | Unique Number Of Occurrences | ⚙️ C++ |
@@ -206,6 +208,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 1351 | Count Negative Numbers In A Sorted Matrix | 🟨 JavaScript |
 | 1358 | Number Of Substrings Containing All Three Characters | ⚙️ C++ |
 | 1365 | How Many Numbers Are Smaller Than The Current Number | ⚙️ C++, 🟨 JavaScript |
+| 1378 | Replace Employee I D With The Unique Identifier | 🗄️ SQL |
 | 1389 | Create Target Array In The Given Order | 🟨 JavaScript |
 | 1394 | Find Lucky Integer In An Array | ⚙️ C++ |
 | 1404 | Number Of Steps To Reduce A Number In Binary Representation To One | 🟨 JavaScript |
@@ -233,6 +236,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 1550 | Three Consecutive Odds | 🟨 JavaScript |
 | 1551 | Minimum Operations To Make Array Equal | ⚙️ C++ |
 | 1561 | Maximum Number Of Coins You Can Get | ⚙️ C++ |
+| 1581 | Customer Who Visited But Did Not Make Any Transactions | 🗄️ SQL |
 | 1588 | Sum Of All Odd Length Subarrays | ⚙️ C++ |
 | 1637 | Widest Vertical Area Between Two Points Containing No Points | 🟨 JavaScript |
 | 1652 | Defuse The Bomb | ⚙️ C++ |
