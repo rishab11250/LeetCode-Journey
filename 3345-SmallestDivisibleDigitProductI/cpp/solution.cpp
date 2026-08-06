@@ -1,0 +1,28 @@
+#include <iostream>
+#include <string>
+#include <vector>
+#include <algorithm>
+using namespace std;
+
+class Solution {
+public:
+    int smallestNumber(int n, int t) {
+        int ans = n;
+        while(1){
+            int prod = 1;
+            int x = ans;
+            while(x>0){
+                prod *= x%10;
+                x = x/10;
+            }
+            if(prod%t == 0) break;
+            ans++;
+        }
+        return ans;
+    }
+};
+
+int main(){
+    
+    return 0;
+}
