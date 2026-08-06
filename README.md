@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-436-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-439-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 288 | 66.1% |
-| 🟨 JavaScript | 174 | 39.9% |
+| ⚙️ C++ | 291 | 66.3% |
+| 🟨 JavaScript | 174 | 39.6% |
 | 🗄️ SQL | 39 | 8.9% |
 | 🐍 Python | 5 | 1.1% |
 | 🔷 TypeScript | 1 | 0.2% |
@@ -55,6 +55,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 13 | Roman To Integer | ⚙️ C++, 🟨 JavaScript |
 | 14 | Longest Common Prefix | ⚙️ C++ |
 | 16 | 3 Sum Closest | ⚙️ C++ |
+| 24 | Swap Node In Pairs | ⚙️ C++ |
 | 26 | Remove Duplicates From Sorted Array | ⚙️ C++, 🟨 JavaScript |
 | 27 | Remove Element | ⚙️ C++, 🟨 JavaScript |
 | 28 | Find The Index Of The First Occurrence In A String | ⚙️ C++, 🟨 JavaScript |
@@ -62,6 +63,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 33 | Search In Rotated Sorted Array | ⚙️ C++ |
 | 34 | Find First And Last Position Of Element In Sorted Array | 🟨 JavaScript |
 | 35 | Search Insert Position | ⚙️ C++, 🟨 JavaScript |
+| 38 | Count Any Say | ⚙️ C++ |
 | 49 | Group Anagrams | ⚙️ C++ |
 | 50 | Powx N | ⚙️ C++, 🟨 JavaScript |
 | 58 | Length Of Last Word | ⚙️ C++, 🟨 JavaScript |
@@ -412,6 +414,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 3300 | Minimum Element After Replacement With Digit Sum | ⚙️ C++ |
 | 3314 | Construct The Minimum Bitwise Array I | ⚙️ C++ |
 | 3340 | Check Balanced String | ⚙️ C++ |
+| 3345 | Smallest Divisible Digit Product I | ⚙️ C++ |
 | 3379 | Transformed Array | 🟨 JavaScript |
 | 3432 | Count Partitions With Even Sum Difference | ⚙️ C++ |
 | 3461 | Check If Digits Are Equal In String After Operations I | ⚙️ C++ |
