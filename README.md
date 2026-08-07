@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-439-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-441-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,9 +16,9 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 291 | 66.3% |
-| 🟨 JavaScript | 174 | 39.6% |
-| 🗄️ SQL | 39 | 8.9% |
+| ⚙️ C++ | 293 | 66.4% |
+| 🟨 JavaScript | 174 | 39.5% |
+| 🗄️ SQL | 39 | 8.8% |
 | 🐍 Python | 5 | 1.1% |
 | 🔷 TypeScript | 1 | 0.2% |
 
@@ -74,8 +74,10 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 71 | Simplify Path | ⚙️ C++ |
 | 75 | Sort Colors | ⚙️ C++, 🟨 JavaScript |
 | 81 | Search In Rotated Sorted Array I I | ⚙️ C++ |
+| 82 | Remove Duplicates From Sorted List I I | ⚙️ C++ |
 | 83 | Remove Duplicates From Sorted List | ⚙️ C++ |
 | 88 | Merge Sorted Array | ⚙️ C++, 🟨 JavaScript |
+| 92 | Reverse Linked List I I | ⚙️ C++ |
 | 118 | Pascals Triangle | ⚙️ C++ |
 | 121 | Best Time To Buy And Sell Stock | ⚙️ C++ |
 | 125 | Valid Palindrome | ⚙️ C++, 🟨 JavaScript |
