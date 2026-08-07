@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-441-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-442-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 293 | 66.4% |
-| 🟨 JavaScript | 174 | 39.5% |
+| ⚙️ C++ | 294 | 66.5% |
+| 🟨 JavaScript | 174 | 39.4% |
 | 🗄️ SQL | 39 | 8.8% |
 | 🐍 Python | 5 | 1.1% |
 | 🔷 TypeScript | 1 | 0.2% |
@@ -67,6 +67,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 49 | Group Anagrams | ⚙️ C++ |
 | 50 | Powx N | ⚙️ C++, 🟨 JavaScript |
 | 58 | Length Of Last Word | ⚙️ C++, 🟨 JavaScript |
+| 61 | Rotate List | ⚙️ C++ |
 | 65 | Valid Number | 🟨 JavaScript |
 | 66 | Plus One | ⚙️ C++, 🟨 JavaScript |
 | 67 | Add Binary | 🟨 JavaScript |
