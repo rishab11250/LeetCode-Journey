@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-445-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-446-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,9 +16,9 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 297 | 66.7% |
-| 🟨 JavaScript | 174 | 39.1% |
-| 🗄️ SQL | 39 | 8.8% |
+| ⚙️ C++ | 298 | 66.8% |
+| 🟨 JavaScript | 174 | 39.0% |
+| 🗄️ SQL | 39 | 8.7% |
 | 🐍 Python | 5 | 1.1% |
 | 🔷 TypeScript | 1 | 0.2% |
 
@@ -128,6 +128,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 287 | Find The Duplicate Number | ⚙️ C++ |
 | 290 | Word Pattern | ⚙️ C++ |
 | 292 | Nim Game | ⚙️ C++ |
+| 318 | Maximum Product Of Word Lengths | ⚙️ C++ |
 | 326 | Power Of Three | ⚙️ C++, 🟨 JavaScript |
 | 338 | Counting Bits | ⚙️ C++ |
 | 342 | Power Of Four | ⚙️ C++, 🟨 JavaScript |
