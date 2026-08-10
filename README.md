@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-443-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-444-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 295 | 66.6% |
-| 🟨 JavaScript | 174 | 39.3% |
+| ⚙️ C++ | 296 | 66.7% |
+| 🟨 JavaScript | 174 | 39.2% |
 | 🗄️ SQL | 39 | 8.8% |
 | 🐍 Python | 5 | 1.1% |
 | 🔷 TypeScript | 1 | 0.2% |
@@ -208,6 +208,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 1248 | Count Number Of Nice Subarrays | ⚙️ C++ |
 | 1281 | Subtract The Product And Sum Of Digits Of An Integer | ⚙️ C++, 🟨 JavaScript |
 | 1282 | Group The People Given The Group Size They Belong To | 🟨 JavaScript |
+| 1290 | Convert Binary Number In A Linked List To Integer | ⚙️ C++ |
 | 1313 | Decompress Run- Length Encoded List | ⚙️ C++ |
 | 1323 | Maximum69 Number | ⚙️ C++ |
 | 1327 | List The Products Ordered In A Period | 🗄️ SQL |
