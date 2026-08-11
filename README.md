@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-446-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-449-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 298 | 66.8% |
-| 🟨 JavaScript | 174 | 39.0% |
+| ⚙️ C++ | 301 | 67.0% |
+| 🟨 JavaScript | 174 | 38.8% |
 | 🗄️ SQL | 39 | 8.7% |
 | 🐍 Python | 5 | 1.1% |
 | 🔷 TypeScript | 1 | 0.2% |
@@ -317,6 +317,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 2161 | Partition Array According To Given Pivot | ⚙️ C++, 🟨 JavaScript |
 | 2176 | Count Equal And Divisible Pairs In An Array | ⚙️ C++ |
 | 2180 | Count Integers With Even Digit Sum | ⚙️ C++ |
+| 2181 | Merge Nodes In Between Zeros | ⚙️ C++ |
 | 2220 | Minimum Bit Flips To Convert Number | 🟨 JavaScript |
 | 2221 | Find Triangular Sum Of An Array | 🟨 JavaScript |
 | 2235 | Add Two Integers | ⚙️ C++ |
@@ -395,6 +396,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 2951 | Find The Peaks | ⚙️ C++ |
 | 2966 | Divide Array Into Arrays With Max Difference | ⚙️ C++ |
 | 2974 | Minimum Number Game | 🟨 JavaScript |
+| 2996 | Smallest Missing Integer Greater Than Sequential Prefix Sum | ⚙️ C++ |
 | 3014 | Minimum Number Of Pushes To Type Word I | ⚙️ C++ |
 | 3016 | Minimum Number Of Pushes To Type Word I I | ⚙️ C++ |
 | 3019 | Number Of Changing Keys | ⚙️ C++, 🟨 JavaScript |
@@ -412,6 +414,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 3163 | String Compression I I I | ⚙️ C++ |
 | 3190 | Find Minimum Operations To Make All Elements Divisible By Three | 🟨 JavaScript |
 | 3194 | Minimum Average Of Smallest And Largest Elements | 🟨 JavaScript |
+| 3217 | Delete Nodes From Linked List Present In Array | ⚙️ C++ |
 | 3232 | Find If Digit Game Can Be Won | ⚙️ C++, 🟨 JavaScript |
 | 3264 | Final Array State After K Multiplication Operations I | 🟨 JavaScript |
 | 3280 | Convert Date To Binary | 🟨 JavaScript |
