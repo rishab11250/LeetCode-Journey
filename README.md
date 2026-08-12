@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-449-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-451-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,9 +16,9 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 301 | 67.0% |
-| 🟨 JavaScript | 174 | 38.8% |
-| 🗄️ SQL | 39 | 8.7% |
+| ⚙️ C++ | 304 | 67.4% |
+| 🟨 JavaScript | 174 | 38.6% |
+| 🗄️ SQL | 39 | 8.6% |
 | 🐍 Python | 5 | 1.1% |
 | 🔷 TypeScript | 1 | 0.2% |
 
@@ -102,6 +102,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 182 | Duplicate Emails | 🗄️ SQL |
 | 183 | Customers Who Never Order | 🗄️ SQL |
 | 184 | Department Highest Salary | 🗄️ SQL |
+| 187 | Repeated D N A Sequences | ⚙️ C++ |
 | 189 | Rotate Array | ⚙️ C++, 🟨 JavaScript |
 | 190 | Reverse Bits | ⚙️ C++ |
 | 191 | Number Of1 Bits | ⚙️ C++ |
@@ -252,7 +253,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 1561 | Maximum Number Of Coins You Can Get | ⚙️ C++ |
 | 1581 | Customer Who Visited But Did Not Make Any Transactions | 🗄️ SQL |
 | 1588 | Sum Of All Odd Length Subarrays | ⚙️ C++ |
-| 1637 | Widest Vertical Area Between Two Points Containing No Points | 🟨 JavaScript |
+| 1637 | Widest Vertical Area Between Two Points Containing No Points | ⚙️ C++, 🟨 JavaScript |
 | 1652 | Defuse The Bomb | ⚙️ C++ |
 | 1669 | Merge In Between Linked Lists | ⚙️ C++ |
 | 1672 | Richest Customer Wealth | ⚙️ C++, 🟨 JavaScript |
@@ -343,6 +344,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 2475 | Number Of Unequal Triplets In Array | ⚙️ C++ |
 | 2481 | Minimum Cuts To Divide A Circle | 🟨 JavaScript |
 | 2485 | Find The Pivot Integer | 🟨 JavaScript |
+| 2487 | Remove Nodes From Linked List | ⚙️ C++ |
 | 2490 | Circular Sentence | ⚙️ C++ |
 | 2496 | Maximum Value Of A String In An Array | 🟨 JavaScript |
 | 2515 | Shortest Distance To Target String In A Circular Array | ⚙️ C++ |
