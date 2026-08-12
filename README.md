@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-451-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-452-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 304 | 67.4% |
-| 🟨 JavaScript | 174 | 38.6% |
+| ⚙️ C++ | 305 | 67.5% |
+| 🟨 JavaScript | 174 | 38.5% |
 | 🗄️ SQL | 39 | 8.6% |
 | 🐍 Python | 5 | 1.1% |
 | 🔷 TypeScript | 1 | 0.2% |
@@ -45,6 +45,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | # | Problem | Languages |
 |--:|:--------|:----------|
 | 1 | Two Sum | ⚙️ C++, 🟨 JavaScript |
+| 2 | Add Two Numbers | ⚙️ C++ |
 | 3 | Longest Substring Without Repeating Characters | ⚙️ C++ |
 | 4 | Median Of Two Sorted Arrays | ⚙️ C++, 🟨 JavaScript |
 | 7 | Reverse Integer | 🟨 JavaScript |
