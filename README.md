@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-454-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-455-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 307 | 67.6% |
-| 🟨 JavaScript | 174 | 38.3% |
+| ⚙️ C++ | 308 | 67.7% |
+| 🟨 JavaScript | 174 | 38.2% |
 | 🗄️ SQL | 39 | 8.6% |
 | 🐍 Python | 5 | 1.1% |
 | 🔷 TypeScript | 1 | 0.2% |
@@ -498,6 +498,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 4006 | Count Valid Prefixes | ⚙️ C++ |
 | 4010 | Maximize Pair Strength Using G C D | ⚙️ C++ |
 | 4014 | Minimum Total Price After Applying Discounts | ⚙️ C++ |
+| 4020 | Elevator Requests I | ⚙️ C++ |
 
 ---
 
