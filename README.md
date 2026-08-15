@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-452-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-453-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 305 | 67.5% |
-| 🟨 JavaScript | 174 | 38.5% |
+| ⚙️ C++ | 306 | 67.5% |
+| 🟨 JavaScript | 174 | 38.4% |
 | 🗄️ SQL | 39 | 8.6% |
 | 🐍 Python | 5 | 1.1% |
 | 🔷 TypeScript | 1 | 0.2% |
@@ -192,6 +192,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 1002 | Find Common Characters | ⚙️ C++ |
 | 1009 | Complement Of Base10 Integer | ⚙️ C++ |
 | 1015 | Smallest Integer Divisible By K | ⚙️ C++ |
+| 1019 | Next Greater Node In Linked List | ⚙️ C++ |
 | 1021 | Remove Outermost Parentheses | ⚙️ C++ |
 | 1025 | Divisor Game | ⚙️ C++ |
 | 1047 | Remove All Adjacent Duplicates In String | ⚙️ C++ |
