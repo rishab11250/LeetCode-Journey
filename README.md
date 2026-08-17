@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-455-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-459-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,9 +16,9 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 308 | 67.7% |
-| 🟨 JavaScript | 174 | 38.2% |
-| 🗄️ SQL | 39 | 8.6% |
+| ⚙️ C++ | 312 | 68.0% |
+| 🟨 JavaScript | 174 | 37.9% |
+| 🗄️ SQL | 39 | 8.5% |
 | 🐍 Python | 5 | 1.1% |
 | 🔷 TypeScript | 1 | 0.2% |
 
@@ -139,6 +139,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 387 | First Unique Character In A String | ⚙️ C++, 🟨 JavaScript |
 | 394 | Decode String | ⚙️ C++ |
 | 412 | Fizz Buzz | ⚙️ C++ |
+| 430 | Flatten A Multilevel Doubly Linked List | ⚙️ C++ |
 | 434 | Numberof Segmentsina String | ⚙️ C++ |
 | 438 | Find All Anagrams In A String | ⚙️ C++ |
 | 442 | Find All Duplicates In An Array | ⚙️ C++ |
@@ -187,6 +188,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 905 | Sort Array By Parity | ⚙️ C++ |
 | 917 | Reverse Only Letters | ⚙️ C++ |
 | 942 | D I String Match | ⚙️ C++ |
+| 945 | Minimum Increment To Make Array Unique | ⚙️ C++ |
 | 977 | Squares Of A Sorted Array | 🟨 JavaScript |
 | 985 | Sum Of Even Numbers After Queries | ⚙️ C++ |
 | 1002 | Find Common Characters | ⚙️ C++ |
@@ -499,6 +501,8 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 4010 | Maximize Pair Strength Using G C D | ⚙️ C++ |
 | 4014 | Minimum Total Price After Applying Discounts | ⚙️ C++ |
 | 4020 | Elevator Requests I | ⚙️ C++ |
+| 4024 | Nearest Available Drone | ⚙️ C++ |
+| 4025 | Minimize The Maximum Waiting Time At Synchronized Traffic Lights | ⚙️ C++ |
 
 ---
 
