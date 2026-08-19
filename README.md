@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-459-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-462-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,9 +16,9 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 312 | 68.0% |
-| 🟨 JavaScript | 174 | 37.9% |
-| 🗄️ SQL | 39 | 8.5% |
+| ⚙️ C++ | 315 | 68.2% |
+| 🟨 JavaScript | 174 | 37.7% |
+| 🗄️ SQL | 39 | 8.4% |
 | 🐍 Python | 5 | 1.1% |
 | 🔷 TypeScript | 1 | 0.2% |
 
@@ -132,6 +132,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 292 | Nim Game | ⚙️ C++ |
 | 318 | Maximum Product Of Word Lengths | ⚙️ C++ |
 | 326 | Power Of Three | ⚙️ C++, 🟨 JavaScript |
+| 328 | Odd Even Linked List | ⚙️ C++ |
 | 338 | Counting Bits | ⚙️ C++ |
 | 342 | Power Of Four | ⚙️ C++, 🟨 JavaScript |
 | 344 | Reverse String | ⚙️ C++ |
@@ -282,6 +283,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 1812 | Determine Color Of A Chessboard Square | ⚙️ C++, 🟨 JavaScript |
 | 1816 | Truncate Sentence | ⚙️ C++, 🟨 JavaScript |
 | 1822 | Sign Of The Product Of An Array | ⚙️ C++, 🟨 JavaScript |
+| 1827 | Minimum Operations To Make The Array Increasing | ⚙️ C++ |
 | 1828 | Queries On Number Of Points Inside A Circle | 🟨 JavaScript |
 | 1832 | Check If The Sentence Is Pangram | ⚙️ C++, 🟨 JavaScript |
 | 1833 | Maximum Ice Cream Bars | ⚙️ C++ |
@@ -434,6 +436,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 3432 | Count Partitions With Even Sum Difference | ⚙️ C++ |
 | 3461 | Check If Digits Are Equal In String After Operations I | ⚙️ C++ |
 | 3467 | Transform Array By Parity | 🟨 JavaScript |
+| 3471 | Find The Largest Almost Missing Integer | ⚙️ C++ |
 | 3475 | Dna Pattern Recognition | 🗄️ SQL |
 | 3498 | Reverse Degree Of A String | 🟨 JavaScript |
 | 3502 | Minimum Cost To Reach Every Position | 🟨 JavaScript |
