@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-462-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-465-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 315 | 68.2% |
-| 🟨 JavaScript | 174 | 37.7% |
+| ⚙️ C++ | 318 | 68.4% |
+| 🟨 JavaScript | 174 | 37.4% |
 | 🗄️ SQL | 39 | 8.4% |
 | 🐍 Python | 5 | 1.1% |
 | 🔷 TypeScript | 1 | 0.2% |
@@ -67,6 +67,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 38 | Count Any Say | ⚙️ C++ |
 | 49 | Group Anagrams | ⚙️ C++ |
 | 50 | Powx N | ⚙️ C++, 🟨 JavaScript |
+| 56 | Merge Intervals | ⚙️ C++ |
 | 58 | Length Of Last Word | ⚙️ C++, 🟨 JavaScript |
 | 61 | Rotate List | ⚙️ C++ |
 | 65 | Valid Number | 🟨 JavaScript |
@@ -74,6 +75,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 67 | Add Binary | 🟨 JavaScript |
 | 69 | Sqrtx | ⚙️ C++, 🟨 JavaScript |
 | 71 | Simplify Path | ⚙️ C++ |
+| 73 | Set Matrix Zeroes | ⚙️ C++ |
 | 75 | Sort Colors | ⚙️ C++, 🟨 JavaScript |
 | 81 | Search In Rotated Sorted Array I I | ⚙️ C++ |
 | 82 | Remove Duplicates From Sorted List I I | ⚙️ C++ |
@@ -411,6 +413,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 3024 | Type Of Triangle | 🟨 JavaScript |
 | 3043 | Find The Length Of The Longest Common Prefix | ⚙️ C++ |
 | 3065 | Minimum Operations To Exceed Threshold Value I | ⚙️ C++ |
+| 3069 | Distribute Elements Into Two Arrays I | ⚙️ C++ |
 | 3079 | Find The Sum Of Encrypted Integers | ⚙️ C++ |
 | 3099 | Harshad Number | 🟨 JavaScript |
 | 3110 | Score Of A String | 🟨 JavaScript |
