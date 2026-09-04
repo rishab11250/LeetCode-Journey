@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-466-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-467-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,7 +16,7 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 319 | 68.5% |
+| ⚙️ C++ | 320 | 68.5% |
 | 🟨 JavaScript | 174 | 37.3% |
 | 🗄️ SQL | 39 | 8.4% |
 | 🐍 Python | 5 | 1.1% |
@@ -142,6 +142,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 387 | First Unique Character In A String | ⚙️ C++, 🟨 JavaScript |
 | 394 | Decode String | ⚙️ C++ |
 | 412 | Fizz Buzz | ⚙️ C++ |
+| 414 | Third Maximum Number | ⚙️ C++ |
 | 430 | Flatten A Multilevel Doubly Linked List | ⚙️ C++ |
 | 434 | Numberof Segmentsina String | ⚙️ C++ |
 | 438 | Find All Anagrams In A String | ⚙️ C++ |
