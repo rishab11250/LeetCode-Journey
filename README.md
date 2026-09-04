@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-465-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-466-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 318 | 68.4% |
-| 🟨 JavaScript | 174 | 37.4% |
+| ⚙️ C++ | 319 | 68.5% |
+| 🟨 JavaScript | 174 | 37.3% |
 | 🗄️ SQL | 39 | 8.4% |
 | 🐍 Python | 5 | 1.1% |
 | 🔷 TypeScript | 1 | 0.2% |
@@ -471,6 +471,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 3857 | Minimum Cost To Split Into Ones | ⚙️ C++ |
 | 3867 | Sum Of G C D Of Formed Pairs | ⚙️ C++ |
 | 3870 | Count Commas In Range | ⚙️ C++ |
+| 3875 | Construct Uniform Parity Array I | ⚙️ C++ |
 | 3880 | Minimum Absolute Difference Between Two Values | ⚙️ C++ |
 | 3884 | First Matching Character From Both Ends | ⚙️ C++ |
 | 3890 | Integers With Multiple Sum Of Two Cubes | ⚙️ C++ |
