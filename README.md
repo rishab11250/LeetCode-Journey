@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-467-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-469-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,9 +16,9 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 320 | 68.5% |
-| 🟨 JavaScript | 174 | 37.3% |
-| 🗄️ SQL | 39 | 8.4% |
+| ⚙️ C++ | 322 | 68.7% |
+| 🟨 JavaScript | 174 | 37.1% |
+| 🗄️ SQL | 39 | 8.3% |
 | 🐍 Python | 5 | 1.1% |
 | 🔷 TypeScript | 1 | 0.2% |
 
@@ -187,6 +187,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 796 | Rotate String | ⚙️ C++ |
 | 832 | Flipping An Image | 🟨 JavaScript |
 | 868 | Binary Gap | 🟨 JavaScript |
+| 876 | Middle Of The Linked List | ⚙️ C++ |
 | 877 | Stone Game | ⚙️ C++ |
 | 896 | Monotonic Array | ⚙️ C++ |
 | 905 | Sort Array By Parity | ⚙️ C++ |
@@ -511,6 +512,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 4020 | Elevator Requests I | ⚙️ C++ |
 | 4024 | Nearest Available Drone | ⚙️ C++ |
 | 4025 | Minimize The Maximum Waiting Time At Synchronized Traffic Lights | ⚙️ C++ |
+| 4043 | Count Rotations With Exactly K Equal Adjacent Pairs | ⚙️ C++ |
 
 ---
 
