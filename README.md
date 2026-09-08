@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-469-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-471-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 322 | 68.7% |
-| 🟨 JavaScript | 174 | 37.1% |
+| ⚙️ C++ | 324 | 68.8% |
+| 🟨 JavaScript | 174 | 36.9% |
 | 🗄️ SQL | 39 | 8.3% |
 | 🐍 Python | 5 | 1.1% |
 | 🔷 TypeScript | 1 | 0.2% |
@@ -87,6 +87,8 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 121 | Best Time To Buy And Sell Stock | ⚙️ C++ |
 | 125 | Valid Palindrome | ⚙️ C++, 🟨 JavaScript |
 | 136 | Single Number | ⚙️ C++, 🟨 JavaScript |
+| 141 | Linked List Cycle | ⚙️ C++ |
+| 142 | Linked List Cycle I I | ⚙️ C++ |
 | 150 | Evaluate Reverse Polish Notation | ⚙️ C++ |
 | 151 | Reverse Words In A String | ⚙️ C++, 🟨 JavaScript |
 | 153 | Find Minimum In Rotated Sorted Array | ⚙️ C++, 🟨 JavaScript |
