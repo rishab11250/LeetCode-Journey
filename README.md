@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-471-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-472-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,7 +16,7 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 324 | 68.8% |
+| ⚙️ C++ | 325 | 68.9% |
 | 🟨 JavaScript | 174 | 36.9% |
 | 🗄️ SQL | 39 | 8.3% |
 | 🐍 Python | 5 | 1.1% |
@@ -56,6 +56,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 13 | Roman To Integer | ⚙️ C++, 🟨 JavaScript |
 | 14 | Longest Common Prefix | ⚙️ C++ |
 | 16 | 3 Sum Closest | ⚙️ C++ |
+| 19 | Remove Nth Node From Endof List | ⚙️ C++ |
 | 24 | Swap Node In Pairs | ⚙️ C++ |
 | 26 | Remove Duplicates From Sorted Array | ⚙️ C++, 🟨 JavaScript |
 | 27 | Remove Element | ⚙️ C++, 🟨 JavaScript |
