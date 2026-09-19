@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-472-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-473-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,9 +16,9 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 325 | 68.9% |
-| 🟨 JavaScript | 174 | 36.9% |
-| 🗄️ SQL | 39 | 8.3% |
+| ⚙️ C++ | 326 | 68.9% |
+| 🟨 JavaScript | 174 | 36.8% |
+| 🗄️ SQL | 39 | 8.2% |
 | 🐍 Python | 5 | 1.1% |
 | 🔷 TypeScript | 1 | 0.2% |
 
@@ -238,6 +238,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 1378 | Replace Employee I D With The Unique Identifier | 🗄️ SQL |
 | 1389 | Create Target Array In The Given Order | 🟨 JavaScript |
 | 1394 | Find Lucky Integer In An Array | ⚙️ C++ |
+| 1401 | Circleand Rectangle Overlapping | ⚙️ C++ |
 | 1404 | Number Of Steps To Reduce A Number In Binary Representation To One | 🟨 JavaScript |
 | 1408 | String Matching In An Array | ⚙️ C++ |
 | 1409 | Queries On A Permutation With Key | 🟨 JavaScript |
