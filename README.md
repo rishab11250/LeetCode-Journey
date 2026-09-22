@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-473-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-476-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 326 | 68.9% |
-| 🟨 JavaScript | 174 | 36.8% |
+| ⚙️ C++ | 329 | 69.1% |
+| 🟨 JavaScript | 174 | 36.6% |
 | 🗄️ SQL | 39 | 8.2% |
 | 🐍 Python | 5 | 1.1% |
 | 🔷 TypeScript | 1 | 0.2% |
@@ -517,6 +517,9 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 4024 | Nearest Available Drone | ⚙️ C++ |
 | 4025 | Minimize The Maximum Waiting Time At Synchronized Traffic Lights | ⚙️ C++ |
 | 4043 | Count Rotations With Exactly K Equal Adjacent Pairs | ⚙️ C++ |
+| 4048 | Count Values With Equally Spaced Occurrences I | ⚙️ C++ |
+| 4049 | Count Values With Equally Spaced Occurrences I I | ⚙️ C++ |
+| 4056 | Number Of Intersecting Interval Pairs I | ⚙️ C++ |
 
 ---
 
