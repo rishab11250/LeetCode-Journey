@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-476-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-478-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,10 +16,10 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 329 | 69.1% |
-| 🟨 JavaScript | 174 | 36.6% |
-| 🗄️ SQL | 39 | 8.2% |
-| 🐍 Python | 5 | 1.1% |
+| ⚙️ C++ | 329 | 68.8% |
+| 🟨 JavaScript | 174 | 36.4% |
+| 🗄️ SQL | 41 | 8.6% |
+| 🐍 Python | 5 | 1.0% |
 | 🔷 TypeScript | 1 | 0.2% |
 
 ---
@@ -268,6 +268,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 1588 | Sum Of All Odd Length Subarrays | ⚙️ C++ |
 | 1637 | Widest Vertical Area Between Two Points Containing No Points | ⚙️ C++, 🟨 JavaScript |
 | 1652 | Defuse The Bomb | ⚙️ C++ |
+| 1661 | Average Time Of Process Per Machine | 🗄️ SQL |
 | 1669 | Merge In Between Linked Lists | ⚙️ C++ |
 | 1672 | Richest Customer Wealth | ⚙️ C++, 🟨 JavaScript |
 | 1678 | Goal Parser Interpretation | ⚙️ C++, 🟨 JavaScript |
@@ -304,6 +305,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 1890 | The Latest Login In2020 | 🗄️ SQL |
 | 1920 | Build Array From Permutation | ⚙️ C++, 🟨 JavaScript |
 | 1929 | Concatenation Of Array | 🟨 JavaScript |
+| 1934 | Confirmation Rate | 🗄️ SQL |
 | 1952 | Three Divisors | ⚙️ C++ |
 | 1965 | Employees With Missing Information | 🗄️ SQL |
 | 1967 | Number Of Strings That Appear As Substrings In Word | ⚙️ C++ |
