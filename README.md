@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-478-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-480-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,9 +16,9 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 329 | 68.8% |
-| 🟨 JavaScript | 174 | 36.4% |
-| 🗄️ SQL | 41 | 8.6% |
+| ⚙️ C++ | 331 | 69.0% |
+| 🟨 JavaScript | 174 | 36.3% |
+| 🗄️ SQL | 41 | 8.5% |
 | 🐍 Python | 5 | 1.0% |
 | 🔷 TypeScript | 1 | 0.2% |
 
@@ -522,6 +522,8 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 4048 | Count Values With Equally Spaced Occurrences I | ⚙️ C++ |
 | 4049 | Count Values With Equally Spaced Occurrences I I | ⚙️ C++ |
 | 4056 | Number Of Intersecting Interval Pairs I | ⚙️ C++ |
+| 4061 | Minimum Queen Moves To Reach Target | ⚙️ C++ |
+| 4065 | Rearrange Array By Removing Distinct Values | ⚙️ C++ |
 
 ---
 
