@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-480-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-482-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,9 +16,9 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 331 | 69.0% |
-| 🟨 JavaScript | 174 | 36.3% |
-| 🗄️ SQL | 41 | 8.5% |
+| ⚙️ C++ | 331 | 68.7% |
+| 🟨 JavaScript | 174 | 36.1% |
+| 🗄️ SQL | 43 | 8.9% |
 | 🐍 Python | 5 | 1.0% |
 | 🔷 TypeScript | 1 | 0.2% |
 
@@ -167,6 +167,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 594 | Longest Harmonious Subsequence | ⚙️ C++ |
 | 595 | Big Countries | 🗄️ SQL |
 | 596 | Classes With At Least5 Students | 🗄️ SQL |
+| 607 | Sales Person | 🗄️ SQL |
 | 610 | Triangle Judgement | 🗄️ SQL |
 | 619 | Biggest Single Number | 🗄️ SQL |
 | 620 | Not Boring Movies | 🗄️ SQL |
@@ -301,6 +302,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 1848 | Minimum Distance To The Target Element | ⚙️ C++ |
 | 1859 | Sorting The Sentence | ⚙️ C++ |
 | 1863 | Sum Of All Subset Xor Totals | 🟨 JavaScript |
+| 1873 | Calculate Special Bonus | 🗄️ SQL |
 | 1877 | Minimize Maximum Pair Sum In Array | 🟨 JavaScript |
 | 1890 | The Latest Login In2020 | 🗄️ SQL |
 | 1920 | Build Array From Permutation | ⚙️ C++, 🟨 JavaScript |
