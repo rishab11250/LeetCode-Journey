@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-484-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-487-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,9 +16,9 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 333 | 68.8% |
-| 🟨 JavaScript | 174 | 36.0% |
-| 🗄️ SQL | 43 | 8.9% |
+| ⚙️ C++ | 335 | 68.8% |
+| 🟨 JavaScript | 175 | 35.9% |
+| 🗄️ SQL | 43 | 8.8% |
 | 🐍 Python | 5 | 1.0% |
 | 🔷 TypeScript | 1 | 0.2% |
 
@@ -212,6 +212,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 1050 | Actors And Directors Who Cooperated At Least Three Times | 🗄️ SQL |
 | 1051 | Height Checker | ⚙️ C++ |
 | 1068 | Product Sales Analysis I | 🗄️ SQL |
+| 1071 | Greatest Common Divisor Of Strings | ⚙️ C++ |
 | 1078 | Occurrences After Bigram | ⚙️ C++ |
 | 1108 | Defanging An Ip Address | 🟨 JavaScript |
 | 1137 | N Th Tribonacci Number | ⚙️ C++, 🟨 JavaScript |
@@ -226,6 +227,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 1248 | Count Number Of Nice Subarrays | ⚙️ C++ |
 | 1281 | Subtract The Product And Sum Of Digits Of An Integer | ⚙️ C++, 🟨 JavaScript |
 | 1282 | Group The People Given The Group Size They Belong To | 🟨 JavaScript |
+| 1287 | Element Appearing More Than25% In Sorted Array | ⚙️ C++ |
 | 1290 | Convert Binary Number In A Linked List To Integer | ⚙️ C++ |
 | 1313 | Decompress Run- Length Encoded List | ⚙️ C++ |
 | 1323 | Maximum69 Number | ⚙️ C++ |
@@ -383,6 +385,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 2587 | Rearrange Array To Maximize Prefix Score | ⚙️ C++ |
 | 2610 | Convertan Array Intoa2 D Array With Conditions | ⚙️ C++ |
 | 2620 | Counter | 🟨 JavaScript |
+| 2625 | Flatten Deeply Nested Array | 🟨 JavaScript |
 | 2648 | Generate Fibonacci Sequence | 🟨 JavaScript |
 | 2651 | Calculate Delayed Arrival Time | 🟨 JavaScript |
 | 2652 | Sum Multiples | ⚙️ C++, 🟨 JavaScript |
