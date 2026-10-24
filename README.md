@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-488-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-489-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 336 | 68.9% |
-| 🟨 JavaScript | 175 | 35.9% |
+| ⚙️ C++ | 337 | 68.9% |
+| 🟨 JavaScript | 175 | 35.8% |
 | 🗄️ SQL | 43 | 8.8% |
 | 🐍 Python | 5 | 1.0% |
 | 🔷 TypeScript | 1 | 0.2% |
@@ -355,6 +355,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 2367 | Number Of Arithmetic Triplets | ⚙️ C++ |
 | 2396 | Strictly Palindromic Number | 🟨 JavaScript |
 | 2404 | Most Frequent Even Element | ⚙️ C++ |
+| 2409 | Count Days Spent Together | ⚙️ C++ |
 | 2410 | Maximum Matching Of Players With Trainers | ⚙️ C++ |
 | 2413 | Smallest Even Multiple | ⚙️ C++, 🟨 JavaScript |
 | 2418 | Sort The People | 🟨 JavaScript |
