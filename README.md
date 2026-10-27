@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-490-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-493-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,9 +16,9 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 338 | 69.0% |
-| 🟨 JavaScript | 175 | 35.7% |
-| 🗄️ SQL | 43 | 8.8% |
+| ⚙️ C++ | 341 | 69.2% |
+| 🟨 JavaScript | 175 | 35.5% |
+| 🗄️ SQL | 43 | 8.7% |
 | 🐍 Python | 5 | 1.0% |
 | 🔷 TypeScript | 1 | 0.2% |
 
@@ -534,6 +534,9 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 4056 | Number Of Intersecting Interval Pairs I | ⚙️ C++ |
 | 4061 | Minimum Queen Moves To Reach Target | ⚙️ C++ |
 | 4065 | Rearrange Array By Removing Distinct Values | ⚙️ C++ |
+| 4088 | Difference Between Peaks And Valleys | ⚙️ C++ |
+| 4089 | Count Subarrays With Loose Bounds | ⚙️ C++ |
+| 4092 | Binary Digit Score | ⚙️ C++ |
 
 ---
 
