@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-489-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-490-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 337 | 68.9% |
-| 🟨 JavaScript | 175 | 35.8% |
+| ⚙️ C++ | 338 | 69.0% |
+| 🟨 JavaScript | 175 | 35.7% |
 | 🗄️ SQL | 43 | 8.8% |
 | 🐍 Python | 5 | 1.0% |
 | 🔷 TypeScript | 1 | 0.2% |
@@ -510,6 +510,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 3950 | Exactly One Consecutive Set Bits Pair | ⚙️ C++ |
 | 3954 | Sumof Compatible Numbersin Range I | ⚙️ C++ |
 | 3959 | Check Good Integer | ⚙️ C++ |
+| 3963 | Create Grid With Exactly One Path | ⚙️ C++ |
 | 3968 | Maximum Manhattan Distance After All Moves | ⚙️ C++ |
 | 3969 | Valid Subarrays With Matching Sum Digits I | ⚙️ C++ |
 | 3974 | Maximum Total Sum Of K Selected Elements | ⚙️ C++ |
