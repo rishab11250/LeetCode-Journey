@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-494-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-497-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 342 | 69.2% |
-| 🟨 JavaScript | 175 | 35.4% |
+| ⚙️ C++ | 345 | 69.4% |
+| 🟨 JavaScript | 175 | 35.2% |
 | 🗄️ SQL | 43 | 8.7% |
 | 🐍 Python | 5 | 1.0% |
 | 🔷 TypeScript | 1 | 0.2% |
@@ -538,6 +538,9 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 4089 | Count Subarrays With Loose Bounds | ⚙️ C++ |
 | 4092 | Binary Digit Score | ⚙️ C++ |
 | 4097 | Minimum Value Of Merged Integers | ⚙️ C++ |
+| 4116 | Assign Umbrella On Rainy Days | ⚙️ C++ |
+| 4117 | Minimum Range After Sum Operations | ⚙️ C++ |
+| 4120 | Count Dominant Elements | ⚙️ C++ |
 
 ---
 
