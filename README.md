@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-497-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-499-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,9 +16,9 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 345 | 69.4% |
-| 🟨 JavaScript | 175 | 35.2% |
-| 🗄️ SQL | 43 | 8.7% |
+| ⚙️ C++ | 347 | 69.5% |
+| 🟨 JavaScript | 175 | 35.1% |
+| 🗄️ SQL | 43 | 8.6% |
 | 🐍 Python | 5 | 1.0% |
 | 🔷 TypeScript | 1 | 0.2% |
 
@@ -272,6 +272,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 1561 | Maximum Number Of Coins You Can Get | ⚙️ C++ |
 | 1581 | Customer Who Visited But Did Not Make Any Transactions | 🗄️ SQL |
 | 1588 | Sum Of All Odd Length Subarrays | ⚙️ C++ |
+| 1614 | Maximum Nesting Depth Of The Parentheses | ⚙️ C++ |
 | 1637 | Widest Vertical Area Between Two Points Containing No Points | ⚙️ C++, 🟨 JavaScript |
 | 1652 | Defuse The Bomb | ⚙️ C++ |
 | 1661 | Average Time Of Process Per Machine | 🗄️ SQL |
@@ -452,6 +453,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 3314 | Construct The Minimum Bitwise Array I | ⚙️ C++ |
 | 3340 | Check Balanced String | ⚙️ C++ |
 | 3345 | Smallest Divisible Digit Product I | ⚙️ C++ |
+| 3360 | Stone Removal Game | ⚙️ C++ |
 | 3379 | Transformed Array | 🟨 JavaScript |
 | 3432 | Count Partitions With Even Sum Difference | ⚙️ C++ |
 | 3461 | Check If Digits Are Equal In String After Operations I | ⚙️ C++ |
