@@ -5,7 +5,7 @@
 **A curated collection of my LeetCode solutions — building consistency, one problem at a time.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishab11250/)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-499-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-501-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-5-blue?style=for-the-badge)
 
 </div>
@@ -16,8 +16,8 @@
 
 | Language | Problems | Percentage |
 |:---------|:--------:|:----------:|
-| ⚙️ C++ | 347 | 69.5% |
-| 🟨 JavaScript | 175 | 35.1% |
+| ⚙️ C++ | 350 | 69.9% |
+| 🟨 JavaScript | 175 | 34.9% |
 | 🗄️ SQL | 43 | 8.6% |
 | 🐍 Python | 5 | 1.0% |
 | 🔷 TypeScript | 1 | 0.2% |
@@ -87,6 +87,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 86 | Partition List | ⚙️ C++ |
 | 88 | Merge Sorted Array | ⚙️ C++, 🟨 JavaScript |
 | 92 | Reverse Linked List I I | ⚙️ C++ |
+| 94 | Binary Tree Inorder Traversal | ⚙️ C++ |
 | 118 | Pascals Triangle | ⚙️ C++ |
 | 121 | Best Time To Buy And Sell Stock | ⚙️ C++ |
 | 125 | Valid Palindrome | ⚙️ C++, 🟨 JavaScript |
@@ -179,7 +180,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 643 | Maximum Average Subarray I | ⚙️ C++ |
 | 645 | Set Mismatch | ⚙️ C++ |
 | 657 | Robot Return To Origin | ⚙️ C++, 🟨 JavaScript |
-| 682 | Baseball Game | 🟨 JavaScript |
+| 682 | Baseball Game | ⚙️ C++, 🟨 JavaScript |
 | 693 | Binary Number With Alternating Bits | 🟨 JavaScript |
 | 704 | Binary Search | ⚙️ C++, 🟨 JavaScript |
 | 707 | Design Linked List | ⚙️ C++ |
@@ -354,6 +355,7 @@ Each problem can have multiple language solutions organized in subdirectories:
 | 2357 | Make Array Zero By Subtracting Equal Amounts | ⚙️ C++ |
 | 2363 | Merge Similar Items | ⚙️ C++ |
 | 2367 | Number Of Arithmetic Triplets | ⚙️ C++ |
+| 2379 | Minimum Recolors To Get K Consecutive Black Blocks | ⚙️ C++ |
 | 2396 | Strictly Palindromic Number | 🟨 JavaScript |
 | 2404 | Most Frequent Even Element | ⚙️ C++ |
 | 2409 | Count Days Spent Together | ⚙️ C++ |
